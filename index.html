@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="es-CO">
+<html lang="es-CO" class="no-js">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -13,104 +13,144 @@
 <meta property="og:description" content="¿Se cumplió o quedó en anuncio? Seguimiento ciudadano con fuentes.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header class="top">
   <div class="top-in">
     <div class="brand">
-      <img src="icon.svg" alt="" width="40" height="40">
+      <img src="icon.svg" alt="" width="38" height="38">
       <div>
         <h1>Bitácora de Milagros</h1>
-        <p class="sub">¿Se cumplió o quedó en anuncio?</p>
+        <p class="sub"><span class="punto" id="puntoVivo" aria-hidden="true"></span><span id="estadoVivo" role="status" aria-live="polite">Conectando…</span></p>
       </div>
     </div>
     <button id="btnActualizar" class="btn-upd" type="button" aria-label="Actualizar noticias">
       <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 4a8 8 0 0 1 7.4 5H17v2h6V5h-2v2.6A10 10 0 1 0 22 12h-2a8 8 0 1 1-8-8z"/></svg>
-      <span>Actualizar</span>
+      <span class="txt">Actualizar</span>
     </button>
   </div>
-  <div id="estadoVivo" class="vivo" role="status" aria-live="polite">Buscando noticias en vivo…</div>
+  <div class="ticker" aria-label="Últimas noticias">
+    <span class="ticker-tag">EN VIVO</span>
+    <div class="ticker-ventana"><div class="ticker-cinta" id="ticker"></div></div>
+  </div>
+  <nav class="tabs" aria-label="Secciones">
+    <a href="#hoy" data-tab="hoy" class="tab">Hoy</a>
+    <a href="#milagros" data-tab="milagros" class="tab">Milagros <b id="cntMilagros"></b></a>
+    <a href="#noticias" data-tab="noticias" class="tab">Noticias <b id="cntNuevas"></b></a>
+    <a href="#reportar" data-tab="reportar" class="tab">Reportar</a>
+  </nav>
 </header>
 
 <main>
-  <section class="intro">
-    <p>El Gobierno marca sus obras y anuncios con la etiqueta <b>“milagro”</b>: <i>El Milagro de las Regiones</i>, <i>#CampoMilagro</i>, <i>Ruta Milagro</i>… Aquí llevamos la cuenta de cada uno: <b>qué se prometió, qué avanza y qué se entregó</b>, siempre con la fuente para que usted mismo lo compruebe.</p>
-  </section>
+  <!-- HOY -->
+  <section class="vista" id="v-hoy" data-vista="hoy">
+    <div class="tablero">
+      <div class="anillo-box">
+        <svg class="anillo" viewBox="0 0 120 120" aria-hidden="true">
+          <circle cx="60" cy="60" r="52" class="anillo-fondo"></circle>
+          <circle cx="60" cy="60" r="52" class="anillo-marcha" id="arcoMarcha"></circle>
+          <circle cx="60" cy="60" r="52" class="anillo-ok" id="arcoOk"></circle>
+        </svg>
+        <div class="anillo-centro"><b id="pctOk">0%</b><span>cumplido</span></div>
+      </div>
+      <div class="tablero-txt">
+        <h2>¿Se cumplió o quedó en <span>anuncio?</span></h2>
+        <p id="resumenFrase" class="muted-claro"></p>
+        <div class="leyenda-mini">
+          <span><i class="d ok"></i>Entregado</span><span><i class="d marcha"></i>En marcha</span><span><i class="d anun"></i>Anunciado</span>
+        </div>
+      </div>
+    </div>
 
-  <section class="stats" id="stats" aria-label="Resumen"></section>
+    <div class="stats" id="stats" aria-label="Resumen"></div>
 
-  <section class="hoy" aria-labelledby="tHoy">
+    <div class="cuenta" id="cuenta" hidden>
+      <div class="cuenta-cab">
+        <span class="cuenta-tag">Próxima fecha prometida</span>
+        <a class="cuenta-t" id="cuentaT" href="#milagros"></a>
+      </div>
+      <div class="cuenta-num" role="timer" aria-live="off">
+        <div><b id="cD">0</b><span>días</span></div>
+        <div><b id="cH">00</b><span>horas</span></div>
+        <div><b id="cM">00</b><span>min</span></div>
+        <div><b id="cS">00</b><span>seg</span></div>
+      </div>
+    </div>
+
     <div class="sec-head">
-      <h2 id="tHoy">Hoy</h2>
+      <h2>Lo de hoy</h2>
       <span id="hoyFecha" class="muted"></span>
     </div>
     <div id="hoyLista" class="hoy-lista"></div>
   </section>
 
-  <section aria-labelledby="tMilagros">
-    <div class="sec-head">
-      <h2 id="tMilagros">Los milagros, uno por uno</h2>
-    </div>
+  <!-- MILAGROS -->
+  <section class="vista" id="v-milagros" data-vista="milagros" hidden>
     <div class="buscador">
       <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M10 2a8 8 0 0 1 6.3 12.9l5.4 5.4-1.4 1.4-5.4-5.4A8 8 0 1 1 10 2zm0 2a6 6 0 1 0 0 12 6 6 0 0 0 0-12z"/></svg>
-      <input id="q" type="search" placeholder="Buscar: agua, San Andrés, vivienda, arroz…" autocomplete="off">
+      <label for="q" class="sr">Buscar milagro</label>
+      <input id="q" type="search" placeholder="Buscar: agua, San Andrés, vivienda…" autocomplete="off">
     </div>
     <div class="filtros" id="filtrosEstado" role="group" aria-label="Filtrar por estado"></div>
-    <label class="sel-wrap">Región
-      <select id="filtroRegion"><option value="">Todas</option></select>
-    </label>
+    <div class="filtros" id="filtrosRegion" role="group" aria-label="Filtrar por región"></div>
     <div id="lista" class="lista"></div>
+    <details class="como">
+      <summary>¿Cómo se decide cada estado?</summary>
+      <ul id="leyenda" class="leyenda"></ul>
+      <p class="muted">Un anuncio no es una obra. Pasa a <b>En marcha</b> solo con contrato, obra o desembolso comprobable, y a <b>Entregado</b> cuando la gente ya lo recibe. Si vence la fecha prometida sin prueba, queda <b>Vencido</b>.</p>
+    </details>
   </section>
 
-  <section aria-labelledby="tNoticias">
+  <!-- NOTICIAS -->
+  <section class="vista" id="v-noticias" data-vista="noticias" hidden>
     <div class="sec-head">
-      <h2 id="tNoticias">Lo último en noticias</h2>
+      <h2>Noticias de milagros</h2>
       <span id="notActualizado" class="muted"></span>
     </div>
+    <div class="filtros" id="filtrosTipo" role="group" aria-label="Filtrar noticias"></div>
     <div id="noticias" class="noticias"></div>
-    <button id="masNoticias" class="btn-ghost" type="button" hidden>Ver más noticias</button>
+    <button id="masNoticias" class="btn-ghost" type="button" hidden>Ver más</button>
   </section>
 
-  <section class="reportar">
-    <h2>¿Vio un milagro en su pueblo?</h2>
-    <p>Si una obra anunciada ya se ve —o si no se ve nada— cuéntenos con foto, lugar y fecha. Lo revisamos y lo agregamos con su fuente.</p>
-    <a id="btnReportar" class="btn-wa" href="#" target="_blank" rel="noopener">Reportar por WhatsApp</a>
-  </section>
-
-  <section class="como">
-    <h2>Cómo leer los estados</h2>
-    <ul id="leyenda" class="leyenda"></ul>
-    <p class="muted">Un anuncio no es una obra. Pasa a <b>En marcha</b> solo cuando hay contrato, obra o desembolso comprobable, y a <b>Entregado</b> cuando la gente ya lo recibe. Si vence la fecha prometida sin prueba de entrega, lo marcamos <b>Vencido</b>.</p>
+  <!-- REPORTAR -->
+  <section class="vista" id="v-reportar" data-vista="reportar" hidden>
+    <div class="reportar">
+      <h2>¿Vio un milagro en su pueblo?</h2>
+      <p>Si una obra anunciada ya se ve —o si no se ve nada— cuéntenos con foto, lugar y fecha. Lo revisamos y lo agregamos con su fuente.</p>
+      <a id="btnReportar" class="btn-wa" href="#" target="_blank" rel="noopener">Reportar por WhatsApp</a>
+    </div>
+    <div class="compartir-app">
+      <h2>Comparta la bitácora</h2>
+      <p class="muted">Entre más gente mire, más difícil es que un anuncio se quede en anuncio.</p>
+      <button id="btnCompartirApp" class="btn-primario" type="button">Compartir la app</button>
+    </div>
+    <p class="pie">App ciudadana e independiente de <b>Vibras Positivas HM</b>. No es del Gobierno ni de ningún partido. Noticias: robot cada 30 min + búsqueda en vivo. Hora de Colombia.</p>
   </section>
 </main>
 
-<footer class="pie">
-  <p>App ciudadana e independiente de <b>Vibras Positivas HM</b>. No es del Gobierno ni de ningún partido.</p>
-  <p class="muted">Noticias: robot automático cada 30 minutos + búsqueda en vivo al abrir. Hora de Colombia.</p>
-</footer>
-
 <template id="tplMilagro">
   <article class="card">
-    <div class="card-top">
-      <span class="estado"></span>
-      <span class="etiqueta"></span>
-    </div>
-    <h3 class="card-t"></h3>
-    <div class="meta"></div>
-    <div class="compromiso" hidden></div>
-    <ol class="linea"></ol>
-    <details class="ctx" hidden>
-      <summary>Lo que hay que mirar</summary>
-      <p></p>
-    </details>
-    <div class="rel" hidden>
-      <h4>Noticias relacionadas</h4>
-      <ul></ul>
-    </div>
-    <div class="acciones">
-      <button class="btn-share" type="button">Compartir</button>
+    <button class="card-cab" type="button" aria-expanded="false">
+      <span class="card-fila">
+        <span class="estado"></span>
+        <span class="etiqueta"></span>
+      </span>
+      <span class="card-t"></span>
+      <span class="card-meta"></span>
+      <span class="pasos"><span></span><span></span><span></span><span></span></span>
+      <span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+    </button>
+    <div class="card-cuerpo" hidden>
+      <div class="compromiso" hidden></div>
+      <ol class="linea"></ol>
+      <div class="ctx" hidden><b>Lo que hay que mirar:</b> <span></span></div>
+      <div class="rel" hidden>
+        <h4>Noticias relacionadas</h4>
+        <ul></ul>
+      </div>
+      <button class="btn-share" type="button">Compartir este milagro</button>
     </div>
   </article>
 </template>

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T13:45:00-05:00",
+  "actualizado": "2026-10-23T14:20:00-05:00",
   "nota": "Registro curado a mano. Cada 'milagro' lleva su estado y la fuente de cada evento. Estados: anunciado, en_marcha, entregado, funcionando, incumplido.",
   "milagros": [
     {
@@ -12,10 +12,27 @@
       "beneficiarios": "Más de 45.000 guajiros (cifra del Ministerio)",
       "estado": "en_marcha",
       "fechaCompromiso": null,
-      "palabras": ["ranchería", "rancheria", "el cercado", "san juan del cesar"],
+      "palabras": [
+        "ranchería",
+        "rancheria",
+        "el cercado",
+        "san juan del cesar"
+      ],
       "eventos": [
-        { "fecha": "2026-09-18", "tipo": "anuncio", "texto": "En la jornada 'Milagro de las Regiones' en La Guajira, el Presidente ordena a MinAgricultura estructurar un mecanismo financiero para poner a operar la represa El Cercado.", "fuente": "Publimetro", "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/" },
-        { "fecha": "2026-10-22", "tipo": "avance", "texto": "MinAgricultura, ADR, Gobernación, Esepgua y la alcaldía de San Juan abren la válvula de la línea de conducción hacia San Juan del Cesar. El proyecto multipropósito empieza a funcionar.", "fuente": "Instagram @minagriculturacol y @adr_colombia", "url": null }
+        {
+          "fecha": "2026-09-18",
+          "tipo": "anuncio",
+          "texto": "En la jornada 'Milagro de las Regiones' en La Guajira, el Presidente ordena a MinAgricultura estructurar un mecanismo financiero para poner a operar la represa El Cercado.",
+          "fuente": "Publimetro",
+          "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/"
+        },
+        {
+          "fecha": "2026-10-22",
+          "tipo": "avance",
+          "texto": "MinAgricultura, ADR, Gobernación, Esepgua y la alcaldía de San Juan abren la válvula de la línea de conducción hacia San Juan del Cesar. El proyecto multipropósito empieza a funcionar.",
+          "fuente": "Instagram @minagriculturacol y @adr_colombia",
+          "url": null
+        }
       ],
       "contexto": "La represa se pensó para dar agua potable a nueve municipios y el proyecto arrancó en 2005. En 2018 la Contraloría calculó en unos $637.000 millones el daño por gestión antieconómica. Falta ver cuánta agua llega de verdad a las casas y a los distritos de riego.",
       "contextoUrl": "https://radionacional.co/noticias-colombia/agua-potable-en-la-guajira-la-necesidad-de-9-municipios-desde-2005"
@@ -30,9 +47,19 @@
       "beneficiarios": "187 municipios",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["187 proyectos", "187 municipios", "victorias tempranas"],
+      "palabras": [
+        "187 proyectos",
+        "187 municipios",
+        "victorias tempranas"
+      ],
       "eventos": [
-        { "fecha": "2026-09-15", "tipo": "anuncio", "texto": "Primer paquete de 'victorias tempranas': vías, agua potable, recreación, seguridad y salud por $515.000 millones.", "fuente": "El País", "url": "https://www.elpais.com.co/politica/el-milagro-de-las-regiones-el-proyecto-de-de-la-espriella-con-el-que-inyectara-una-millonaria-suma-a-municipios-del-pais-1536.html" }
+        {
+          "fecha": "2026-09-15",
+          "tipo": "anuncio",
+          "texto": "Primer paquete de 'victorias tempranas': vías, agua potable, recreación, seguridad y salud por $515.000 millones.",
+          "fuente": "El País",
+          "url": "https://www.elpais.com.co/politica/el-milagro-de-las-regiones-el-proyecto-de-de-la-espriella-con-el-que-inyectara-una-millonaria-suma-a-municipios-del-pais-1536.html"
+        }
       ],
       "contexto": "El mismo Presidente advirtió que recibió la caja con fuertes restricciones fiscales, así que priorizar un proyecto no significa que la obra arranque de inmediato.",
       "contextoUrl": "https://www.elcolombiano.com/colombia/gobierno-de-de-la-espriella-prioriza-187-proyectos-por-515000-millones-asi-retoma-el-milagro-de-las-regiones-GH41133757"
@@ -47,9 +74,19 @@
       "beneficiarios": "Sector eléctrico",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["fondo empresarial", "superservicios", "cadena de pagos"],
+      "palabras": [
+        "fondo empresarial",
+        "superservicios",
+        "cadena de pagos"
+      ],
       "eventos": [
-        { "fecha": "2026-09-18", "tipo": "anuncio", "texto": "Desde La Guajira se anuncia la movilización de $300.000 millones del Fondo Empresarial de la Superintendencia de Servicios Públicos.", "fuente": "Publimetro", "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/" }
+        {
+          "fecha": "2026-09-18",
+          "tipo": "anuncio",
+          "texto": "Desde La Guajira se anuncia la movilización de $300.000 millones del Fondo Empresarial de la Superintendencia de Servicios Públicos.",
+          "fuente": "Publimetro",
+          "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/"
+        }
       ],
       "contexto": "Por verificar: a qué empresas llegó la plata y si se nota en el servicio o en la tarifa.",
       "contextoUrl": null
@@ -64,9 +101,17 @@
       "beneficiarios": "La Guajira",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["fiscalía la guajira"],
+      "palabras": [
+        "fiscalía la guajira"
+      ],
       "eventos": [
-        { "fecha": "2026-09-18", "tipo": "anuncio", "texto": "El Presidente pide fortalecer la presencia de la Fiscalía en el departamento para investigar y judicializar más.", "fuente": "Publimetro", "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/" }
+        {
+          "fecha": "2026-09-18",
+          "tipo": "anuncio",
+          "texto": "El Presidente pide fortalecer la presencia de la Fiscalía en el departamento para investigar y judicializar más.",
+          "fuente": "Publimetro",
+          "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/"
+        }
       ],
       "contexto": "La Fiscalía es independiente del Gobierno: el Presidente solo puede pedirlo. Hay que ver si la Fiscalía lo asume.",
       "contextoUrl": null
@@ -81,9 +126,17 @@
       "beneficiarios": "Turismo de La Guajira",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["cayuqueras"],
+      "palabras": [
+        "cayuqueras"
+      ],
       "eventos": [
-        { "fecha": "2026-09-18", "tipo": "anuncio", "texto": "El Presidente expresa respaldo al proyecto turístico Las Cayuqueras del río Ranchería.", "fuente": "Publimetro", "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/" }
+        {
+          "fecha": "2026-09-18",
+          "tipo": "anuncio",
+          "texto": "El Presidente expresa respaldo al proyecto turístico Las Cayuqueras del río Ranchería.",
+          "fuente": "Publimetro",
+          "url": "https://www.publimetro.co/barranquilla/2026/09/18/abelardo-de-la-espriella-anuncia-milagro-desde-las-regiones-en-la-guajira-con-inversiones-en-agua-seguridad-y-salud/"
+        }
       ],
       "contexto": "Fue un respaldo, sin monto ni fecha anunciados.",
       "contextoUrl": null
@@ -98,9 +151,19 @@
       "beneficiarios": "Departamento de Sucre",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["zona económica especial", "sucre", "coveñas"],
+      "palabras": [
+        "zona económica especial",
+        "sucre",
+        "coveñas"
+      ],
       "eventos": [
-        { "fecha": "2026-10-02", "tipo": "anuncio", "texto": "Desde Coveñas, el Presidente instruye a MinComercio para incluir en el Plan Nacional de Desarrollo una Zona Económica Especial para Sucre. También anuncia recursos por la emergencia del Frente Frío.", "fuente": "Presidencia", "url": "https://www.presidencia.gov.co/prensa/Paginas/El-Milagro-de-las-Regiones-Presidente-De-La-Espriella-anuncio-masiva-inversion-para-impulsar-el-desarrollo-261002.aspx" }
+        {
+          "fecha": "2026-10-02",
+          "tipo": "anuncio",
+          "texto": "Desde Coveñas, el Presidente instruye a MinComercio para incluir en el Plan Nacional de Desarrollo una Zona Económica Especial para Sucre. También anuncia recursos por la emergencia del Frente Frío.",
+          "fuente": "Presidencia",
+          "url": "https://www.presidencia.gov.co/prensa/Paginas/El-Milagro-de-las-Regiones-Presidente-De-La-Espriella-anuncio-masiva-inversion-para-impulsar-el-desarrollo-261002.aspx"
+        }
       ],
       "contexto": "Es una instrucción para el Plan Nacional de Desarrollo, que todavía tiene que aprobar el Congreso.",
       "contextoUrl": null
@@ -115,9 +178,18 @@
       "beneficiarios": "Conectividad aérea de la isla",
       "estado": "anunciado",
       "fechaCompromiso": "2026-10-30",
-      "palabras": ["torre de control", "san andrés"],
+      "palabras": [
+        "torre de control",
+        "san andrés"
+      ],
       "eventos": [
-        { "fecha": "2026-10-16", "tipo": "anuncio", "texto": "El Presidente anuncia que la torre de control entra en funcionamiento el 30 de octubre, con inversión de $17.800 millones.", "fuente": "Presidencia", "url": "https://www.presidencia.gov.co/prensa/Paginas/Palabras-del-Presidente-Abelardo-De-La-Espriella-al-concluir-la-jornada-El-Milagro-de-las-Regiones-San-Andres-261016.aspx" }
+        {
+          "fecha": "2026-10-16",
+          "tipo": "anuncio",
+          "texto": "El Presidente anuncia que la torre de control entra en funcionamiento el 30 de octubre, con inversión de $17.800 millones.",
+          "fuente": "Presidencia",
+          "url": "https://www.presidencia.gov.co/prensa/Paginas/Palabras-del-Presidente-Abelardo-De-La-Espriella-al-concluir-la-jornada-El-Milagro-de-las-Regiones-San-Andres-261016.aspx"
+        }
       ],
       "contexto": "Tiene fecha concreta: el 30 de octubre se puede comprobar si funciona.",
       "contextoUrl": null
@@ -132,9 +204,18 @@
       "beneficiarios": "30 familias raizales",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["viviendas raizal", "providencia vivienda"],
+      "palabras": [
+        "viviendas raizal",
+        "providencia vivienda"
+      ],
       "eventos": [
-        { "fecha": "2026-10-16", "tipo": "anuncio", "texto": "$15.082 millones del Ministerio de Vivienda para las primeras 30 viviendas.", "fuente": "Presidencia", "url": "https://www.presidencia.gov.co/prensa/Paginas/Palabras-del-Presidente-Abelardo-De-La-Espriella-al-concluir-la-jornada-El-Milagro-de-las-Regiones-San-Andres-261016.aspx" }
+        {
+          "fecha": "2026-10-16",
+          "tipo": "anuncio",
+          "texto": "$15.082 millones del Ministerio de Vivienda para las primeras 30 viviendas.",
+          "fuente": "Presidencia",
+          "url": "https://www.presidencia.gov.co/prensa/Paginas/Palabras-del-Presidente-Abelardo-De-La-Espriella-al-concluir-la-jornada-El-Milagro-de-las-Regiones-San-Andres-261016.aspx"
+        }
       ],
       "contexto": "Por verificar: fecha de inicio de obra y de entrega.",
       "contextoUrl": null
@@ -149,9 +230,18 @@
       "beneficiarios": "Turismo de la isla",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["isla milagro", "fontur"],
+      "palabras": [
+        "isla milagro",
+        "fontur"
+      ],
       "eventos": [
-        { "fecha": "2026-10-16", "tipo": "anuncio", "texto": "De $24.425 millones para turismo en el archipiélago, $10.000 millones de Fontur van a Isla Milagro, con la Fundación Santo Domingo y Pintuco.", "fuente": "La FM", "url": "https://www.lafm.com.co/politica/anuncios-presidente-abelardo-de-la-espriella-san-andres-inversion-414262" }
+        {
+          "fecha": "2026-10-16",
+          "tipo": "anuncio",
+          "texto": "De $24.425 millones para turismo en el archipiélago, $10.000 millones de Fontur van a Isla Milagro, con la Fundación Santo Domingo y Pintuco.",
+          "fuente": "La FM",
+          "url": "https://www.lafm.com.co/politica/anuncios-presidente-abelardo-de-la-espriella-san-andres-inversion-414262"
+        }
       ],
       "contexto": "Por verificar: en qué consiste la obra y cuándo se entrega.",
       "contextoUrl": null
@@ -166,10 +256,25 @@
       "beneficiarios": "9 emprendedores (y 270 mipymes anunciadas)",
       "estado": "entregado",
       "fechaCompromiso": null,
-      "palabras": ["ruta milagro", "innpulsa"],
+      "palabras": [
+        "ruta milagro",
+        "innpulsa"
+      ],
       "eventos": [
-        { "fecha": "2026-10-16", "tipo": "entrega", "texto": "Nueve emprendedores reciben $8,5 millones cada uno.", "fuente": "La FM", "url": "https://www.lafm.com.co/politica/anuncios-presidente-abelardo-de-la-espriella-san-andres-inversion-414262" },
-        { "fecha": "2026-10-16", "tipo": "anuncio", "texto": "Se anuncian además $2.300 millones para fortalecer más de 270 emprendimientos y mipymes del archipiélago.", "fuente": "La FM", "url": "https://www.lafm.com.co/politica/anuncios-presidente-abelardo-de-la-espriella-san-andres-inversion-414262" }
+        {
+          "fecha": "2026-10-16",
+          "tipo": "entrega",
+          "texto": "Nueve emprendedores reciben $8,5 millones cada uno.",
+          "fuente": "La FM",
+          "url": "https://www.lafm.com.co/politica/anuncios-presidente-abelardo-de-la-espriella-san-andres-inversion-414262"
+        },
+        {
+          "fecha": "2026-10-16",
+          "tipo": "anuncio",
+          "texto": "Se anuncian además $2.300 millones para fortalecer más de 270 emprendimientos y mipymes del archipiélago.",
+          "fuente": "La FM",
+          "url": "https://www.lafm.com.co/politica/anuncios-presidente-abelardo-de-la-espriella-san-andres-inversion-414262"
+        }
       ],
       "contexto": "La entrega de los nueve apoyos está hecha; los $2.300 millones para las 270 mipymes siguen como anuncio.",
       "contextoUrl": null
@@ -184,9 +289,19 @@
       "beneficiarios": "350 familias y 920 negocios",
       "estado": "anunciado",
       "fechaCompromiso": null,
-      "palabras": ["arábico", "bonos de vivienda cali", "damnificados cali"],
+      "palabras": [
+        "arábico",
+        "bonos de vivienda cali",
+        "damnificados cali"
+      ],
       "eventos": [
-        { "fecha": "2026-10-23", "tipo": "anuncio", "texto": "Se anuncian 350 bonos de vivienda y $4.600 millones para 920 apoyos de $5 millones a tiendas de barrio y pequeños negocios afectados por el sismo del 10 de agosto.", "fuente": "IFM Noticias", "url": "https://ifmnoticias.com/gobierno/desde-cali-de-la-espriella-presencio-la-demolicion-del-edificio-arabico-y-anunci/" }
+        {
+          "fecha": "2026-10-23",
+          "tipo": "anuncio",
+          "texto": "Se anuncian 350 bonos de vivienda y $4.600 millones para 920 apoyos de $5 millones a tiendas de barrio y pequeños negocios afectados por el sismo del 10 de agosto.",
+          "fuente": "IFM Noticias",
+          "url": "https://ifmnoticias.com/gobierno/desde-cali-de-la-espriella-presencio-la-demolicion-del-edificio-arabico-y-anunci/"
+        }
       ],
       "contexto": "El monto mostrado es el de los apoyos a negocios; el valor de los bonos de vivienda no se informó.",
       "contextoUrl": null
@@ -201,10 +316,26 @@
       "beneficiarios": "Productores de arroz",
       "estado": "anunciado",
       "fechaCompromiso": "2027-01-01",
-      "palabras": ["arroz", "arroceros", "fedearroz"],
+      "palabras": [
+        "arroz",
+        "arroceros",
+        "fedearroz"
+      ],
       "eventos": [
-        { "fecha": "2026-10-04", "tipo": "critica", "texto": "Polémica: el ministro recomienda a arroceros de La Guajira y el Cesar cambiar el arroz por marañón; el gremio reacciona en contra.", "fuente": "Cambio", "url": "https://cambiocolombia.com/pais/articulo/2026/10/no-siembren-arroz-no-es-rentable-siembren-maranon-la-polemica-recomendacion-del-ministro-de-agricultura-a-los-productores" },
-        { "fecha": "2026-10-19", "tipo": "anuncio", "texto": "Acuerdo con productores e industria: ordenar siembras desde 2027, regular importaciones, créditos y un fondo para estabilizar precios.", "fuente": "Valora Analitik", "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-plan-para-ordenar-siembras-de-arroz-y-regular-importaciones/" }
+        {
+          "fecha": "2026-10-04",
+          "tipo": "critica",
+          "texto": "Polémica: el ministro recomienda a arroceros de La Guajira y el Cesar cambiar el arroz por marañón; el gremio reacciona en contra.",
+          "fuente": "Cambio",
+          "url": "https://cambiocolombia.com/pais/articulo/2026/10/no-siembren-arroz-no-es-rentable-siembren-maranon-la-polemica-recomendacion-del-ministro-de-agricultura-a-los-productores"
+        },
+        {
+          "fecha": "2026-10-19",
+          "tipo": "anuncio",
+          "texto": "Acuerdo con productores e industria: ordenar siembras desde 2027, regular importaciones, créditos y un fondo para estabilizar precios.",
+          "fuente": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-plan-para-ordenar-siembras-de-arroz-y-regular-importaciones/"
+        }
       ],
       "contexto": "El Ministerio todavía no ha precisado la fórmula ni las condiciones del mecanismo.",
       "contextoUrl": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-plan-para-ordenar-siembras-de-arroz-y-regular-importaciones/"
