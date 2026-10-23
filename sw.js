@@ -1,6 +1,6 @@
 // Bitácora de Milagros — service worker
 // Datos y página: primero la red (siempre lo más nuevo), caché solo si no hay señal.
-const VERSION = 'milagros-v2';
+const VERSION = 'milagros-v3';
 const BASICOS = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {

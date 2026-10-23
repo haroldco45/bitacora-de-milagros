@@ -441,6 +441,8 @@
     });
     window.addEventListener('hashchange', leerHash);
     document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') { pintarHoy(); pintarCuenta(); } });
+    const ruta = (location.pathname.match(/\/(hoy|milagros|noticias|reportar)\/?$/) || [])[1];
+    if (ruta && !location.hash) history.replaceState(null, '', location.pathname + '#' + ruta);
     irA((location.hash || '#hoy').slice(1), true);
     actualizar(true).then(leerHash);
     if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
