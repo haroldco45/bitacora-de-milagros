@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T14:20:00-05:00",
+  "actualizado": "2026-10-23T16:30:00-05:00",
   "nota": "Registro curado a mano. Cada 'milagro' lleva su estado y la fuente de cada evento. Estados: anunciado, en_marcha, entregado, funcionando, incumplido.",
   "milagros": [
     {
@@ -339,6 +339,52 @@
       ],
       "contexto": "El Ministerio todavía no ha precisado la fórmula ni las condiciones del mecanismo.",
       "contextoUrl": "https://www.valoraanalitik.com/gobierno-de-la-espriella-anuncia-plan-para-ordenar-siembras-de-arroz-y-regular-importaciones/"
+    },
+    {
+      "id": "gran-malecon-cartagena",
+      "titulo": "Gran Malecón del Mar (Cartagena)",
+      "etiqueta": "Sin sello «milagro» · aporte de la Nación",
+      "region": "Bolívar",
+      "entidad": "Fontur · MinComercio (Nación) · Alcaldía de Cartagena",
+      "monto": 87703000000,
+      "beneficiarios": "Cartageneros y turistas",
+      "estado": "anunciado",
+      "fechaCompromiso": null,
+      "agenda": [
+        {
+          "fecha": "2026-10-24",
+          "texto": "Apertura al público de los primeros 2 km (fase 1, obra del Distrito) con el Presidente y el alcalde Dumek Turbay"
+        }
+      ],
+      "palabras": [
+        "malecón del mar",
+        "malecon del mar"
+      ],
+      "eventos": [
+        {
+          "fecha": "2026-09-19",
+          "tipo": "anuncio",
+          "texto": "El Gobierno anuncia $87.703 millones vía Fontur para los tramos 3 (La Tenaza) y 4 (El Boquetillo) de la segunda fase, para subir la ejecución del proyecto del 63 % al 90 %.",
+          "fuente": "Valora Analitik",
+          "url": "https://www.valoraanalitik.com/?p=612887"
+        },
+        {
+          "fecha": "2026-10-14",
+          "tipo": "anuncio",
+          "texto": "Se aplaza la apertura de la fase 1 para hacerla coincidir con la agenda del Presidente.",
+          "fuente": "El Universal",
+          "url": "https://www.eluniversal.com.co/cartagena/2026/10/14/aplazan-inauguracion-de-la-primera-fase-del-gran-malecon-del-mar-esta-es-la-nueva-fecha/"
+        },
+        {
+          "fecha": "2026-10-22",
+          "tipo": "avance",
+          "texto": "El alcalde posesiona a Angélica Hernández Walker como gerente de la empresa pública que administrará el malecón.",
+          "fuente": "El Universal",
+          "url": "https://www.eluniversal.com.co/cartagena/2026/10/22/dumek-turbay-posesiona-a-angelica-hernandez-como-gerente-del-gran-malecon-del-mar/"
+        }
+      ],
+      "contexto": "Los 2 km que se abren son obra del Distrito de Cartagena. Lo que puso la Nación son $87.703 millones para los tramos 3 y 4, que aún no se entregan (10 y 12 meses de obra, sin fecha de inicio publicada). Ninguna fuente lo presenta como «milagro». Costo total estimado del proyecto: $197.000 millones.",
+      "contextoUrl": "https://www.eltiempo.com/colombia/otras-ciudades/el-presidente-de-la-republica-abelardo-de-la-espriella-inaugurara-la-primera-fase-del-gran-malecon-del-mar-en-cartagena-de-indias-3593485"
     }
   ]
 }

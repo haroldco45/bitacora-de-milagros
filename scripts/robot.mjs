@@ -10,6 +10,7 @@ const CONSULTAS = [
   '"Campo Milagro" OR CampoMilagro',
   '"Ruta Milagro" OR "Isla Milagro" OR "Fondo Milagro"',
   '"Milagro de La Guajira" OR MilagroDeLaGuajira',
+  '"Malecón del Mar" Cartagena',
   '"Patria Milagro" entrega OR obra OR inauguró',
   '"Patria Milagro" ministerio anuncia'
 ];
@@ -57,7 +58,7 @@ async function consultar(q) {
     const medio = get('source');
     let titulo = get('title');
     if (medio && titulo.endsWith(' - ' + medio)) titulo = titulo.slice(0, -(medio.length + 3));
-    if (!/milagro/i.test(titulo) || EXCLUIR.test(titulo + ' ' + medio)) continue;
+    if (!/milagro|malec[oó]n del mar/i.test(titulo) || EXCLUIR.test(titulo + ' ' + medio)) continue;
     const fecha = new Date(get('pubDate') || Date.now());
     items.push({ titulo, url: get('link'), medio, fecha: isoBogota(fecha), tipo: tipo(titulo), region: region(titulo) });
   }

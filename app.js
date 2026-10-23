@@ -11,6 +11,7 @@
     '"Campo Milagro" OR CampoMilagro',
     '"Ruta Milagro" OR "Isla Milagro" OR "Fondo Milagro"',
     '"Milagro de La Guajira" OR MilagroDeLaGuajira',
+    '"Malecón del Mar" Cartagena',
     '"Patria Milagro" entrega OR obra OR inauguró'
   ];
   const PROXIES = [
@@ -116,7 +117,7 @@
             const crudo = it.querySelector('title')?.textContent || '';
             const medio = it.querySelector('source')?.textContent || '';
             const titulo = medio && crudo.endsWith(' - ' + medio) ? crudo.slice(0, -(medio.length + 3)) : crudo;
-            if (!/milagro/i.test(titulo)) continue;
+            if (!/milagro|malec[oó]n del mar/i.test(titulo)) continue;
             encontrados.push(marcar({ titulo, url: it.querySelector('link')?.textContent, medio, fecha: new Date(it.querySelector('pubDate')?.textContent || Date.now()).toISOString() }));
           }
           return true;
@@ -239,14 +240,20 @@
   let relojCuenta = null;
   function pintarCuenta() {
     const hoy = hoyBog();
-    const prox = st.milagros
-      .filter(m => m.fechaCompromiso && m.fechaCompromiso >= hoy && ['anunciado', 'en_marcha'].includes(estadoEfectivo(m)))
-      .sort((a, b) => a.fechaCompromiso.localeCompare(b.fechaCompromiso))[0];
+    const cands = [];
+    for (const m of st.milagros) {
+      if (m.fechaCompromiso && m.fechaCompromiso >= hoy && ['anunciado', 'en_marcha'].includes(estadoEfectivo(m)))
+        cands.push({ m, fecha: m.fechaCompromiso, tag: 'Próxima fecha prometida', txt: m.titulo, hora: 'T23:59:59-05:00' });
+      for (const ag of (m.agenda || [])) if (ag.fecha >= hoy)
+        cands.push({ m, fecha: ag.fecha, tag: 'Próximo evento', txt: `${m.titulo}: ${ag.texto}`, hora: 'T00:00:00-05:00' });
+    }
+    const prox = cands.filter(c => new Date(c.fecha + c.hora).getTime() > Date.now()).sort((a, b) => a.fecha.localeCompare(b.fecha))[0];
     const box = $('#cuenta');
     if (!prox) { box.hidden = true; return; }
     box.hidden = false;
-    const t = $('#cuentaT'); t.textContent = `${prox.titulo} · ${fmtFecha(fechaISO(prox.fechaCompromiso))}`; t.href = '#' + prox.id;
-    const meta = new Date(prox.fechaCompromiso + 'T23:59:59-05:00').getTime();
+    box.querySelector('.cuenta-tag').textContent = prox.tag;
+    const t = $('#cuentaT'); t.textContent = `${prox.txt} · ${fmtFecha(fechaISO(prox.fecha))}`; t.href = '#' + prox.m.id;
+    const meta = new Date(prox.fecha + prox.hora).getTime();
     const previo = {};
     const tic = () => {
       let s = Math.max(0, Math.floor((meta - Date.now()) / 1000));
@@ -271,6 +278,11 @@
     for (const n of st.noticias) if (diaBog(new Date(n.fecha)) === hoy) items.push({ ico: 'n', icoTxt: 'N', t: n.titulo, url: n.url, ext: true, sub: `${n.medio || 'Noticia'} · ${haceCuanto(new Date(n.fecha))}` });
     for (const m of st.milagros) {
       for (const ev of m.eventos) if (ev.fecha === hoy) items.push({ ico: 'r', icoTxt: '✓', t: `${m.titulo}: ${ev.texto}`, url: '#' + m.id, sub: `Nuevo en la bitácora · ${ESTADOS[estadoEfectivo(m)].txt}` });
+      const manana = diaBog(new Date(Date.now() + 86400000));
+      for (const ag of (m.agenda || [])) {
+        if (ag.fecha === hoy) items.push({ ico: 'c', icoTxt: '★', t: `Hoy: ${ag.texto}`, url: '#' + m.id, sub: m.titulo });
+        if (ag.fecha === manana) items.push({ ico: 'n', icoTxt: '→', t: `Mañana: ${ag.texto}`, url: '#' + m.id, sub: m.titulo });
+      }
       if (m.fechaCompromiso === hoy) items.push({ ico: 'c', icoTxt: '!', t: `Hoy vence lo prometido: ${m.titulo}`, url: '#' + m.id, sub: '¿Se cumplió? Cuéntenos en Reportar' });
     }
     const cont = $('#hoyLista');
@@ -340,6 +352,11 @@
         if (i < info.paso) { s.classList.add('on'); s.style.setProperty('--i', i); s.style.setProperty('--c', info.malo ? 'var(--malo)' : COLOR_PASO[info.paso - 1]); }
       });
       // detalle
+      const agFut = (m.agenda || []).filter(ag => ag.fecha >= hoyBog()).sort((x, y) => x.fecha.localeCompare(y.fecha))[0];
+      if (agFut && !m.fechaCompromiso) {
+        const c = n.querySelector('.compromiso'); c.hidden = false;
+        c.textContent = `Próximo: ${fmtFecha(fechaISO(agFut.fecha))} · ${agFut.texto}`;
+      }
       if (m.fechaCompromiso) {
         const c = n.querySelector('.compromiso'); c.hidden = false;
         const dias = Math.round((fechaISO(m.fechaCompromiso) - fechaISO(hoyBog())) / 86400000);
