@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T00:12:41-05:00",
+  "actualizado": "2026-10-24T04:39:43-05:00",
   "origen": "robot",
   "noticias": [
     {
@@ -9,6 +9,14 @@
       "fecha": "2026-10-23T21:56:32-05:00",
       "tipo": "anuncio",
       "region": "Bolívar"
+    },
+    {
+      "titulo": "Abelardo de la Espriella anunció la puesta en marcha del \"Fondo Milagro\" para la reconstrucción por el terremoto del 10 de agosto",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb1MxZDlDVnNlUTA1eG1hckItNk02M1NpcVVkVVNVNkhCQ0Q4OWtIalQ0TzB1bS1xYm5fUU1YQzJtd3haUncwZlRyRXZvaGVBTFhUamE3VHBoWjItXzdJWnkyNTR1TGhxaDNsRWxIODRpLTJFM2dsc3E5OGxNRUlYV3lOcDg1OXFfVVRGNTQ4R3lndkNHbE9LYWFtcndFM2dwejhuajZveHd5aUs1ZXZyWWNIRUEyMWpCbVMyaC01U3ozZjZZZWY2cVc0ZFJSMThhTl9FQ2o3RFpfNjFhVGE2OTh6bk9ESXhtSllwY3o0SUNDSng5am5VZTRFcldGeEdwVks1WktUMA?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-10-23T21:33:46-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
     },
     {
       "titulo": "Presidente Abelardo De La Espriella rinde cuentas sobre sus labores y el Fondo Milagro tras 73 días del terremoto",
@@ -553,6 +561,14 @@
       "fecha": "2026-10-17T18:50:25-05:00",
       "tipo": "entrega",
       "region": "San Andrés y Providencia"
+    },
+    {
+      "titulo": "Fondo Milagro enfrenta críticas por falta de ejecución y costos fiduciarios",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXE3Yzh5b1RoSDZZMmg1ZlFyN2ZmZV9odnNwSWdNcFBRM0E1R08taENGeDg0U1pLUHduVVhaMkpYOW12SG5keld0NlhqZlRMYzhIS1BhekIzU1RLczNhQkRScFRtd3ZyX3RISENXYkFoNnNGRTBpT2dUZUU0VTNqVQ?oc=5",
+      "medio": "Q´hubo Bogotá",
+      "fecha": "2026-10-17T12:07:04-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
     },
     {
       "titulo": "Fondo Milagro garantiza transparencia en manejo de recursos: \"ninguna tragedia puede convertirse en un negocio\"",
