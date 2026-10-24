@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-24T08:43:33-05:00",
+  "actualizado": "2026-10-24T12:05:24-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Cartagena inaugura los primeros 2 kilómetros del Gran Malecón del Mar",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcE1zZ01EX1o4SVhfR3VfSEtFRTdKQm92S2V4LVNKUm50OEFSeFVNWmVaY1RoMzE0QWFCX2pSRFdFSXZuVThsRFE4b0syR3hESHZpUVdXV2d5ZlNxZGdpa3BYclhKVDhjSWFkRUFuVGctLVNqZEtXQWprOTZqLWcyTkR5MEZUVEw4MlRleWIya3lVZmJVaUZhOVVjY1dvZTY3ODRKUHAyU2VobnFESHpDbDdB0gG3AUFVX3lxTE01SFFBV2NUMTljQlpBSm82VWR3aVFIWnM0Z1dqaHJqdUl4NkZHMF9idFJpSGFvSVNTZ1VpR2hwdDhob2VKQ1hzOUNwNmc4UEFFUlNqYWxUMUU2azRhbFdLVC1TbjJFbE4yLWszeXBld2J3VXlTa3hKRFVfdU0xRzY2ZXJrOFhmQTVTVW91SGQ4T2pRU2wzQV9zblBXaUY1WkNIV09aRmFqX2h2WFFXRFB2NlFxXzFRMA?oc=5",
+      "medio": "Portafolio.co",
+      "fecha": "2026-10-24T11:43:30-05:00",
+      "tipo": "entrega",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "BBVA Colombia blinda su apuesta por Cartagena con 197.000 millones para el Gran Malecón del Mar",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlc1Q2ZIQUhtcGpnQU1UVVM3aGt3OHBjXzY2Z2ZVNS1tZ2hmMUhNZEFJUFkzX2t2X0xKYVhHQ3dROEFNaVB0QXZYbEk2WUhndDhVWEpkaDRhenNQRjV4akZkaXZzSm96b0xBNHlkYk9hM0hPOERaazFsSFFlc0FYMQ?oc=5",
+      "medio": "MONCLOA.COM",
+      "fecha": "2026-10-24T11:33:50-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Fondo Milagro destaca a Manizales como modelo en la atención de la emergencia y la reconstrucción tras el sismo",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3ltQjloeUFFOGUyU3NkUUFUUUZiMUsxMjJwdTREV21oQWVXQW5fYktUS2JkdVJIUmZ6LTVHMkpSZUxPU3ZvWk9IQm9VOTh6MzNoNFNKa2ZDX0l1UXI0U2M5akFsWW9sNWdCTmRWanZEV3ZRYklxb2RjQTRnUjRCd1pxVVo0bUxLemdXRkFTcVp1bEpUNVJoaHNCQ2F3MmFlT3hDQ1k5a0pEenctWFlKa0FkUWNoUTRNM0dFLUUwbDdpTktsTUVwa01KU1N3Rjl0RUhhMG9MYmh1QQ?oc=5",
+      "medio": "BC Noticias Manizales",
+      "fecha": "2026-10-24T09:47:57-05:00",
+      "tipo": "anuncio",
+      "region": "Caldas"
+    },
+    {
+      "titulo": "De La Espriella aclaró que el billón de pesos de empresarios no entra al Fondo Milagro. Lo",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTC1DMkNYR2MtSk9oQ1ctbG1wbjNGYVVyUXBlbXFqc1o0b25pQ0pqNFVTN29zR1NUOW02SndycFphZC1LdmtacU9jbUd1ZlZRR2Viek5LVjRTdTZWTWd0ZnRERHlHMU1FaFg0bUxsejNleERhSHdUaDhGeFJnZzFNQTFwbjJhLVhQQkd5aXZ6QWtLam10blhGdVZma0dvbk9PWXhyajhRWWtoTXFsYVFQNFE0LWdRRjNFR1AzVU9JWQ?oc=5",
+      "medio": "HSB Noticias",
+      "fecha": "2026-10-24T09:32:19-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Se inauguraron los primeros kilómetros del Gran Malecón del Mar en Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWY2VTJhQldrVVhCbHh5NXJCb1RDWGdDWXU1SXp1dnVyMzZKam5UbGhLMzYwaWdqSVQ3SlJSR0I0OVE4ZU5WZXZNT3FaRi0zZ1NDa2NEcXlkTmNOZlQ4cUh6WUtUeG9SMjhSOHFJcDFyZDRGbzVHQnlEdmFRVlZxeHdWSGVtUkljN0JpcG9lMWREdGFCaWh2eFFUZXpDYk1HTWhoeDFLbGNEZWhyQUU4ZTg2YUdrVDdGckFZWtIBvAFBVV95cUxQX2hQYVc0dFpJYU1DSkZ0REVfR0s3dW43TGk2VzhiMWo5aUtCVlhWb0hQTVZzNy1jemNJSFdoZ1ZRTmN4S3J6aEhpbVFMUVNOakFPRHFvWEJRRlBmalFVVXVKMDNDVUkyN19qSFFnUFh3QWozVEpGN2JiN0JWX2I1YUg3b0NyY3ZVdFYzSGQ1THBQR3lJTmRCZXk0b0oyUmRobEh2RTVjeXZ5cHlLaWdVQzJyNnM1djMwcDhzUA?oc=5",
+      "medio": "LaRepublica.co",
+      "fecha": "2026-10-24T08:56:14-05:00",
+      "tipo": "entrega",
+      "region": "Bolívar"
+    },
     {
       "titulo": "De la Espriella explicó qué pasó con donaciones de empresarios y por qué no están Fondo Milagro",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlAwYlJGaVN3MmZya3FybGxwUjlMX1h5VllOWGs5N19VQ01jWXAzVVMxdzFGUXZmTmdzcm5FOWIybWJTMXRqdFEwZVZrQW5SNHUxcnhlUkFrYS1fRGxWM0FVSUNHR012WFY0SU1RR01mWXZNbnVDVWE2b0lHRmRFaDZod2NPQ3VGRmVTdHZSdE0tTGd0bWFDeWVVOGFHSk4xYmViY9IBqgFBVV95cUxNdHpJVDlCRUlyT3ltUVVHOGNGdFR5bGxsZUhvR25TZ0VISXV3aWxZaDdfYUhHRnFVLUU1d3dVWDdTRU1KY04zNzgySDNsQnRzaEpsNGFnYlU5SUZueGpERjg1X2xRMjRwWm84NGZaWTg3Q3k1cDR5cXVHMUVCeGlJUHlpZGJtcmpDdTI5RjhTSHZfMHlLQWZqbWYzOE9rTVU1UkNSOHNSSjdOZw?oc=5",
