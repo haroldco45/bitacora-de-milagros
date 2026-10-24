@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-23T19:52:45-05:00",
+  "actualizado": "2026-10-24T00:12:41-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Cartagena abrirá este sábado los primeros 2 kilómetros del Gran Malecón del Mar",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQndNUHE2YzYzYWVaOTJzQk1XNDJzTm9DOEctSUdzZTJtc01SZEtwRUdRY1Izamxwc2hkV2RhbE9kaktnUS1xcjRDZk9veDhuaXROUlB6NmtpV1Nod0lWQl9EUk9oTndId2hHZ1JNMTZ1dE9rbmdkU1ZQX1Mta0EyeURadVZCcHFDbk9WMEQ3ZWRuRjVlSUdhbGhwRG1TRTh4UjJreS1PWXh0M216SVFSRGo4VlV1aHRJclJmaQ?oc=5",
+      "medio": "Diario La Libertad",
+      "fecha": "2026-10-23T21:56:32-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Presidente Abelardo De La Espriella rinde cuentas sobre sus labores y el Fondo Milagro tras 73 días del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUjUyQXVDa29PVkRULUNyeHBSSEtkcVJNLVRqZVZZOVRROEFhd2JQNFlCMy1QTjR2WF8tMGRQbHU3d2RKOE9zemRoZjZ5U0JNQXJObUszal81aElsc3JJVXptRU54M0c3NTBka3F6Y1lvQ3p4bDNuWS1jMHV1R0FLQlkwc0dtdmJjeXQ5TWZUUXJhbC1lQmNJbE5MLS1wNExZMWdmcG5lRWR3emd3UEF6RnEtQ3RmUkt1RUx2OVV2bkdFUnUzTzliUmJ1Y053NVVabk1zZnprTWFpYzhjbnlDcGJOdHJzQVFMLU45RC1HRG_SAfYBQVVfeXFMUFpWdTJnazFxay1FSHNuZEVVX2tDZ1dORld0cHBlUi1nc19kbVlWX2hfRTdhcm81SDhJNElNTGF1QVNnbXJSZ3Z4UHlMSjgyMy1GQk1UdVN0dVBXNTFOaWx5eHZaY1lCMTdEQmRyV0VOOWd4cVhTMUhySUhnRFdPM2hRbFVYOWRyVWswN2ZGTjdmX1E2QnlscDUySUpiQmw2Z1Npd084bkdlOTA0aEZISWlaVzBXaWE5T2RUTzN3VGdIRVE0Y3BuRUJOc2JmRmd4NXIwc2QzbFNJcDd1R3c0U3NFMFdOS0ttZS1KZWo5SVZIMnRzZF93?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-10-23T20:20:09-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "Fondo Milagro comenzó a operar con $624.656 millones de crédito del Banco Mundial",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNVJaYVFjcjhYZjVhZzBEaXpLVHFZc1VqSC00bUlQZjV5V2x5TTBoZTBRZWxVZUNQTkdScWNKLVFvRmJaeklmSUx5bXhkV1dSTjRkdmJxM28yTXpJTmZqMFNtM2EzRkMxeFZTdmZ5eUZZQ2xuUE1vSHM0eDRvMi1WcWttSG05MDAzelMxdnpLT09GZHViUHM3MThjaEt5QmlZMENpZTYxc044XzdMZ0JkWEp6UTEwMFFBSXZPcFA4NVk3bno1bEhwLURjTQ?oc=5",
@@ -132,6 +148,14 @@
     },
     {
       "titulo": "Fondo Milagro entra en operación para administrar con transparencia los recursos de la reconstrucción",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG1pcU1XLVk1SGk1MzZRbkVFX2dtMEU3LXNXR3RqdXhBX3pkaXhPRm0tdm9KajRPNXBsNE9YRUpMODRXR0NPazV5dFN2dHZwY3VXbGZ1eFd4bGdLT0VoMTQ2YUQ5bmFORzZTck44RTM1a3F6RDRvN081RU9oNmlDMkt6bEZ0MVN4cWNyVnNFUU9taUJVa25HbnVZSU82a3ZmRWg5cXZ3czVXS1IxcVpUaV9zWVBUUnR1S3dYM2s4ZjBnQ1EtNzlKdWJaT0U5OG8z?oc=5",
+      "medio": "Defensores de la Patria",
+      "fecha": "2026-10-23T08:38:50-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro opera para administrar la reconstrucción",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSG1pcU1XLVk1SGk1MzZRbkVFX2dtMEU3LXNXR3RqdXhBX3pkaXhPRm0tdm9KajRPNXBsNE9YRUpMODRXR0NPazV5dFN2dHZwY3VXbGZ1eFd4bGdLT0VoMTQ2YUQ5bmFORzZTck44RTM1a3F6RDRvN081RU9oNmlDMkt6bEZ0MVN4cWNyVnNFUU9taUJVa25HbnVZSU82a3ZmRWg5cXZ3czVXS1IxcVpUaV9zWVBUUnR1S3dYM2s4ZjBnQ1EtNzlKdWJaT0U5OG8z?oc=5",
       "medio": "Defensores de la Patria",
       "fecha": "2026-10-23T08:38:50-05:00",
