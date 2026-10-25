@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-25T04:38:09-05:00",
+  "actualizado": "2026-10-25T09:00:22-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "La metamorfosis de la Patria Milagro: el detrás de una insubsistencia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEc1Si1xcmNYalBCM3d2V3h0aU1ySkNneUtiWTd0VzBPS1czT2FPUkFCNURyNFNkclQybDRoYkhtanQwVi1KNEdjLS1ONW1WbVlwSDI3WWNuRU5rRXhyY0E5THo1Z2xqbzRsM19nTlI4TVRGcS1HNkRVbzdqY1Zzby1pWDBJNnNFdFVuZkdYdUJLMC1fSUU5MjVtNnJCMlNRN3FDUW5OLTQzRFZkS3c?oc=5",
+      "medio": "Diario La Libertad",
+      "fecha": "2026-10-25T08:13:16-05:00",
+      "tipo": "anuncio",
+      "region": "Meta"
+    },
     {
       "titulo": "Lluvias en el Caribe obligan a aplazar la inauguración del Gran Malecón del Mar con el presidente De la Espriella en Cartagena",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHRSQmhaZmpEUzlncm04ZDMwZDRpQTM3bHFpNDFRVk9xOWNkaDBIZllUdzNXU0ViaFRVOWVWRmZxZWNFNmQ2SXZWc213NHVYeGxTZ2l6SFdaMnlTS3NtSklFeUpZQzBBYTZnN0tDNUlwNTFZNFZMSFJIMUdhaVZRNmhxWko2b2FBdkNacVVRejhYVEZqdnU3WUlrd0lwdWZpMm1LUmxSb1BKcUpaWHF3QllIbVg?oc=5",
@@ -763,6 +771,14 @@
       "region": "Valle del Cauca"
     },
     {
+      "titulo": "Cali sin recursos PAE y Fondo Milagro tras terremoto",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYYWVaS043bEpXQ01qMy1qMS1IWDN6OXZiR1VvRGpXUzJSUEJLTHhfUzBfalRudGEtVVlRT3RhRWlfWTJ1NEE0bHpsZFdIXy1sbVp5ZW4wdThlUU9jdHprVTU1N0RJd3JsWXh2bTBiaDB1TVp1UjhZ?oc=5",
+      "medio": "Estrella Digital Colombia",
+      "fecha": "2026-10-18T09:56:27-05:00",
+      "tipo": "anuncio",
+      "region": "Valle del Cauca"
+    },
+    {
       "titulo": "Fondo Milagro: qué obras tendrán prioridad y cómo se invertirán los recursos para la reconstrucción",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRG54dUdic0xtVE5sbDlheWNLU3ZUWFlqQmJ2M1RrTUNOUW5Kenl4VGY0Sjc3S0RRUnJHeFNaQ2RFbUVOeTZiYktjWi01N05LalRTOUVDYmJwaXc2aE1wcElNZTNBT2g1TkJ3MHVJT1ZMYmFjek5kY3p3N2V4VS1jajNIRm12c3NCYWxqWDU3RTU5ZWhFZjlaeUdtUUQ3clAxV2dwUTdWVFVqV1FGTXo5cDkwSU8xX3YzZlo3UDl6RVZrUy1Ud1dXUDgxRFZmUUZ1YjZBX3MxZFl5Mk3SAfYBQVVfeXFMUG03RzV5UExOZGxFZ3NTQXRNZ09Id19La21WX0o0ZnVjQS1hSlZCVFdSeUUyeXdYSTV2cXhna2hESk9jUlpkQnJJaFVYV3FPbXliTm5ncDVZalc1SXRjREhCMTMzVG9EUnkza3ItUkxZdWVHVVNDdC00WFpUdWh2dkRJNll1aDN5VjVQLVNzUDYxenZiZ0VvUTdmZm5ZYU1EWDZ4MVVoWU5OTXZ1QUxxYWc5bDZBRk5EZm8xMjJELTNXcHFfSXk0T0cySU5yTDdrZ0YxVnQ1cy1HMTkycldnMmNEbExTYVpXZWdDa0stWXZ2VXgwb05n?oc=5",
       "medio": "Infobae",
@@ -774,6 +790,14 @@
       "titulo": "Así funcionará la billetera del Fondo Milagro para la reconstrucción: ¿qué proyectos se priorizarán?",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR1FyNV9RclVKQUh3dWdOeXJfMjRuaDNtWEoycnRvZHJYWTY4UUUwWEFCcnQxLWNzVDFOakZ4MU83WXRPNWExV1FoMkZmZEJZelo4SjRZbU1NcGJtRnFueXBaR3I3SlhuaGhwQ3N3OXZPeS1Ebm5ZbmRPNHMxNUdMbkdJSVc5VXA3cmhDRGFQRGQ1V0lFaEZhVTNPMmxWelRkZXZfLURXTVhKQ0J4eFdmV25kUjV4NnhLcW1PMW50YmlZM3N5WmZZTkU2Nml1TWFPTndRN3U0Z0hxSUwxX2x5MnlB0gHnAUFVX3lxTE5BNWw0VjBfbzlaUHRCeDlMelNPbmsxbVFINGpMcDBzSE56ZnJLTHFzTmVfNXNvVlJpOTgxZDdBUmRlRzN6bW5DLXEyWW00SW9WbDdSNW1LREFiNkl6bi1OckFWaEE5YVZwVElGRk1XdXZqQWxaVmtwdmRGX1V5QmtzZWIwck1zR29NMC11Q2tlM21pam1DZW1Mdms0MTZQYVhPWnc0QnVBT3ZuUnpRMW4tY1FmdDZRcW0yOEtRbVdGOG5TWS0zcEZhWmNZMEFJOXFrZFRPRlRKNUM3S0JVNHZ4Q09PLU1Law?oc=5",
       "medio": "El Tiempo",
+      "fecha": "2026-10-17T23:15:00-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro: Prioridad a vivienda en reconstrucción nacional",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOejFBNnE4UWJvTUlFbTJNbDFTeW9idU1SMlIwNzItUHVtcFFhREFJSjN0dGI1M0FNRWpBT2taZlIxeU1yTXRsRE9sUUlDWk1NVFRHU2pUQkU0RHdESzRNZDhCcFhmQVRpdC1vbE1LMTlRNmhWMlJwS1UwbXRxVGQwbjlhZVE?oc=5",
+      "medio": "Estrella Digital Colombia",
       "fecha": "2026-10-17T23:15:00-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
@@ -1241,6 +1265,14 @@
       "fecha": "2026-10-13T11:00:24-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
+    },
+    {
+      "titulo": "Gran Malecón del Mar: Cartagena estrena dos kilómetros de espacio público el 15 de octubre",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0d0VjhKMDJwUXVDVEF1V2kybFMzcEhTTThTZVpYMWRjNkRMdlQxTzRHeWpuTUpwcmxDTXJ3YWpSOTJMdjY1blVKalZxU3ZhUjlBdVdkMUFzMGx4WXNDdDRPMDhkbncxNVBJV3JiMjl6aWpqWElGS3VoUExud2ZZX25hQ3M3SUI4T0JlencwSDluYXZKckZnc3dnUmpTaVdEODU1eTNrdTdSVDRHUkV1QjR6NGcwQnh0SDNjczFwUjYtakNQ?oc=5",
+      "medio": "calihoy.com",
+      "fecha": "2026-10-13T10:56:50-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
     },
     {
       "titulo": "El Gran Malecón del Mar: patrimonio, sostenibilidad y empleo para Cartagena",
