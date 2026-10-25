@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-24T17:06:10-05:00",
+  "actualizado": "2026-10-24T19:24:31-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Por lluvias persistentes, Alcaldía de Cartagena pospone acto de apertura del Gran Malecón del Mar",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZFNYbWttY3FSN3RydG9jRzNIOUpJXzdwbWQtOFlCMnFnRHdic1YtZlFpMUI4V2VCYUdZNVNLUjBUX2F3OVpsV0JneVNMR2w0V2R2dTVsMTlrN09qVjFCYWJ4ckdfVU8wQjJCMXJLbHNyMkxwMkFmX3F6ME9PVndGcHBKYndLcWVCa3hvaTNnQm1fUjVhbGNQbEZVaW0xdHFJX3EtVC12bDFwdjhBcVBrc0RYenRKOVdZb2NjZnRrUm9SMFdPR3dVdktwYzJwcE94ZzJB?oc=5",
+      "medio": "Diario La Libertad",
+      "fecha": "2026-10-24T17:28:39-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Por emergencia invernal aplazan la inauguración del Gran Malecón del Mar",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEpWbUQ4WjVTS0lTVU9hUVRmc0hCWUtSem5EclpyRG9mS0Ztc1haOWVjMlFhWGpWNDhBYWozTnpUSHlYN0JVUTM1VWViZ3R4STY5MzBlSnZxM2loNmJGbWpZRTNOOTF1WUJLb0NoWVdhSWtTUEExdUpBOW8wTW9NM2VOSzZPM1FCMDY1dzAyeE9xX2twRnVHS1d5eTFoRlV5dmNOcEZ3OVdCWDREWkowVGVzeGc1dFE4SEg1QnA5ZlEzSzkt?oc=5",
+      "medio": "Hoy Diario del Magdalena",
+      "fecha": "2026-10-24T16:49:00-05:00",
+      "tipo": "entrega",
+      "region": "Nacional"
+    },
     {
       "titulo": "\"No podemos mezclar la plata pública con la privada\": De la Espriella aclara desde Cali que el billón donado por empresarios no entra al Fondo Milagro",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXk0VjZVb29sVDVKVUdabFNGS0EwTnFSbzZjSF9ISkxIcWZHaUhSc290NzJ5N291YV9HRUNvaEhtd2lmODMxd1FzSnNta19fMGxLV0RGcUExNzYzZlMzUmUxZUxPZWZaaGZUM3JqaDV4ay1LTUM0Y2ZVVmRGZ2VVTTcyTVh5OFdPc0Y0V2FJUkkxbmV0LVg5VzM0T3BiSV9pWURxSVBiWFliOTU0c3VZT3VSUkw?oc=5",
@@ -11,11 +27,27 @@
       "region": "Valle del Cauca"
     },
     {
+      "titulo": "Lluvias obligan a suspender el acto de apertura del ‘Gran Malecón del Mar’ en Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMnBlcnkzX1hRRHRub0dNSDhrSU0yNjg0WG82RURrYXJPTFNwcDBFTnRzSEtrc0dELS1kRk5yTmswcGRRRWFsb3I1NUJ1VGFLRF9jTVd0R2tIWXV1Rk9KWk5saVcyT2xQYTZWSFlJYUU1TkRtTXZySXRWREh6NTQ3djlvQW5iV3k5MzB3MFJaNkNtWDVqd1ZyZDhxVjFHS1VMaW5KUlR5eHNVTHFxR1BEbGFYWkdLTTNNQzVGNzJFcWhfV2w1YjB4bVVPcXjSAdABQVVfeXFMT3Vqd0hNSXJ6aG1TUG1oWVFrdkVGX3JrVXBmbzlqVGx1cDJ4ZDVUWVcwdFNFUFMyMVNPc2FTS0ctY3VwRVZqc1daMnpQX0o0OVcwX3RVdGROd0hxNWZuT1RyUDh2MFhqVWl6a2l1TDd6ajZ3SnQ2MFZzOFc1TUNUdm83RmlnVWxpNEFmTHhHTmpRU29KZy11Z0czdmc3QkdPT0x0dGVlQUNfYTQ5dXJEeTdwMlZKNUhWVjZaTnIzeDBwbmFscENIVjQ4Z2JqSkYxRQ?oc=5",
+      "medio": "Alerta",
+      "fecha": "2026-10-24T16:21:04-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
       "titulo": "Aplazan inauguración del Gran Malecón del Mar por fuertes lluvias en Cartagena",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2ZOU0JaMlRwTHdELW9iNkZMeEkwNS1EcUhQU09iN0ZiaDhhRFp1Z3VyaVJwZlUzNm90bGY3OXh5S1daR0szV293d3N4R2xVdy1Fd0ZIa3JkOVpMSVpiSy1uNVQwckg2VVJoV0NQLVNCVklnNDZ2bWZiajNVb2ZlcDhrWDQwQUJxek53Q01jVmhWc2ROR1EwbU83RjdIQ2dSLXNQR1VFVTJBTXVubVE?oc=5",
       "medio": "Zona Cero",
       "fecha": "2026-10-24T15:42:00-05:00",
       "tipo": "entrega",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "BBVA financia con $197.000 millones el Gran Malecón del Mar de Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmxwR0xoaXZFNjBLM3RFR2JIZE9JX0dFSi1keDdHd21Jd2M1Nk1zWWRHaUhVWFU5MnFSQU1uOTRQak1WSm1FeW5LdjJFNnRoUnVXZ2pOdmEtYWdsbzhMVEgtemlYSHlDbGV0TEFmSHVmb3VvMWpERUR5dk1LajEwYmE2Z3BPdXpremxBaW1DZk5uN05SaVJVY29UVTFzVWVOcVJHdmN30gGrAUFVX3lxTE1XemdHczRQaHQyWVg3NUprRTc2LXFndmg4QlB6b2VYUllVSE8tZVJlZHczZTdHQ1lqQXE1ckhiSFpjaGJnbHlVZW0tVVFPSUF4M3lwWXIzTG8ya2hTcFdwQ3EtR1IxUVdFSkt3MXAyM1hTbnNveFpXbFBhZDFIQWtlU19tb3Q3Sm1icm1tLVc2Ni1mc3BpQzFPWHA0QmNwM0dVQ3lQUTdLUzc4aw?oc=5",
+      "medio": "Valora Analitik",
+      "fecha": "2026-10-24T15:30:00-05:00",
+      "tipo": "anuncio",
       "region": "Bolívar"
     },
     {
@@ -119,6 +151,14 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlc1Q2ZIQUhtcGpnQU1UVVM3aGt3OHBjXzY2Z2ZVNS1tZ2hmMUhNZEFJUFkzX2t2X0xKYVhHQ3dROEFNaVB0QXZYbEk2WUhndDhVWEpkaDRhenNQRjV4akZkaXZzSm96b0xBNHlkYk9hM0hPOERaazFsSFFlc0FYMQ?oc=5",
       "medio": "MONCLOA.COM",
       "fecha": "2026-10-24T11:33:50-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Así quedó el Gran Malecón del Mar, en Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RVMFJ3OFZkemxuMTZET2N2Wi03Mnktd0JfSnRfQkRDX3cxNW5WdnRkQ0FqNEl1NjlmYzBiMDVaamhkZWg5RE5XOGppcE4zVDV4SzIzUFMtby1KdmNRTkRNdmxpNEtxMnBib1BnMm5uR1VlWndZZVB6MDU4VDViMFZkTnJuazcxQm1FV1NjRQ?oc=5",
+      "medio": "Agencia de Periodismo Investigativo",
+      "fecha": "2026-10-24T11:18:01-05:00",
       "tipo": "anuncio",
       "region": "Bolívar"
     },
@@ -257,6 +297,14 @@
       "fecha": "2026-10-23T10:11:53-05:00",
       "tipo": "anuncio",
       "region": "Risaralda"
+    },
+    {
+      "titulo": "Fondo Milagro inicia operaciones para la reconstrucción tras el terremoto",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWdpZDAtbzZSbTRqaS16VWx5a1FDNmw3Rk5jeXlFVWVvSklkU0tjdVJlYXNpS0o0Y1NsTGZ3Q25LMjBZbjJuaWwzUUE0U3JEekRkdUpkcWZGODY4b2tEeWdoQkFaTm1QbVFpZ2g3cmVuNWpZOXdoVnNvX1BmeHdWR2tNMVg5ci1FVGkwVU1PZGN0eWVHM2tsU1V4dWJtcGVPajFyTXYwbnhQUnhxazJSQ2FB?oc=5",
+      "medio": "cablenoticias",
+      "fecha": "2026-10-23T10:01:50-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
     },
     {
       "titulo": "Fondo Milagro inicia operaciones tras terremoto en Colombia",
@@ -1051,12 +1099,28 @@
       "region": "Bolívar"
     },
     {
+      "titulo": "Gobierno De La Espriella destina $1.500 millones para impulsar negocios en San Andrés con la Ruta Milagro",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDhvS1d6OWlBbWppUk1UQTJTM2NmeWctZGJocTVBZFB2Wm5KSF95UWhFU0xuQ0RvVF9UQlFTdThOaFl0R3BFWDZVbWVZcGt4VXptMDdJenNheGk3YzBSWEZNaVU5VVZqZmNFZC1Yem04TF80bGFLOUFibk1MNjR3SnZENVB1dUUzRGN1WHBSYVgyd21wUVJRXzl1Ym5sMjJZaGF2NV9YU3NaVWN6TmdXYUgzQXJhUjZGSUVpaEg0dzVzdE9lMFhnTmxDNnplUQ?oc=5",
+      "medio": "BusinessCol.com",
+      "fecha": "2026-10-14T11:45:32-05:00",
+      "tipo": "anuncio",
+      "region": "San Andrés y Providencia"
+    },
+    {
       "titulo": "Abelardo de la Espriella inaugura Gran Malecón del Mar en Cartagena",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtGZzBGS3RaYlVYaXRITFJSemxwTWp0c2c1bHpKdWU2Q1NFdkxPQ2dvak4tdWc3Qk53eDc4WU4zdXd0NERMZGVkSE5EVUxmRlZ1aEt0STMzSWJaMHRkUEFRVkpGZGprQW12RFRjUUVob2QwWjZocEhMU1dpY3ZYOFlUQ1JIWDN4OVE?oc=5",
       "medio": "Estrella Digital Colombia",
       "fecha": "2026-10-14T11:04:09-05:00",
       "tipo": "entrega",
       "region": "Bolívar"
+    },
+    {
+      "titulo": "Gobierno Nacional lleva $1.500 millones al archipiélago para impulsar sus negocios con la Ruta Milagro",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVFRQmh1ZWMxSzk2am5SMU4zV2pibG05V3B1V0pQdEstWTVOdFFUbVlSQ3FMdm9OSGtXS3BDQVl2VXhYQWk2eTJrQ2tTdlJDM2M0SzRtbkZTTE9HTEs3M24yNi1DeWoteU5hNWVnMDF3TmlFZTJnX3VDRFIydXoxd1h2NG0td19DNERoMVRFY1Ytal9NandvRjBzVkVMTjRYcjFwa3RfMUF4TElSckotblYxa0pQZHd2b2FEbmpCNllUZmFqMzJ1SlRyVW51c0xM?oc=5",
+      "medio": "valaguela",
+      "fecha": "2026-10-14T08:31:23-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
     },
     {
       "titulo": "La primera dama, Ana Lucía Pineda, respondió a cuestionamientos por donaciones al Fondo Milagro para los afectados por el sismo: “Tengo mi rendición de cuentas”",
