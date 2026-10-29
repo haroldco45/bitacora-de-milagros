@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-29T05:17:26-05:00",
+  "actualizado": "2026-10-29T12:00:14-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Montaje de damnificado por terremoto con llave del Fondo Milagro se hizo con IA",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3pfRnJfSEJhSDZ3WU14QTBlM0llNFFneWlPa1pGWUJVQWx5N0dMcVRldmNYdWNrWlZkQXdQRGhRR2FnRjFJc01Mc21nLUt5c3ZOTUpoOXdydW9BS0Uta3RTYmlIZUp2QkFPNEJjUUYwR2RqVFc0cnNZT3VnUDU0NmdKclB0cERvOGZPOVJvelI1YzBpZW1tWVpjTnM0a01LVGREdnJTVmpTc3lUdFBmN1VrdTk?oc=5",
+      "medio": "ColombiaCheck",
+      "fecha": "2026-10-29T10:51:14-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Cesar y Guajira: Que no nos dejen por fuera de la Patria Milagro",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTZ3eXpybWljRE1RQ2VHZGs1X2N2OUZkRFhrTkhsNkY4NGFtMXhRczhTNjJ6dEpwclhUTHVFQVFYMmplclVQRnoyVTBfWEw3UWFxWTMxZGh5UkJVRmM0TE5na25LZUowWVlqb2M3WVpaUjZfNmtpSEQwNTJxcnk2WFZMNGxDQQ?oc=5",
+      "medio": "Radio Guatapurí",
+      "fecha": "2026-10-29T09:54:44-05:00",
+      "tipo": "anuncio",
+      "region": "Cesar"
+    },
+    {
+      "titulo": "Tras polémica por su presencia en el Senado, Matador pidió explicaciones sobre recursos del Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFJYcmNuOW81dFE4cy1EZkhIdFp1eDZuM0dvcmxldzUyNFJlV28za205RFdtQ3p4SEYzUFZqbjZBSkVmdXZSQzNfS1lzN1l1MmlHMk5oTlp5NXlDWXFwWjhQb3hiQnJTR2M2c0RzQXpvQjk2LS1VSS1Sc1pmSzd0dFdfU1c0X3BFVGtjS09MUE9uQW9Ya0NXWm90Z2ZXbG9vUFRDa2E4MzhqTHdENFRtaUt5VmM2NDkyX3VrcVJ1U2R5dw?oc=5",
+      "medio": "LA RAZÓN.CO",
+      "fecha": "2026-10-29T08:59:30-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Cuestionan lentitud en atención a damnificados del terremoto en Dosquebradas y demoras administrativas en el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTR1VWlERXRBcElROGs3emljbHRyWWV6M0R3eW1OZGVOd2o1d1drTjlUX1N2MWczdVdoVGd1b0RURmFIdDUyS1VjQmxFODc4V0pBZFJTQ05uUGpwdVlRWDRLMHdUZ3dMZTlYdHducG41V2paQXp1RjdKMEF2YUIzRjRkTS1YOHZlSGltMjIyN0QtV192SDVaQjJ5bFdSa0xSamZUb2JWcktwYVVzdTRHcURtbnlJWFN0T04zZkJ3TjJOT2g2dU1hbVBXY2FCVVdxU2ZJcjc0YmRiOUhPVkFVXzRPVTcwcG9Qai1wWGo4c0RSWjZaYWc?oc=5",
+      "medio": "Diario La Libertad",
+      "fecha": "2026-10-29T08:19:47-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Sacaron a ‘Matador’ del Senado tras pelea por sus críticas al Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTljRlVabHBOdHBaSVRaMjhNM3dDaDV4QWRDeDd0NVRnanhQZ0MyaEpjQmZQWC1fQzhPNXc2a3ZfT3d3QnpmZ2cxSUlhVkFCSGREVVlrdm9kTGlkcHZ2LXdFYllnNzlNU2V0SnMyN0N6V0hBWVZ1bWtCVFhYS3k2WjR2em8yZnpJTXlSNEJHdURGUlNXSXNnTTN5aE1SOGpMN2ozT0ppVWE5UQ?oc=5",
+      "medio": "El Irreverente",
+      "fecha": "2026-10-29T06:59:13-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
     {
       "titulo": "Verano pide inversiones concretas para que la ‘Patria Milagro’ impulse el desarrollo del Caribe - Emisora",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnFhN0Z3SDdackNOWTR3eVczRXlubFVJcDh2eDd1Slg3bGViejdsdGpwVGVLcU9ySWFkM3BKaGhJb2ZGZXJoczl5Q1ZtQ1BDNUVhekhwY3YwS2F6M2ZCZHJZRkxjV3ZxcXo4N0hFVEI3b3B4dW9oaDVTS0ZJb3poZkE3RWRfS3NGTnVjY202MnZLX0NpYWQxek40blQtUE9ETnB5RGdWYUJ5THVNX1d6eHh2RmV4MmlYbGM4UTBYc2c4c0hkNWQxcFlvZETSAdQBQVVfeXFMUExBMkI3TFo3ZVBZek1OTDRfdkduUGNpQkswZDdrcHRiS0NCYUxzTU95aU1kdEI4ZWdpZXRYNFpxcUxEdHZhcHg5UWZBTVNlVmRreGdNQmdnQlRoNGcyVGx4a2tQTnR2MnNTbkxIN04xUV9jeXVRVnh5WS1aeTM3a2NRYjVub3h0N1FZV084d0JwdS1CblA2NG5HbktJdlhMZnlMNXpxT3dNel9RQTJkWV8ycXBUVUgxVmYta0ZJM0VXZmtwUndyeTdsQjB1T19CXzE5Rzc?oc=5",
@@ -1265,6 +1305,14 @@
       "fecha": "2026-10-16T18:00:00-05:00",
       "tipo": "anuncio",
       "region": "San Andrés y Providencia"
+    },
+    {
+      "titulo": "Inicia la distribución del primer billón de pesos del Fondo Milagro en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2lON0M4V0poQWxMUFh4eGVxbXVxc1VGRDNILXFMM2hmVDRMZmdYdW05TW5RYTNDRTE5N2hjclFZLWo2NElqbXVqb3Z4TUQ4RTAxenh4czRyakM1QUlJanYycU1kc1RTYXY4ZlR0NXBPcW9mMkhja2IyMzJnSS1Zdi1iT1dLQ0ZxUEdFUkhsWTZKSmE0YkhvMjh4aTk5S0g2c2hmOTRMcTgwTW1WSDB6TTVOTQ?oc=5",
+      "medio": "Defensores de la Patria",
+      "fecha": "2026-10-16T17:37:36-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
     },
     {
       "titulo": "De La Espriella llegó a San Andrés con un consejo de seguridad y la agenda de \"la isla Milagro\"",
