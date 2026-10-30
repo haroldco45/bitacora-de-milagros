@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T02:25:49-05:00",
+  "actualizado": "2026-10-30T14:32:51-05:00",
   "origen": "robot",
   "noticias": [
     {
@@ -913,6 +913,14 @@
       "fecha": "2026-10-22T20:05:43-05:00",
       "tipo": "anuncio",
       "region": "Valle del Cauca"
+    },
+    {
+      "titulo": "Al Valle lo reconstruimos juntos: Gobierno nacional se suma a la reconstrucción con 150 viviendas nuevas y 900 mejoramientos con el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNeVlZV3VfVmcyX0lGSWdha21fR1dKS19NeWpRS3VsN2xZM0lyQ2tOcktMU0Z6MUNaZzkxSEJERnB5QWVtcTRoUXRuWEU4eUZaMjRGbWJRaW1hWFFsZ05Mc1RtNVIwX3hGRHN4R2NDcVdRdHpvdjc1UFpIcjUtQ3A1QzlYcjhSbldHVDMxNUU2d3QxNnVLNDN2YW1VVWhreVBUS3l4S3JKZVphR1FoMUZxUm5TWnc3V0NWRWtWYlNUTXVXb3ZET2paTl9nYU45R0tUbkpPajRtZ0wwUWJiUURLZkxhTGVyNE13SS00ZzFpQ1dlMjRSaFUwWHhtWGl6d3NoMlNUNW1yS3Y4UmctQTc4b19iOUtmQjNVdXZ4d1lUYkFyVDlv?oc=5",
+      "medio": "Gobernación del valle",
+      "fecha": "2026-10-22T20:00:00-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
     },
     {
       "titulo": "El Fondo Milagro dio sus primeros pasos junto a la Alcaldía de Cali: avanza la remoción de edificios",
