@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-30T18:22:28-05:00",
+  "actualizado": "2026-10-30T21:34:17-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "De la Espriella inaugura el Gran Malecón del Mar y anuncia más de $170.000 millones para Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTE4ya2NySGpqNnAxSVZ3OEE4T2VsMldZV2d4YjZhclBydXRESUpvM25hcDlvNTlmYzE3RmpObW1MbDYyNTF2S1JSQzdOeXRZaFVtY1lZOC1UN2kxZzRSLUZqNEN3MVhsSVQ2X0FxYU8xN1ZhLWhTUl8wRUF0ZU1mb0NZTGRfOE5LYmJGZFZuOWFqSzBodFFuM0JqeXNuTkRZSTBvbDZ3cDVMVDlMQmg3ekhDSG9pc1FiREFON1lOdmI1TUNLWlhvVW1jNDR4OGtDbXFMSVU0N2Y1dEk?oc=5",
+      "medio": "Publimetro Colombia",
+      "fecha": "2026-10-30T19:45:24-05:00",
+      "tipo": "entrega",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Abelardo de la Espriella destina más de $170.000 millones para extensión del Malecón del Mar en Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXJWNWtTcEFVQUs1YTBHVzhpV0VtWWhVa3NpUzFEbDE3M0ZTbVdUVmsxOXYxT3VralR0THNKeFVBLW9IVEQ3Qzl6V3dQVm1yX3RaYUlGYlhIYUljVlJCblRuMmVwN2U4SG1hUXJxTlZDSm5jZWFDVmdMbkZ3SlpGeXN2dlFBek9TTXJjdnRycklTbXBqVU1XTFpkWjhQclhKWllHQ2Zra29DRlBHbkR6TVRNaUxYZUszVWJHT2tIR2dJZ1VNRGc2MHo0LXdTc203S1EzYTFMRHRJeEkxZXZ30gHfAUFVX3lxTFBTRncyczBldFZtNXQwQW4weWtCaTBxaDE0b3cxZlRORFYxbTJWMTJpRlpXMndvTXRWeHZCREFSNi1BNjZsdEhaRVFJM1NrSm1rU3RSSkp3VHNBUmNWR1YxdEV3VjdvSGpMcVBhek5tOHVuSzcxZkxBRFQ5dnVEUXZtT2JrSllhd01TZEdSaDdTQVB0VS0yLWlWRExrdVBDbG5BbDBtMEEtR0FfNmRiN0pqWU5RMW1HZDJLd0Voc0s5eTRDZm9oaXhnQnA4NE9xMms3MFlMTmNiUXVoZzlHbWs?oc=5",
+      "medio": "La FM",
+      "fecha": "2026-10-30T19:17:17-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Gran Malecón del Mar en Cartagena, oficialmente abierto para el disfrute de todos",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1dwa3BxNkloZmMxZUJucENJeWVoU09wQWpZUE1SN1RuSW42dGs1Y2FrNUtlRkxXamlrdmRGd2N2U3pETUs1OU1xSExxXzJQZzVmbG1XbVZLV01YV1ZjM0lPbF9ucU9uVURjeDU2WGFPMEJvLTJ2dzFEb0VJY3pZVUNzaVMtR2U1QldPSjF6QVVyam5XaGNDWmRxcFdUWWFndUFyRDh4MHB3Y0tDQUNLOEN0VXkweE85QjJlWlhuTFl6dzNkeTZjV0Vn0gHKAUFVX3lxTE9zV3BrcHE2SWhmYzFlQm5wQ0l5ZWhTT3BBallQTVI3VG5JbjZ0azVjYWs1S2VGTFdqaWt2ZEZ3Y3ZTekRNSzU5TXFITHFfMlBnNWZsbVdtVktXTVhXVmMzSU9sX25xT25VRGN4NTZYYU8wQm8tMnZ3MURvRUljellVQ3NpUy1HZTVCV09KMXpBVXJqbldoY0NaZHFwV1RZYWd1QXJEOHgwcHdjS0NBQ0s4Q3RVeTB4TzlCMmVaWG5MWXp3M2R5NmNXRWc?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-10-30T18:59:26-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Presidente inauguró dos kilómetros del Gran Malecón del Mar en Cartagena: habrá millonario aporte",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORk5WRHNHa3ctQnkwMEg2LXJJMjRCVE44X2IwRUU3S2xJeXlKM245YmNVU1BCRjJPYlAwMWlwVGN1QWdmOVd4Nmp2cUd0ZllOY21oUGVoc3U2R1JsMkFPOV9TNEdEdGZ4Q2dnT0JVbGhRMnpaQmpONnVtcWFLQncweFpTazJBX2Z2ZlJvS0JoNjhhR1djUmN1Rm51WENGMmNoX085V3BNNWRPaEpXUG9UNGpkMk5qNHFvc0JLeFlZZ2VFeDlIdGVjelVJZ9IB3wFBVV95cUxNSXVfN1I1aFZtOUdFZ3ZDeXJmTzFhMjRJeTJLeng3MXd3TW1XeGhWanY3NGV1c01rdHNnV0tqanBWQXFJM0lodExDTmQzcW5nRGVVMHJOVjhEVXJYaDA4YTVsUkhmYzV0T1cza3hzRkZmWXd2WDVFb3RxYkpqZ2RMX29ONTkyNkg1NnBkbjVaQUJPTldIaXNsd3RhUEVtSUJYVTBJR0RnRGhCR29JY2ZmY19TWTVRMUtRSVhsZGRDcWd2MC12d2dYOUJlSmdsMmJ1bkJ6VGhQTllXUUtpSnZR?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-10-30T18:42:14-05:00",
+      "tipo": "entrega",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Gobierno anuncia más de $170.000 millones para ampliar el Gran Malecón del Mar en Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzBtSFJLTlhXX09xamZDS2lXN0liZEdRNUVrSTZ4RHhRVHk3dlhhczJBc2NvbXdBSVA3d29weWM3S1M4X0hkY3lVQnJQRURaRkpNUm9YUk41eWMyWEJScndMYVBQS25qN0FZQXE1Y3BvY2xmYnNVekwwY3FsdlExTVRxdGdldnN6SVFrMDM2cFZCY3IwVzkwRjZUTzBITkpQTWJjYTN5ek5UdGNUeHlrQUVHRDhxanFONTBjeXl1Ui10X1VaSVhrSk9fWDkwbVNU?oc=5",
+      "medio": "ELHERALDO.CO",
+      "fecha": "2026-10-30T18:19:05-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
     {
       "titulo": "Cartagena inauguró los primeros dos kilómetros del Gran Malecón del Mar: así quedó la nueva obra frente al Caribe",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORzBrNkRnRGxNVHdHSENXLTV5UHRMU3MxUklzaldMaG9ZZTJ6OG9UYktiUWY4aDVGV2JyMHZHVHR5NmR5ZXpmSnQyZmRrMmdiMzNsMlBmVk9ENmViQ3RyQlBUcEdpc1pWTVVTejF1b2VoRXJoY0l5NlliYl9OZ3p6WHNiUDlPeEQ1Z3NxdUJtVVRoMGoxaVJpNElzVlk1aE8wdWFXUVNCcmY5Vmp6SE5HMUYyUnd2Q3ZmbjFsd05NVlJxWm5KWjBXZ2lsaFJpU1RyVG9Ka1ZCb0dQVjFYZ01F?oc=5",
