@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-01T03:23:22-05:00",
+  "actualizado": "2026-11-01T10:21:24-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Gobierno Nacional destinará $170 mil millones más para continuar el Gran Malecón del Mar en Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjhZVzBpVHp1VWFOd1ZZekI2TTRRcFZveFctVW83VnJxSEVMQVZEMnN2YVo1a0lmX2tpOHdsSVllSk5pemxncG1OckZyYjlkaXQ2MWVyNllxaHAyRGV6TVUwRkRkWVRFYjZzUmlRWkxtM0pMYVJXdW1ITkRuNDk3NUthT3d1d2FSNXBCTWh3Z1Q2elBma2E5UHlyaHhwRFA3c0pucFBBZnRmZ2hqMm0tamExZ1QtejRQenN6RlhqQnB1SWM5NzJSRG1zdUViQQ?oc=5",
+      "medio": "revistametro.co",
+      "fecha": "2026-11-01T06:33:43-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
     {
       "titulo": "Cartagena: Avances Gran Malecón del Mar y Mirador del Sol 2027",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYy1wTVpFY0FpZ2xiWUdoYmlwNmozZEZnX09LSmhWd1l2QVItM2xkeUl0OE5jdXRhdmtRbjVpSjRITi1qTGE4bi1fZHJxanlZQWlqUmQxN093Qkd3UkhMVTZnWTN0ay1DeWJRaWdVbkI2ZjEyOERuUzByQlhUSkx1SF9DSkhKdw?oc=5",
@@ -1104,6 +1112,14 @@
       "medio": "Pulzo",
       "fecha": "2026-10-23T07:25:52-05:00",
       "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Más de 7.300 viviendas recibirán apoyo del Fondo Milagro tras el terremoto: así avanzará la reconstrucción",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPajZhOWZHR0hza25nd2lsQjJ0cWhIQm1IdC1zVGFzWFh2OVlQcGtBOUM0YXhIMVo5d2U3dVd6SzhmRlFZcVhyMnoyVExHejlfaFF1Uml1UllKdTR1SEpqd1VUNTBxNThyQnFfdGFVUTdtQmQtbXM3a1RSN0dpR0RzdXJzSDdBMVZxMGtGMTl2UjF6SGlIQU14anRDbElRcXRKQzc5UmVhMmRsOXItTi1uQnhYVE5GeWJFMUYtTW1maUo?oc=5",
+      "medio": "La Patria",
+      "fecha": "2026-10-23T02:00:00-05:00",
+      "tipo": "avance",
       "region": "Nacional"
     },
     {
