@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-11-05T06:16:46-05:00",
+  "actualizado": "2026-11-05T13:52:05-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Gran Malecón del Mar recibió más de 14.000 visitantes en su primer fin de semana en Cartagena",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaVBVMTJjc0RURHpIMzRvSnNtTE1MOTFsamRzTVpiaVh2Y3VnWkItVzVvZThUancxRjg5WHVEdEpYV21xNGk1T2VZYVJmNE9PbXJVdDZFQU5Pcmtya2tyMVU1Tm92Zmplc3VYLUhJV2w3WHNhcDFoRGN5OTFKS0ZZUW1ScFZWVWM1bGdfTkpQQTJFOWp6bXVRTGxRODd1SmlFeUpRM0xjMFYwd3Vscnk3U2I2R1dVcXZwU09QLS0xTGh4eG5jd0E?oc=5",
+      "medio": "PrimerTiempo.CO",
+      "fecha": "2026-11-05T11:28:29-05:00",
+      "tipo": "anuncio",
+      "region": "Bolívar"
+    },
+    {
+      "titulo": "Beneficios para bachilleres que quieran hacer carrera en el Ejército de la patria milagro: salen con doble titulación",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQU8yYkt0NDJxLXRJV3I0ZU5PajhSeW1DTHR6SWVyT0x1bGRMejNUVHNxYnhjV1FaR0ZxclBINDZjNVRwT1BQNG1RRW5uVVZURWN2RDBGMmRSeEdYeXFTYlVNV1NrWDRxZ041Uk5oTDdBSS1LMVo5Z3hIQlc2QUVQa1d0a3JVRUVhbl9VcTl4ZHlURTNRYVZ2Nlp3anlfbDhjTFAtQjRfN0pHVHJDWWVnSDJzTG9WaTZJUERaR096aDcyUdIBwgFBVV95cUxOb1F2MjFDbmZFSnFkVzQ4TXVWYW5EeWtCVmZ3OUZRcXVEWmZoT2xRMUFqVUxoMmh2aU5tWnRaLUR1bXVZTHlhR3ZpU1JRVnpVbURNQW5tNVozdVlFRkNyX0psVWF5YTY2WlZDOXp1THlvTHZUV2phaG82cGcxeFFHaVpuTWZQNXJxZng4ZlBDblNfRTV0eXBXRkxTbDdnN2d1eVg4T3ZxUll0QjhjQnN5dk5mN2M4NV9zamxNaWhxV1Judw?oc=5",
+      "medio": "Alerta",
+      "fecha": "2026-11-05T11:26:37-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gobernadora del Chocó revela que debe usar recursos propios departamentales para reconstruir viviendas porque el Fondo Milagro de Abelardo no ha hecho nada",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVGtpc0JiQXR1YUFOZmw2UUFtZnlqelFHSUJmRHo5VVNLUnF0VEVyeWN2VHdLWWZfNnF3dnhEalp4c0tCNGFYQ3d6czJqOXVRSEdIYzAtUC10VjJDZlVONTkyM3N2alJ5MFZVODFxcXc0aFA1eldmaEw3RFp1M2RiSmd3ZjBtWExTeURnTEdzQ0o5S2pidDFXWUc4MDlGZTNHajN5RDFsN3FCbXdyQ3lrS196TzljckxJajRhbThWSm9Wckd6SURQbXNlai1NcGhCUUcyQzBsc0k4YmNFcTNjXzFNZjN1cjFOVlVwU1ZrLUtYYVB6WjBxcEVndGZTSWNVSllTQVFWbHh1dWs?oc=5",
+      "medio": "Al Punto",
+      "fecha": "2026-11-05T11:06:14-05:00",
+      "tipo": "anuncio",
+      "region": "Chocó"
+    },
+    {
+      "titulo": "Las alertas de Catherine Juvinao sobre las reglas del Fondo Milagro: sus manuales debilitan los controles, dice la representante",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbmVuUUZvZk9QblZ5WFRjLXlUT1h2UGZsMnJuOTFyS2QzaldjQzJxaFRuZFZ6U2tWYnd0VTV2NWpfN0dMMWlMWXJmeTdYYVc0OFlQX0VFRWI2eDdLbFBheVF3UmY5cVZSNllFd196SEJwR3pHZVRhWWY4bWZiMVNXem1VUUNfaDdTU2FvcS14Q1JfcXI2ZzJJdnNvbVNIWjA4d3NtbEl5OW1UcGt4TWItSmVObDRmUnhwR1hnaWR2c1hlX1o5UVFiTmlYdlBnNnQwa3dORUpLM2MyRzZJMkRMeno4SklwUGVSVG5xblRjLUU4NHkzLTJidjBYTTVGdGJDLWpuTlZ3a0TSAY4CQVVfeXFMTlJaNUU1QzZ5X0FlVU43YlVBRXkyanR0S1BxVTUxNkFtXzVSWVhZN25QMnVpQVBrWjNkbnBzU3hzbTBIb05uaTRkWkpZd0VHSkI4YkxQdHJkTUxReWdpWFRwY2gxazB0WVR2LVJqdm5jbENBa05UWUdoc19OcTEwbE44Nk5aTjBXSXFyeE1sY3Z6S0NibXhtMXpiSmlmSGtiNDAzZ2QzYlJHcUZBZG5IbFpYYmkyNmlEYzNmaG5sWWVxRmFSODVkdjhNSWNzS3J3UXpjRmV3TWt0Mlowa1piOEdTOEtjaDdpaEJTRTBHRWFsZG5zVG51V3JaczlubmFZVW9kWFJETnU2T2M0NzJ3?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-05T08:37:31-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Congresista del Quindío Miguel Grisales y el reclamo al ministro de Hacienda por el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczJ4MGkxQjVoZkMzaFpuczdkVzRCa2RtSVlyamRZOTFCdXFXSVhpWGZVNWlKMmxkdGhkdUU3RWozZjJITDNSWUlhUW83WUVzSm9MUjk5ZmVEdlNRcUNmc3pKdEowd3M1Q0dsOUNlNUFJTTh0ZF9WR0p2OEtnLWpXSFZPYnBmWHpDTHRhbldRY05pRHlfOFhsaUpWSlJtcF9vR3N3WEJvX3pCdTBKd0NmMjRUYnZ4dHVfNmdmR0h6SzlURTRWMFhIVXYtNGPSAeABQVVfeXFMT2R0RnphUkVobHFUMFNtMTU4cVZlT0ZwQndLOTV0eFB1U2tMd3o0WEoxMGs1VVZ4VTA4OV9tYkx3QldhX3lzZFE2WlZYMGpRa0tHQkdtazgtT0xTUjcyRENXWENOSEk2NGxmY1lfS2ZQTHVDRjlHVGM5NmFoU2FBWUdjMjJ4X2JpZVNueFh2bHhJUVl4NS1hWDhWMkNMSWM4M3JkSE1kSlFQdnh6UGI5VUhBSEw2LUw0T1BHZ1ZHbXdORWptYXdDSTdUeG9mQi1Db2NIWWJwWHJXaDFLb1RsMWw?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-05T07:37:28-05:00",
+      "tipo": "critica",
+      "region": "Quindío"
+    },
     {
       "titulo": "Colombia Mayor y el Fondo Milagro tendrían más plata ante aprobación que le hizo el Congreso al Gobierno: qué falta para que se haga realidad",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbUtZZi1mTjh3a0hGNVVLXzBoRktGdVFrVXRQeGJhMzRqNjRyX0NHa0hTa1VrTzZRZHdmV01LdndPVWwwRjlZa0pzMmM5eEZHWmFOMEFqMlNxUmpHdDVPc19vWEdLc2JyMEtwTnYxbjVHYWJMNVoxY3ZDY3AxaDNzdUhCRThybjR2SUFHUndYa1JDOVV6b2hHeFBxNVZnTnRjZUg2UEFRaUxncFcxdVBHUDZkOEM3SEtqMHJncTVfSExUNnVlT2g3TzFUYVNpRHNKWHVRVEhFNlZrVkxJZVNZSG1PekpHakNhTkVGMGpHaEYyUzVNangzNVlBTUZLWUctWU1MQ2lIbDFZcm5iNHlnc1ctSdIBrgJBVV95cUxQSXE2c2E2SS1Cd1hSVDQxb1VjZHljM3RDV0R3M2hpYldhdHR6QzJCSHpBV1ZvNHpBa1VSbERLWm81MlZwOXRSZGtqejZ4XzJXbjM5eWdjOTludW9jS0VJYWRPNm1wZE03eWpFbS1ZM0dMcUloVlJTZmlCYm54SDd0ekpJRDNNNXdUSm1zTm1WNE12a250Q08ySFNrSzd2RHRyaGZwcndPZDBOb0YwYXhHbk1IclpRQ3BUU2gxLWZNT2s4LThsVTZjNmZaRUd4MHdnTi1VSzFHLVc4Y3pqZXE4Y0ZhTy1ralBNblFWQ05GeWN1dG1xSGIxWXZyV1dVNmVlNTJsUWJSaVBOQkg2aHJhdmlxNXpFbnhNU3pqRS1OQndmaXJvMGFEbzFIN2QwUQ?oc=5",
@@ -1417,6 +1457,14 @@
       "fecha": "2026-10-23T02:00:00-05:00",
       "tipo": "avance",
       "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro pone como modelo para el país, el plan de reconstrucción de Manizales",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWd6VDAyYWJIWDNrekpGeGVrSXRELUdIYkNQVERZaS1uWi1EaHpNWXVPaG9VM0dVTXN2SFlkUjE5OENqcXRHbndKZUY5QXprRHZjV1hGQUUwWThHRV9icDJFSUM4ZUhtVkEwZW9RVGo0SHAtSmpWd0JkcVNMYjNWWXQyQTNqRFQ2N1BDRkJiMjNkZE10cTBPajVLOGhZcVRLZDdDaDdFQ29raS15Nm5pYlV1bHpEekdzSWt2MHVnMUh2Y1cya3VR?oc=5",
+      "medio": "Centro de Información – Alcaldía de Manizales",
+      "fecha": "2026-10-23T02:00:00-05:00",
+      "tipo": "anuncio",
+      "region": "Caldas"
     },
     {
       "titulo": "'Fondo Milagro' inicia labores, anuncio el presidente De la Espriella",
