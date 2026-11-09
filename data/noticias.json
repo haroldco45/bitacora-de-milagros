@@ -1,13 +1,53 @@
 {
-  "actualizado": "2026-11-09T04:58:56-05:00",
+  "actualizado": "2026-11-09T15:27:22-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Fondo Milagro, a tres meses del terremoto: la Presidencia reporta $332.000 millones para vivienda y separa las cuentas públicas de las donaciones privadas",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0xUVzQ0Um1OSVBONG1YTG1aX1pCamluVktRcGc1a3BDUUstTjA5Qm52QmNXWHNwR0p1bDZ6RHppLTFnZjVQOU1pX2F4N0l0ZzNOQTZKU0NzellPQkVwSGZjb3M3YUQzeHJyR2c0QVcxSWlBcW1idnFaT19TeFNfUTFZMUVUQWVjbFJZVTc5ZWxONm8wenlHTWZuYUdWU05IaDcxenF2UzJVMC1RajBST2R2Vmo?oc=5",
+      "medio": "IFM Noticias",
+      "fecha": "2026-11-09T11:43:22-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro: Gobierno detalla el destino de $386.600 millones para reconstrucción y se desmarca de las donaciones privadas | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRTZyZzJYbUYyOXROajM1SWZWVDU1TERRZ05IQklXckxSTHZzUGpPTV82cXNPTHFEZm5YNjdzXzQwOU50bjg5RmNrYXNLS2Y5TFBwNkNVeVBxVmllTjlMbkZXNlRaTk1tTVB1UEhYOE9sRXRTaFBYNjRJZVpDbGk3SUVRdDIwTGhZdno3bWtBVmlyNFMxeE53NHV0bDZVcXZEMVJwckFsZkdwOXl6bTB3a1RiTdIBuAFBVV95cUxQaElLYmpDd3FrS0J2bXZFXzEzbXd5MktfNi1zVWE5cFp0TzdrODZ0Z1JBdFJiNU9DeFhxZlRKV3JYX1ZKVnVaVkM3aEtiWGNZaFBQVk8tNktSdUlpLUc0QnllWEVDTGV6RGdzWXg4Z1hjMEFaMXFpcnVtc1I0eVF6VTVZOV8tTTh3bDR1ZXphOUVIMk5IRXBOSzZCa1g3c09MaWJrUWJfSzc1TnF0OENQc2Eyd0QxSkhv?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-09T11:03:54-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro: gobierno mueve cifras sobre la reconstrucción",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUIzZTFNZW1COGk4eU1zQ0owam51dEJaeDVKdkpJUU0wRE1wSEVZWDdOd3dhVjNyMmpKSEJ3SEJRdzNaZkdBWGlmUmV2Y0t3OXptYU5PT3llUTVvYVRSelloandNaF83QlE5ZFBwZFpyTjBtSnd0U24tc3doWU9lV3RTcUNYNWx4UU4yVVhVSDA3ckI4NEZrSE5wNWxxWFM4ZkdON2dmMA?oc=5",
+      "medio": "La Silla Vacía",
+      "fecha": "2026-11-09T10:54:09-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "¿Quién maneja la plata de los damnificados? Gobierno revela las cuentas del Fondo Milagro y explica qué pasará con los billones",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUlU5eldZWk1OaFdDc2lFVXhVUGpOQzhDellvNTJibEZtYU5GM3FWQ1RoVDJYSUJFZlBiQjNZX293TkVWcXc4YW9XV3pNSkdiSVJRWWVhVDlXR0JjZzFTWFh2OS1fX3FZWVFJY3AwZy1RZ1JNTGk1QTZSVmpwdXRNbUQ4M3dOT0Q3Q1NjQ080V29LeXBGbnJza1dUZWROM05UQzUxdVBDcE9FOTJCS1ZOQ1p1NkE2S083bllqUDNTakd2amMwZDc3RkpuTDR6NmxkcTFMT21BQV9HazFrSzZza1M1bk1WVlZtVzV4bUw3dHF0ck5rSEE?oc=5",
+      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
+      "fecha": "2026-11-09T08:02:11-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "Las polémicas cuentas del Fondo Milagro: Gobierno revela quién maneja los billones destinados a los damnificados",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0RrelFUdFdFeDZwNUdBTHdVbHo2LWtvai0tVG1NRWk3cVo4SjA2RlVCNmM1cEVnX0lBODM4aXg3M0VXa2d4a1h2aUZiUF9DUnRuVFBNcmJaS0ktcFpzS090NFc0eWl0MjVzTjgzdzY4eVZTWEZZT2ZPaVJucmdtQXAyMlhuRkI2V29mc3hvS2swWFhYaFE3Z00xR21LYWN3NkdRVFRWWDFMRVpaZlJ4RE04QkVDQlpadVhmMFNtMjBjSk9QWF9JYW10WjY0Y3FIemdkQzItVTV3eVFSLVdHYlI4V1Q1VTc5ZWFRX9IBhwJBVV95cUxQZjBnbVozUGxWb0xGRE9IMjgzMjlZVDQ4ZlF4WDZXcFB2N2NfUV9MUDVsX1hVeXl3V2FDdFhUZm1mNGg1a2ZtOWZaTkFlR0tUU0o0SVBwU20ydk9JOVBTVlF5UVhhV25JS3JhRnNKNGd2X1VFX3NkWkk4VFV3b3VCeXJudnBuSkEzTDNTXzNvT0F1T2JnRHJfSFJoT1BMVG4zQ0s2MENNOE80Yi1mQ2pTUTVYeS01bUE2QjJNeXpfR2drZ1ZuUHIyRzRFcmxNMEJoR2g0eVRhTkpkdU1nUUhvek80SnRrWlh5dTItTnJFZl92QllsZ1FSUUg1eVVjUDZPSVUtWHhabw?oc=5",
       "medio": "Infobae",
       "fecha": "2026-11-08T21:08:00-05:00",
       "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Cuentas del Fondo Milagro: Miller Soto habló de las inversiones",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3NJNU44M241blNfOHpjUjdZc0dZcW9hc0RZcmc1YmhXSHFNZEQxMzBRejJfa3BxSUZOVzBBTkE3eG9Pd1VWTHZrUXJiOU1EODdTWE9hUWZia3BCSk0xSTVuTkRTS0dqbWJMRDRVRXhXclpuZEtFelYtOVRjeVBTOUJEUTJscUtIbHc2ZllKRWJZcGExU05tZ0ZfQ1RncVRLNGhLYlA1OHNBS0ZkMURySA?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-08T20:54:00-05:00",
+      "tipo": "anuncio",
       "region": "Nacional"
     },
     {
