@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T21:50:16-05:00",
+  "actualizado": "2026-11-10T05:36:39-05:00",
   "origen": "robot",
   "noticias": [
     {
@@ -64,6 +64,14 @@
       "medio": "Las2orillas",
       "fecha": "2026-11-09T10:34:13-05:00",
       "tipo": "avance",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El Milagro de las Regiones archivos",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51YUlLTnFmbjZmV2txaTlsYmpxTTFDMlNod2xacExSWE5ndVJwOFVReGg1WmJWalZackpsSVZhV21JVWtnNldwZWNvY3diRk45SGFsSFc2WEZGTFViOFdHMHJQbVg1RXZHaVE?oc=5",
+      "medio": "Boyacá 7 Días",
+      "fecha": "2026-11-09T09:30:00-05:00",
+      "tipo": "anuncio",
       "region": "Nacional"
     },
     {
