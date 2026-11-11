@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T18:36:30-05:00",
+  "actualizado": "2026-11-10T22:43:29-05:00",
   "origen": "robot",
   "noticias": [
     {
@@ -8,6 +8,14 @@
       "medio": "Minuto60",
       "fecha": "2026-11-10T16:03:04-05:00",
       "tipo": "avance",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El presidente firmó una bomba con el mensaje «Bienvenidos a la Patria Milagro. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWnVSV3dSM05iUUlVN3dKWjFiektHbi1scFBsMDdLSWg2ZHdKTnVzd09jM1JNVFdEd2NVMWx1NklVb3FHTVlaY2VHQ0FwVGZOeG9fZ3B6MGxLSEQyTW1TUk1rUC1Ga2JobklINHM0cVNZQS13OFAyWlpra2d4Ukw1dWhaZkV2U3hMNXZZcGtWVFFiVk1PazNYMjk0TlFNTlpxWk55RHVWWmhZWC1pempfa1FnTlZ0UzJOanh6eVlUeG9aX3BuMENJMS1XZ3FieUtDVFI5bnN3azJ5WERyLXVZbWRkZ2M5WjJ2?oc=5",
+      "medio": "Facebook",
+      "fecha": "2026-11-10T14:42:29-05:00",
+      "tipo": "anuncio",
       "region": "Nacional"
     },
     {
@@ -84,6 +92,14 @@
     },
     {
       "titulo": "El Fondo Milagro tres meses después del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDlja1F4eTZxV041NEl3aWViNlVFSDRHYXBZYXl3VFI1R2dHRzhCc1U4bUdmbUJ2a255UmZ4ZkVpNnEtSncySW5TdmFJMFVmeUxNT3hpeG9XQ3EyYmlndFYxY0oxN3g0aDM1UWNkTkoyTTUxSWlNOHFvbGdkWDJpTkN2TlhFTHVLZkE?oc=5",
+      "medio": "El Irreverente",
+      "fecha": "2026-11-10T07:20:43-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El Fondo Milagro del gobierno De la Espriella tres meses después del terremoto",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDlja1F4eTZxV041NEl3aWViNlVFSDRHYXBZYXl3VFI1R2dHRzhCc1U4bUdmbUJ2a255UmZ4ZkVpNnEtSncySW5TdmFJMFVmeUxNT3hpeG9XQ3EyYmlndFYxY0oxN3g0aDM1UWNkTkoyTTUxSWlNOHFvbGdkWDJpTkN2TlhFTHVLZkE?oc=5",
       "medio": "El Irreverente",
       "fecha": "2026-11-10T07:20:43-05:00",
