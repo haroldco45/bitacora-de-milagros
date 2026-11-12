@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-11-12T03:32:04-05:00",
+  "actualizado": "2026-11-12T12:14:10-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Hincapié criticó salarios de hasta $39 millones en el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd21xd0J4Z2gyVEhidlhYeFh6Vi0xU2hvaUp6X1VoMU1fWmxRbDZyemtGM1RKMU1kem9TdlcwU0FLYm5nOXo0TUV1MU9NQnNudjJqN3pIZ2VmU3hmcUdSeW5zbEczWmpjZlFQOHQxLUdjaUFGeVpQV3NydmtuWmI1cDVadk1xYmRNSTU1SlEyX1RvTUJUVHRlV19B?oc=5",
+      "medio": "El Olfato",
+      "fecha": "2026-11-12T12:04:09-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "¿Cuánto le está costando al país la nómina mensual del Fondo Milagro? Exponen millonarios sueldos",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUzF5c1Vvei1LSDVTTWg3dFE1eGpQMnBGNEZTTE1sNWl5R0hpUGQwbThvWTV3N1l3dncyYk5oZ0loQmNCZ2E3MUZyZUYtYlpJNE94eHBxVW4yZ0pqakExUWNENVpYcVJ6UmhTZFBkaU96TTNONmRuck1kdzV6UUw3MkxQZ2FSbG84OGFlVW1wam9qaEc5SDNUcm9Iay1MMXFCN3hQTlY3bjdIbU1KMDdEcFRmUzJJWmM3Uktjdmx4N3NkajZEdEVHYnpRcmZrdk05S1V1NGhKeWNHZw?oc=5",
+      "medio": "Publimetro Colombia",
+      "fecha": "2026-11-12T11:54:38-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro volvió a faltar al Congreso: solo reportan $7.440 millones comprometidos para atender la emergencia del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdFRWYWJ6RGxqbVd2NXhPQlYxVUZXa0NRQkk0aDF5YUFDQzN0LWlEMmQ5WEVJcmNITzU5d19CeXdLQjZJMGZST0c4MmthcjlEdFY5WHVPQ1d4bnpfSzFKeUFzbVJtU0dONzdCRTlocWFwdmROTjBtRER3SEkxY1VEMEE5N2tXbVhSNy1RY1o3YVNDaTZwbU1YeWtVXzlvbXg5TFhsY3U1Z0tGWU9SbDE1T1FmUUlGNnBxeXVWSllhd2phT3lXMWhCTmYzU1VNV0I2WVdlTkd4UXVfNjhMOWJkczBKT3hPNERnMDlGQkxFVXpIeUhfNzZ4QUdqOFdScUFfUkRfNjNR?oc=5",
+      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
+      "fecha": "2026-11-12T11:08:50-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Estos son los salarios millonarios del personal contratado por el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHpmcEJrUFBfeG9YVG9TZkxQQW5nNHFCRzBRNU1TQXNOWkQ2QmdoS1VrTUFYMHc3UWNBSzRaaEoyNmF6MEJST0lBVHFqemdJOHIzaXZuYWM4aGpHd3g4MTdPamVTWjN3YlZqWjhLTWo4R080YmdieHg5aXFfVF91UnVaVjc4UTIyQVVGelgxampCYnNwVWZweXpiQWotc25INDdwS3JQenl1NV8zY0hXRzBIaXHSAcgBQVVfeXFMTlcxa0o3VzdHX3BuZDVCU1RHbXdkejdHMmlNQklBUlNoS194bGVRWDV4cVlvb1dkbEpOSTRFdExZUW8xdG1tZ3BySXctaDgwcU94Mllfc3REZ2JIaFV3U3NURWx1Zk00U1NxcnVSTUVNcGx5Y3BQLWxCakFjbHh4Nl9sdkdMYU90d2lXR08wSC0tYTVzYXdEVDhoQ1RnSmNrTmt1MUstZDNNY2Jua2Z4S3RGTGRLYlBNV2FDNWN0X3p1QlBvSlhyUUM?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-12T10:43:15-05:00",
+      "tipo": "avance",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El representante Santiago Osorio cuestionó la ausencia del gerente del Fondo Milagro en el Congreso: “No da la cara porque no ha puesto un tornillo”",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPaURzbWdaV0VIcWNFLVdBYXFpZ1FnSVQ1SUtfeVpFTnh5NmYtbVhyMGcycUF2a0VSa0ZTNEEyWFVuQ0xCQkg4U2NkNnFwTXcxOTBXTllvaXQ0MjBGSmxManVUbkNTek12RWNfdTE5TVB3TjRJYUo1VXhuc1JUWEdKVXdQLVpTczNVQWJBS2NmMTJ5X25kMm5OMzduUVd2eW9RQTQ1a2tWLTFmblI5aDdYWnotTkREUVdMZEJCQzBMV0VTdHFZTGx4Y1pSRzRfdmhKMnBTQm5SNHpsVDY2RHBVa2pFUkpycmlodkg1MG9Cc0tqMFJKQWR2d3BuM1c4WV9uQTlQN2FZSl9qdmE5VE1wcV9wbkZpUkpXd3fSAbQCQVVfeXFMT1dCeXBtNzBxNjdzMmNOTXdxRG5pMzB4TWR2NVpFT01udGkzUHhoOVRJcC04Q3BwRFliaFNiY3NhRkhJZDI4YlhuWTcyckZncWRQTlBfSFVYTFAwTy1lMUxuUGFfbDVRcFhHbHA3ZlZrZEI5ZVljT25rU25tdkg1MjRYTmFpUG52cThPQUREbktzRll2eVhSTm5TZFJHSkxlMTFGb3VJMF9yQ1o2aFJWd3ZMbnNEUV9WRFdJd3FSUHMtMVNvM25pXzFnbkxXY2YtSlhWV1MtNGFRZHY2c0RKRS1nNm5UTVBhdkp3YTdFUWMtcmhDSVBQeElZWE1Xc2RteG1oWFY1RWt0Yk5VRXFXTFdtUnptTngyZWtHLVoyejFMMHktaE9tTy1wUXBUQ0poTmdadEM?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-12T09:42:00-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Ministro de vivienda y gerente del Fondo Milagro entregaron 8 viviendas para damnificados en Armenia",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm5fUlZpOVh0cV9EVVZBb3IwZUtWUF96T1BDUlZEa3dHR21PR2o4YlQ2NVdGcmVrcUxrU3hqczE5Z0wzX29xOEZZVno5MlBDdElMaDdlQmppTWs4dnI4SzZ1ZXFLUG1DZTRVd08yMG1XWHFTWmVadG1GdWhQLTJVWllDMjFFNF81TzNrWDlJSXI3bHdEeFpJMTdrdnZfVk9iaVoweWVIMjhrZS05Uk1hb0E5Y2VhcUdEa0lSbWlaN1dOVjRVNUp6dTg4RWU0Y1dV0gHkAUFVX3lxTFBuSlVpSHNaYmJMcUtSeHd4RHF1azNHMmNCcnllbVV5eDV0QmdEcExSaE8yNktNMDVqN29RYlFMaHhZYnhKOG01ZDY0QXFqVmFDVUFUOGpWajRHM2hacU1DZlI0ajc5Y3h3c21FV19LTDR0ZDAxU2RZcnE1MTdqM1U5X0lyR0lKTWQ0R2s1TXJVQ0FmRVhCNnFKemxkTGlJNzZpRmlSc2xtZ3pCaXZVWEdxNFFyYjlZWFU1Z0Itbm1Md21UVnNfVDZZSWxoVHg4dE1URmJpUnlySFVGN2dBcWxsTHRaUg?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-12T09:11:39-05:00",
+      "tipo": "entrega",
+      "region": "Quindío"
+    },
+    {
+      "titulo": "Cuestionan sobre costos de interventorías en demoliciones del Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRm5wTWxHeFhrR3hXM0JpejB2aEFPN2UzVklwbmV4QWpqWUpFM1g2Z3dOQXZ2Y2lickhfQTVuV21WaWstMkpfNWdaZzc4ZzlOY3VQTjhkbkVwQUVTdU1LRDBfYXlZM0ctbmRKUFI2clY5Zlc2bFRvOGg2RTBtNTR4ZFF5cHEzMXJ6aTU3RTFEZElkX1M2bXRxTHhYZGtVc1E5RHJlRFltVnVVdVQy?oc=5",
+      "medio": "El Irreverente",
+      "fecha": "2026-11-12T08:44:45-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro no asistirá al debate en el Congreso",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE8tVm9qTE5Mc3NxcWVJUW5uM0V3TFRMaG10RW1oQ3FCcVRGMjZhM2loNllCeDBraHpjTHpz?oc=5",
+      "medio": "Howl.Link",
+      "fecha": "2026-11-12T08:32:00-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gobierno de la Patria Milagro recibió un FFIE con obras suspendidas y fallas de control: MinEducación buscará su transformación",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUFlfQnlialVoOFZyS3pHM09aOUw1YnhpQTlteDR3Qk9oWmZOQTVDdWVSREx1ZEV2dUJoQ0F0RmZnNlFfOG5qVjBfaUIwRDFWV00xemVMcDVJajRfMjI1dm9aLXJKc3g5Q2JWY0UtY2N5cGFjbWZLWWdHcmFEMEZsUjNRYXBpQlBWblFCTVg4cHItaFZGTi11ekRIaUZ0Rkd6Rl9HNUZtZVB5NWxnVFhBR0F1R2RpNzZ4MUczeFN1TDVTME1UUERWZi1yckk2QjVqTFJ3Um5ER0ExWUVwS2VVTE5TdGpTdE9VcGJFM1UzdkZvd0p0d3JOWEM5LVVvQ1lGT2J0V0htQVZ5MUljRkJzN3IyY0ZDUzdMTFJHV3lOd3k?oc=5",
+      "medio": "Ministerio de Educación Nacional",
+      "fecha": "2026-11-12T07:35:08-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "¿Qué ha pasado con el Fondo Milagro? Alcalde de Pereira revela grave situación tras 3 meses del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVUxxWVd1dnhaUXlMZngwaDdDWXBZbnFvR0h4Nk1LQ3BERHlrUERqVm9FYk4tZDhPbVNvY0ZvMW5DLXRhemc3TlQyb2pzTUF3WWthVHI1aWt1QllEVUR4b0ZuRVZLWDlkLUdlX2pHd25IVzhGZTFxZHZMRjltUmdPdXNjcFdSeEkzWVZHSzhmMERXZG9DLWFQWE1rSlJmT2pLRzlCODc0SU5UVnJUTWtxUUd5eFg1TlVUSWZ3aWNRQ1RSM2sxdURuRl9oMmVpNjdiTDB0VnNxa1BDUFhOYlVGNFJ30gHnAUFVX3lxTE1jMFczQnN4TzdoWERjOVBDUlYtQmMzRGtfUzRKOGhjeEVZaEkzZmhuV0hUZzZIUHU1TVcyOHpucGFpVzM0WkQ3d1U0UHhIVGY5Tk00dndqT2pHUFFtY3pzN2JiU2p3bGFpMFBzalgtQnBhM2JEZDVTQUJWemNGTGU3REFqb3hnLXk5TTkwc1ZOdlVWWHJHanZBcUltcXBJUjU0U2pka1RlZVltN1ZrVzRtWE4tWjAtc3FnYjVXRmpaZlNOT0IzalNCdUF3NU1mMGRzRndMRXBYbW1yV2p1Y3JUTWdSU29jQQ?oc=5",
+      "medio": "Tropicana Colombia",
+      "fecha": "2026-11-12T07:28:03-05:00",
+      "tipo": "anuncio",
+      "region": "Risaralda"
+    },
+    {
+      "titulo": "Los alcaldes de zonas afectadas por el terremoto y congresistas afines al Gobierno critican la gestión del Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdlFXZ3RIWng1SE5Hd1dsam04YVYyblp3SnlHRlVXR1p5X2FsQ2ZVNUFKY0l2S3BsRm1XeE1tLVBkX3Z6Z0FqSlZpZi1lZVJ2a1ZsNmFnSEpLYlB6dTV1Z2haMWhzWXY4Q196TGo2eXlYWjRGR0RmdzBiMmxpOEdQMlNBYmJBY2R5MzZDQ2ZpdlEwMXBPX0JJajhMUGRmSGhUWnhNNkVFT1RSY0E4MTNKMVJyNnBIOE1aOVJVcEpSa0FtR3VoQzdES2IwM3ZjT3ByQzJmXzNFbjA3WFhjX2YxcTBqVHZRTThqN2dkUGl1S3ZKNFJUYmk1MVFQQkVMeEVseGfSAZYCQVVfeXFMTURSRFZnN19DM2d5MHAwR2VCRjBiWWotaFhSVmZxZG1VQmdtclU3UXVreG1SbThyLTRNVHRERlQtWHhVemxWVjNBX2xqczhmS2lYZUhsREdPMVMxY3BobUM2U1BCcGJoVHhDaV9BUmVSRTVLQVVrMkZhXzY3bU1kcTZXV1AxTVMzQl91bE5hOTRLTUphQWJrS1NkVU5NTDJqQ1VTTXQ2aU54V2VXMmM5Y1JFMkI4Mk90cktCOXJXbkFFa1F5Tk1lVDV0SWtscmljUXRETlN6VDRBNVdDbERVOGp1Sk1lUFRyYWR0MHUzR1YzNzU2R3hCVkU3bXZvRmtmaTFacDF4SmlVVV9zQ0JUeHJ0VE1vaXc?oc=5",
+      "medio": "EL PAÍS",
+      "fecha": "2026-11-12T04:30:00-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El verdadero Fondo Milagro de Pereira es de guadua",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX19BdkE5MUN6Q2ZQUFlGa3dlaDhZT3drektSSklaZHg3ZXZPZHlobVN4czZGc2Jla1lXSGwyVHE3RXRqSm5rY3liUndkVFMwbEFxUlpaOXdoTXlSZ0JoNERKbndVMl9yZnJubjd4VVdYaFRYdTFlZVhNRTlUY2d0QXFsR08?oc=5",
+      "medio": "Diario del Huila",
+      "fecha": "2026-11-12T02:21:26-05:00",
+      "tipo": "anuncio",
+      "region": "Risaralda"
+    },
     {
       "titulo": "Ruta Milagro busca fortalecer la productividad empresarial en Colombia",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXFuS2pBcDRfREtfWF9EbWdnT29JLU8yOUN1RGk5MklOSTlvSDlYUDhqREZjZ093WEpocXZEbEJsMVhES3ZIRUFzc3puVjYwNGxfSFRFVzlqcG0xeC1XMU9GbUQyV0l6bnNBZG8yZzViNFNNSGNjRURCQzkwUWFNQVAwa2VlM2NBWHZpOHFuanF1LUNxdFJDeHJpZmNXWGpjaUs3WXVaLVdBMUhDSkUwQ1plcF9jQ1lEbWhxb0hiVzJ1T1B6Z0tVQUdEQWVsT0ktZTdKbnVn?oc=5",
@@ -3103,102 +3199,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0ZOUjZKak5EZjBIbmRTT0xzOEhfTTZ6SURyVzBnMjJOYWpaNWVXeUZsRk5rUlg2eDZyRGxlRzVGd0NRdW1VZUdyQWFaOHFjSzhvNVN1WVJjamczVkVnTW43RUVUdHRDeEVfQzRwNjRSRjRQcnpFYkV4aGVseTBVUlg1OGZzaXRZZmtiZFFGVkxud2IyVWphc3k0OEpHV3hyVWkyalo2enQzU0xITktXVi1MRUM2LXVlcVdzOUlRc00yQVHSAcgBQVVfeXFMT0JZSDhUN1JuU2pCcmJONm5OWWlrT1hUZHZYU0xaSEJ5S0Z0ZW5XdnRzTndXVGN0ZWcxLWtLRnJTVm9IdU5QWDUxYlQzYU4tOGlwbFJkSTNUN3pZX2NBNHdLcWViNW1KeFg1YmcwVU5xMWpDZDR6OWZvWTlaTDlqQkNnTEFJMFQzTnozekxtSzNjYUwwWXhrNm9LcklpVk9NUXQtajZ3UkNkVkE5RkpYSUo1dmdSMEo1cTBENWI4UDdCYkdMNm9xQ24?oc=5",
       "medio": "Pulzo",
       "fecha": "2026-10-15T02:00:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "La empresa pública que administrará el Gran Malecón del Mar, en Cartagena, ya tiene gerente",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNME9Ga2lDMVJDcFd6bFFfMlVCSDBrTjg5MFpNZXplWHJXb05HRktjbUhDWmVaSDdFSEJOYTJtTUFmS2FIS3RrT3ZHM01jLWtiUmlQTnpjbENkQ2hjWi1idzl3UkRxMk43b2stcGhBQnRweUFFWHd0cE80Nnp4RXZKSlo2TU1HdndYY21mUFlvSi1vT19FRFlDMkk2aER4a2tiXy1FbXhtQzJ6b045aVVrX0c2VUNLeWltcGVIQ3BTdVJHTVYyNWY4MU0xMU0xeW9R?oc=5",
-      "medio": "ELHERALDO.CO",
-      "fecha": "2026-10-14T15:49:00-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Gobierno De La Espriella destina $1.500 millones para impulsar negocios en San Andrés con la Ruta Milagro",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDhvS1d6OWlBbWppUk1UQTJTM2NmeWctZGJocTVBZFB2Wm5KSF95UWhFU0xuQ0RvVF9UQlFTdThOaFl0R3BFWDZVbWVZcGt4VXptMDdJenNheGk3YzBSWEZNaVU5VVZqZmNFZC1Yem04TF80bGFLOUFibk1MNjR3SnZENVB1dUUzRGN1WHBSYVgyd21wUVJRXzl1Ym5sMjJZaGF2NV9YU3NaVWN6TmdXYUgzQXJhUjZGSUVpaEg0dzVzdE9lMFhnTmxDNnplUQ?oc=5",
-      "medio": "BusinessCol.com",
-      "fecha": "2026-10-14T11:45:32-05:00",
-      "tipo": "anuncio",
-      "region": "San Andrés y Providencia"
-    },
-    {
-      "titulo": "Abelardo de la Espriella inaugura Gran Malecón del Mar en Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEtGZzBGS3RaYlVYaXRITFJSemxwTWp0c2c1bHpKdWU2Q1NFdkxPQ2dvak4tdWc3Qk53eDc4WU4zdXd0NERMZGVkSE5EVUxmRlZ1aEt0STMzSWJaMHRkUEFRVkpGZGprQW12RFRjUUVob2QwWjZocEhMU1dpY3ZYOFlUQ1JIWDN4OVE?oc=5",
-      "medio": "Estrella Digital Colombia",
-      "fecha": "2026-10-14T11:04:09-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Abelardo De La Espriella: circular por protestas y Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNuMWtrZ0kyMm0xQ2E4T2c0RmhTVXRMc2lYTDZ0cFEyOVpyLVJLNFJXZmdUTExVRFNCUXh6T0Y3VURXVWk4N1RyYnpFQ1JiQy1ab3o1dXhjSmNsNVh3cHhIMkVGRnphSHRvMy1IWHVWRURiUXNVOVgyMmFaVVg4Y0N2bGR3NFJHVGlBYg?oc=5",
-      "medio": "Estrella Digital Colombia",
-      "fecha": "2026-10-14T09:01:22-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Gobierno Nacional lleva $1.500 millones al archipiélago para impulsar sus negocios con la Ruta Milagro",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeVFRQmh1ZWMxSzk2am5SMU4zV2pibG05V3B1V0pQdEstWTVOdFFUbVlSQ3FMdm9OSGtXS3BDQVl2VXhYQWk2eTJrQ2tTdlJDM2M0SzRtbkZTTE9HTEs3M24yNi1DeWoteU5hNWVnMDF3TmlFZTJnX3VDRFIydXoxd1h2NG0td19DNERoMVRFY1Ytal9NandvRjBzVkVMTjRYcjFwa3RfMUF4TElSckotblYxa0pQZHd2b2FEbmpCNllUZmFqMzJ1SlRyVW51c0xM?oc=5",
-      "medio": "valaguela",
-      "fecha": "2026-10-14T08:31:23-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "La primera dama, Ana Lucía Pineda, respondió a cuestionamientos por donaciones al Fondo Milagro para los afectados por el sismo: “Tengo mi rendición de cuentas”",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQTEdVenFSSXNKbU54RHFQVF9SUnJ2eTVqQWpLTWNZUUxQMWp1M2Q2bUU0S3ZTNW5aaTdQbU1VLV8xcU9uT3hCV0xmNnRYVmdnOUhJN2Y0eGdDQU5PczZHU2RkU1E0d29hRWZCcjRPaUV4UElUa19SZHRJdi1HTGFWano1eGgzUFJUQW9pZmVSMEs2YU9fVDU4Z1FNbTlXQkJlN19LRXFHM3o5SzhwbTJ2LXljUWJqV01nSEdGZm53U2p3TkpFblJuRnVvRVRxZzlGUzlJY29WZExiSmFETnJMYkdXYWo5Yms5LTBkM1RXU2EtUVcza3plbUU0UTJ4SllHMWMzVllKUzlPRV9JdndMU1M1cld4UmRNeXhmLWNRNDFseEVNVkFv0gHCAkFVX3lxTFBROS1KYWREci1Tb09GSDBkeU1nanNXMHhkMjFub0JsZHNZczVjcXlWUnlpYXVnRkJoSHhxQnRCRVp3QWxDcVU3YUxDMWF6VWlTVk1hYlpEYm55b1dqMC14X0I3LWl2UUZWNDV0WHJtUUV6UmF3eVgzcFhVNlRlX3U2UzBkd3JLaUJua1JyUnExNl9GdFVFUmg4UkJsWkRuX1BDZ1FodkFOVjViZWhoUFpRLTZPU2JHTFRQcWRjNV9vVmhjN1VxR3hlSzZtSUFkR0dGWkNMVjU0RGp3RkU3bWFBdlFpUEhsR2RnRkJDMDRUWW9PY0taaTZmNmVLU2hyaUZtTTFCUm5GcGNkUzUyZkFsWTBKWEZWSWFZRzdIZVhrWmhVSXRoakx6Mklwc182eE5PdFRHRVJ4M3BXT1pKQl9VN2c?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-14T02:00:00-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Ellos son los Urbina,la familia cucuteña que donó $20.000 millones al Fondo Milagro de De la Espriella",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQTB6TmExWEI3RlcxLThla0VaLUtkSEIxRnItZlQ4aTBIclZVRTg2WWJ6ZmNpblF0QkszV1NfYW85cW1POVZLMWh4UllxNHlCN0FGdFFfSklwVkdGRk1yN0lmNEg4ZlZXY0g0Q29Bb2lFbVJ4TkE0dU9MSEhhTkxwTmhteEotcnZ2ZkVDQ3h3Y0RWYTlWYTE3NElQMmlnSndEN2tScG1ETS1MeW4xQjlFTFh5LWZCc0F1aXROTmhTaVluODEtaUlJ?oc=5",
-      "medio": "Las2orillas.co",
-      "fecha": "2026-10-14T02:00:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "El presidente de la República, Abelardo de la Espriella, inaugurará la primera fase del Gran Malecón del Mar en Cartagena de Indias",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOVlJ3cDFUUUNoZU9Oa2lOb0N6eGdiRkVKbjhtdHFwYTd3Zl90RzZzeFhLLUNENnprSGYwTjh4UVNVVXZuRDVBdnhQTTlNeVhMOUx4NldKQTJSSUpnLWFNdVFWWEVtaFJoVUxyWmZ2VFlPN1hFUnlKM0RZNUlXbm5odmo2ekIyT2NoeERvdjJFZEpCZGswa3NQd012M0NmbDBwazFDc1ZIRGVlQkJybWNYUUc5VUZrd0V4cUpucktXVXIxNVpFZjdfeTF5b2ROLUNXYi0zdXhQcE1Hd0NQSXMtQk52ZHBnZ2JlTkYzUWI2SnJkOWRqeVJNc1MyT0I3ODFTOHZPSzRsMjZvRzRFSTNJWnNKOE7SAZoCQVVfeXFMUGdobjlBMmYxU2pIbWhSaUtuZ2lFekg0XzRlOXdmQ0U3Vk55bVJSdkp1bS1qeUpUUUNkUC1vRmxfc3RETHlGeE1xUzNFVFZLVUVVRjF6SzdSVmU4NlRvQW52a19qd0lJTzQ4OEhWLU9ENGtBeFp2TU1La1VuTzgxd0FQR3RNYTNKdDlzMl9tRkZGeUJNN3JSdy0zd1dQVUU1dy12VGF1ZFkzX3BSdmFCOThyVmV1a2lUbHhpRnR3a1dibGFaR1RXZEI3T0hEWWhHd2o1RVpxZkhsQ1BoUU9WNkp3SmxNRExCc1BvT2VwSGpWelNHR3UwaUxsZ2xib1lvbEJpVi1xVUtPNkdNWHVVVnpyMTlIaFU3cjRB?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-10-14T02:00:00-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Talento y liderazgo femenino: Cartagena ya tiene gerente para la empresa pública que administrará el Gran Malecón del Mar",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbWw3QnFWNG1BblVjeDkyb2owNHZHTHBBRENSWVBHQjBLd2dqM3U4YklpTFpuZHNoeUtJYzExZENEbmhOeGNISTJ4a2NvQUFpcHRSM0NEbDdWYXpIT3p2VFVPZlFEVTNhYWtMa185ZnNLNmhIcTJZN0QzM1F3SHVNcmlDVF9mQXI5Q1NjNmMxbERLYTlqX2Q0SU9FR1poUlEzclFqaEt4V1ltb29uc2pnUzJzbzhKV013U2JsUUFGRlRaY2ZmNE12MFRnWXB4QlNLUU44U0dmZUE0eUFsTWM2Z01UZEJrMHgybzJJRUhCU0hpNTl6SVVpMjVTY0dJMWVUdnBMdnRiOWXSAY4CQVVfeXFMT3FkVUJaZW1QOURXeC1OWGFFSXZ3QW1PMUNjRkc1RGdDMU5tMXZ2eGx5WXNkOHFZTmRHNEpQTzRwcmp0cE1KMmFEckpYSVBjUnFTaWdpeG9LQjVTZVhxZFZ5TUtnaHU2NzFXTVVqT3lkT3pTdGo5NDZURkdZMWZjb3JKX3djNXNMa1pxWGdwaFZBZFlwQTNhV2NqTUVqTXIxS182dTVhbWQ4aGNhT0o3Yld0Sk40WDRseTd6UmZtWldVQ1JFY01wTExkWFdOa20xb1dpdTlWSUlkeHBiTjFpTG12S1g2MVVOakhrSzFjRjR6YjBkRmhXWEpUNDNCVWRtdjVHaXBJRVc5elFoTlNB?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-10-14T02:00:00-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Aplazan inauguración de la primera fase del Gran Malecón del Mar: esta es la nueva fecha",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSVhDRFB4aE16N2hSa1Rua3R5SmNRUUxJaXg4Tk9EWjhUTnVCZmEtelpFZHJZcERfd21wU1FzT3Y3cTRpOExOQzhkMHRqMWhvQTlkd08xWjl2aEJlaF9aaEhGY2JmNWRWN0N4QkFwUDBrQnhwRmVmVGdfMnZOTWVHb1dlM1BGVTJ4cjdaYkxaTmJXWmZqRUxsN2ZMeFpLbnR4V0J1NUFSVjVFOWNlQUs3OVhFMmR4WlFqb0lja2k2WTdfMHM1OHJZT1owTmJkWlExd2l2NDU2cw?oc=5",
-      "medio": "Eluniversal.com.co",
-      "fecha": "2026-10-14T02:00:00-05:00",
-      "tipo": "entrega",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Alcalde Dumek Turbay nombra nueva gerente del Gran Malecón del Mar",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2xjN3hrbGhNWDlqVlRacFExWFl3MDgwVENlV2FxYy1fMDE5dW1zXzdMTFJLUUhmWFppNXV4LVUyOTdXRmVUT1FyVEx6dWRyOXhHazY2VWJON0FrM2hUUENwMHJXRzI2SEctc3ZlUHU5UUlxalhKeklLeGFhbzg5QXFaYjk2MzRPSVZyTjhjR1hFS044UC1MSWc3RkhIN24tZjVFVDhFc0hObmNrWnB1MXJsenFMMkJUS0N3?oc=5",
-      "medio": "Eluniversal.com.co",
-      "fecha": "2026-10-14T02:00:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Fondo Milagro 2026: nuevos recursos para reconstruir viviendas tras el terremoto",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hMkJtNUlBWXNOVHppVHliSTNzdlZCb2l6N0xDUmNzVG5VRWNULS1FU1BnYU1EZWVqdUxLZ3JlUXlPSjBXWXVWQW5peVpKRXliTm8yeTlXUktSNzBrSjBReW5CanJOVWR3bm1vb1Job3dnSWl3eUE?oc=5",
-      "medio": "Wintor ABC",
-      "fecha": "2026-10-14T02:00:00-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     }
