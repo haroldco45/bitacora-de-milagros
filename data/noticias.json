@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T01:48:58-05:00",
+  "actualizado": "2026-11-14T08:51:35-05:00",
   "origen": "robot",
   "noticias": [
     {
@@ -15,6 +15,14 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGlZamw2Y3hXbzJFb0YzcFFjN3dmNGV2Q2drYVNoME8tX0hxdDdCb0puazRfUGJlZlVPNlFESUc0N3VCQS1GWk1laUZwRHBMUVNtMmNmclh4azF3Q1BkMlVCUTYwNE1YR2ZVMmlDUnBrbjdZbFlIbV9yOXNrdW9BemE4cldFLWVFYTFhRUFDRmgydXVWMVNvM3RsVFNzNE9wUmtiOXFkS2hfbjNSd1V4TlN3T1VDdld3Vm9lVUFwMHhMMk9JM1HSAcsBQVVfeXFMUEZzOEVvd3M3c0FmemFTYTNvSThpNkhhX0NmX19GMU45eGZ4a2FYRXB6T3hDSlhPRjg2eXRzWUtITm92cXdfWGVDaWJPODd2SzFSVjFpdlNkTTNPMVpJeUNmWVIyOHJaelpONmVxMm9oXy1POXhnVHd3YWZBUGlaendyNEhmWkN4eFJ6U2FaM3NmczhUVkN1NTFvbUlQSkFqUHJmX01HT04zVEJpZUZXVUg0alpLOEJZNHdCYXl2ZUtBdWw3YllXOURQWTA?oc=5",
       "medio": "El Colombiano",
       "fecha": "2026-11-14T00:11:39-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Reacciones de figuras políticas al nombramiento de Luis Felipe Henao como nuevo gerente del Fondo Milagro: 'Experiencia y capacidad de gestión'",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQ0N1bnJTVW1JblUtVS10cTc5OWxYeU5nZVpYVFg2VGVEZURub0Rzd0gxZ0RWdjFxTUM2WGhzTWNpcDNzTHZrYkhrQkotMjFVMVdscDA0YUhqdkx1V2JFQlJjZUpncjM4SVJreHNiU20tTFZWbERvbjlhMWZmYmRwaHBnYXpQUWFWYi1uV1pXR3NCOUpyWE0xUm0yWUNfbTIwd1R5eXJiZVlzS0F5MTA0SWdGQnBJdDQyR0xqeFFPcE1ad2dTX1VjMW8td0pKWDZzcGlQTlBLamhfd3AxMXljZGZhbFN5emxyclE4bk1xajNOZWRhc3NoTjBnWjBFaGItVGFZZWVnUkVaNkxtaF9ZSDg3LTBXZV9jbFHSAZ8CQVVfeXFMTkxSRlpaVlVwWDJtN2Jac2lBcGplQzY1akZzc0cyMFE4Z0JhZUkzOC1XUWp4ZFJQNjBfMGVKOXZoVlotd0pUbTgzWTlKV3hUbnBkQXdlYkFIb1ZIUWt0Q3dubEJJWV9QVlJNSGkzMWxxYm9iU2xaS1pvOWVTQVpMWS1acG94cmZJTkpkeEZDVF9mMmtDNkFCb1YtQ1RsM0pFZlg3Q2twbmVvX2NTNjlobkJsZFctTHpZS0p0c3V1RlV4c3FTUFZSVjUzdWxjUUxFQUJSb0ZpZHlKLXd1VGt1d2N6QUlfRW5ueTFUTzRjR2IwLXBCUDgzb21KR25mQ2tpR1pyWlJPbjIzRDM2WWE5d05JQXJVcnVVOVdKTFFWdFk?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-13T22:00:42-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -580,6 +588,14 @@
     },
     {
       "titulo": "De la Espriella ordenó reversar la nómina del Fondo Milagro por salarios de hasta $39 millones",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSF95eXNVVU9jNzVoRUxybWhQLTRqM19fVFBmVjFiUVBROWRGdGY1eVNNNW5vZVdTa2U1M2UzZVNfWm1ub2tFOFAtOFliSmFDUnhaSm1kaHNPSktULW9kWUFiem9NMzVzU1E1MExXYmE2NG0xamVqd1lYRHRKZ2pncHowczZvRVlUcWxMTXpvYm9VTGh4OGJGcG51X1F3V0QwWDdudnpEYUd2UkFRMjg3QS1nbDVadE82ZEEzdllFREo2dUlwTDEtWEo3aUhPb09QVnZhNFpuSDI1X28?oc=5",
+      "medio": "CAMBIO Colombia",
+      "fecha": "2026-11-13T08:39:07-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "De La Espriella frena nómina del Fondo Milagro por salarios que superan los $39 millones",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSF95eXNVVU9jNzVoRUxybWhQLTRqM19fVFBmVjFiUVBROWRGdGY1eVNNNW5vZVdTa2U1M2UzZVNfWm1ub2tFOFAtOFliSmFDUnhaSm1kaHNPSktULW9kWUFiem9NMzVzU1E1MExXYmE2NG0xamVqd1lYRHRKZ2pncHowczZvRVlUcWxMTXpvYm9VTGh4OGJGcG51X1F3V0QwWDdudnpEYUd2UkFRMjg3QS1nbDVadE82ZEEzdllFREo2dUlwTDEtWEo3aUhPb09QVnZhNFpuSDI1X28?oc=5",
       "medio": "CAMBIO Colombia",
       "fecha": "2026-11-13T08:39:07-05:00",
@@ -2107,6 +2123,14 @@
       "region": "Nacional"
     },
     {
+      "titulo": "De la promesa a la realidad: presidente Abelardo de La Espriella y alcalde Dumek Turbay inauguran los dos primeros kilómetros del Gran Malecón del Mar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNLUdiNUtGVkJtc1NVNk95aVNjLXRVV1R4UktadktLRWdJY3YtWFBfSkVYYU9ZZ0R6dWdlbndXQ1pSWEZWdkgwOEVzM0VBMVhXZ0Fta2xlcWdqalhkaFRYYzN6YWV4WUZ2ZVlaVnNTX3JNYnRRUlNKMjFsa0pCb0JlSnhhWmZMM1VRekNsdTVoMXNETXM3Tjh3M1MwR090TW5ZYzV1alhudGtyS0wzVDNyelVQM3FHUjBEUlhmYVduQzNNdHVmN0QzeEkxZ2hPNDR5N3lYVVBMbGJqSjhOWG9FVUFqZkVXbFVjQnZZUg?oc=5",
+      "medio": "Alcaldía Mayor de Cartagena",
+      "fecha": "2026-11-04T03:00:00-05:00",
+      "tipo": "entrega",
+      "region": "Nacional"
+    },
+    {
       "titulo": "“Colombia tiene todo para convertirse en una Patria Milagro”: De La Espriella",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd1gzUTJ4UkY1ZGhNRjNEc1BOLTdPWDhwTjhPaUI5NGZCalp0WTJRbUhBNVFoMXBtVGJjWXdTT0Y1Q3ZaWFNaZzU2Vmh5bVFxZDk5Wk9jM250SUViaGQ2c195RldVdjE1LUFCZEZFQjJWMjVjZ0xhU001Yl8yV2VubWNmMnkzeU1lRTQ2N2lIUXNZZmhuSk0zZWNrOWlwempoakQ1aFF1Vzc4QmZDV0o5bGZFVk5DR01DUDNSTmZqNXlnYWlIZ3BMVHFSbmRmby1xRGxVbGVIc1JPOEk?oc=5",
       "medio": "EL INFORMADOR - Santa Marta, Colombia",
@@ -3177,30 +3201,6 @@
       "fecha": "2026-10-24T09:47:57-05:00",
       "tipo": "anuncio",
       "region": "Caldas"
-    },
-    {
-      "titulo": "De La Espriella aclaró que el billón de pesos de empresarios no entra al Fondo Milagro. Lo",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTC1DMkNYR2MtSk9oQ1ctbG1wbjNGYVVyUXBlbXFqc1o0b25pQ0pqNFVTN29zR1NUOW02SndycFphZC1LdmtacU9jbUd1ZlZRR2Viek5LVjRTdTZWTWd0ZnRERHlHMU1FaFg0bUxsejNleERhSHdUaDhGeFJnZzFNQTFwbjJhLVhQQkd5aXZ6QWtLam10blhGdVZma0dvbk9PWXhyajhRWWtoTXFsYVFQNFE0LWdRRjNFR1AzVU9JWQ?oc=5",
-      "medio": "HSB Noticias",
-      "fecha": "2026-10-24T09:32:19-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Aplazada inauguración del Malecón del Mar en Cartagena: visita presidencial quedó pendiente",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRk45R0dyamJqbWc2ZGNQYUZsYzQ0QnJJbjV0RkR5N2kyWWtQREhENXVCdmJyWmJvNmpPNTR3X1IyRDdwRW42QXQtSDQwWGNuejdBTTVzMUNocjBUWDlHdmEwM1U0cl9xYnpMaWJnVjNWdkdDcE96TEt5MGZIaXVjQndPU3FxX3pqTTAzUFZkY1NTY2lfdG5WT2JQa3BKUUp2SHNIZ005ZDIwS3RhV3FUZ3hUOTQxeVN6NFhVUlgxUjczWDB6UUtaeUZsdDRoUkVNUnFlbldOWnVfTFhtMC1IZg?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-10-24T09:00:00-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Se inauguraron los primeros kilómetros del Gran Malecón del Mar en Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWY2VTJhQldrVVhCbHh5NXJCb1RDWGdDWXU1SXp1dnVyMzZKam5UbGhLMzYwaWdqSVQ3SlJSR0I0OVE4ZU5WZXZNT3FaRi0zZ1NDa2NEcXlkTmNOZlQ4cUh6WUtUeG9SMjhSOHFJcDFyZDRGbzVHQnlEdmFRVlZxeHdWSGVtUkljN0JpcG9lMWREdGFCaWh2eFFUZXpDYk1HTWhoeDFLbGNEZWhyQUU4ZTg2YUdrVDdGckFZWtIBvAFBVV95cUxQX2hQYVc0dFpJYU1DSkZ0REVfR0s3dW43TGk2VzhiMWo5aUtCVlhWb0hQTVZzNy1jemNJSFdoZ1ZRTmN4S3J6aEhpbVFMUVNOakFPRHFvWEJRRlBmalFVVXVKMDNDVUkyN19qSFFnUFh3QWozVEpGN2JiN0JWX2I1YUg3b0NyY3ZVdFYzSGQ1THBQR3lJTmRCZXk0b0oyUmRobEh2RTVjeXZ5cHlLaWdVQzJyNnM1djMwcDhzUA?oc=5",
-      "medio": "LaRepublica.co",
-      "fecha": "2026-10-24T08:56:14-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
     }
   ]
 }
