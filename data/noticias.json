@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-11-14T08:51:35-05:00",
+  "actualizado": "2026-11-14T13:53:55-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Luis Felipe Henao se pronunció tras asumir la gerencia del Fondo Milagro: prometió una nómina “modesta y austera”",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONWFUY09wMUlKUklFU1NVMnZWbXVpOGhaZVpxWnh1eDEzeFBMajJTRmdVcXJCT1FqTGV5UkNTWmFNdzNjT0E2ZHlyYVNCMU45UXRYSERoUFZoYVhQVW1LRndFbktDVVRrbkdjbDhNa3R5c0xyN0dxcUZxTG9xZ2JVRnJ5OEk2eEZkbEY0TXpmV2FwbmdPT3NudkhZWUpHMnhTWldkUnJVSmMwT2VGNC1waHZISXl6OC1NSW9KVzhITWNKLTBWODlWVXUwM2NPVXBZQzBWMmhhZkJ2Sl9mclAzMVpVT0VhMFpCOEVn0gGGAkFVX3lxTE5lS0J2V3ZUVU9BNVR5VUpIcWRkeU84V0ZTSjZJTDE0VkxTTDU0YmpabGZERGZfZVNMbUdPVVM4YzBOcUVNay1zRVhDUExDcVNwU3I2SEFualgwU1ZaU1NLTEJtVlI1eW5fVnRZVUl4dkhLY053MFBZaXRhRmZlWXRPYWh6U1hFWmZTaWQ4eHRfVlk1QUltVmN4dEtGRlhEWWRGWTJkYXo4dkpRYk96SjliMzB3c3NmY2FjQVV2aVkxcTZ1ZWdNWl9JRjdBRzdoLU55MHp4VkhqU3lfYXZkQVB5VG5ZSG1CMXVVZE05amhHQnV1aXZjbTNvY3VlcGt3bVRDRzV1VXc?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-14T12:27:00-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Nuevo gerente del Fondo Milagro asumirá el cargo sin sueldo tras polémica por salarios de la entidad",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1idDA3dUpXd0ZXOEc1YkNjaUVZc1dKMEY3MVVMNmp4WndFQkthOERnMFl1eEFWZjRFcHRv?oc=5",
+      "medio": "Howl.Link",
+      "fecha": "2026-11-14T11:04:00-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Luis Felipe Henao advirtió que salarios en el Fondo Milagro “serán modestos y austeros”: también envió mensaje a De La Espriella",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZXJZQm0xN2RLcmU2elpWMnFSUEhmYmdYQ1VYOW9rNkpOSHUzY05fdURsOU9LZTFQZy1KZkd4dms4SElCWWcyZHdtREdVRkg5TERiSzZZZjFBdEd2TlRiaW96Z29VRmVmTjRod2kzZ0Jna3FMSkVZVVc1blVqQ3R6aU5MNVM4dXc1X0d0QXU0b1M5ZzQ5Skc1ZVptaUlKXzZzaTgtOW1SMXI3R1RuZlY5Z3ZDb3MwWjB4Z1ZoYXVPSWRXdWdHVmxLSGtPWXNvQ1pndzR4amhBdUNuVW5HT0tpSFMzLTJHYXFlTGY1XzAwakZmcG14dG40MXF5cXhyS0IzNTdSd9IBigJBVV95cUxOTW9zcUFhMFlJRFBCcjA5Q3RabFJmS1pLdHAwWURZREZMWkdPZHE1QlNaZHR5U3lsLVZGZEZzaThaUlIxeEdjbU9Hb1gxQWg5TzRsT184a1JCZURwSXM3WDdGdjFKRk4xa1ljU0hITm1tb3M4djNReGpvcUlpUlJQR3cwTVJncl9PM2ROTHZzV3RramlNNGhUaUxHTjRHbnVwWmJ5cnQweUt0dmRHamFlYnVPMnpyczJmV2VDb1NJSDYzY29lOG9BU3Rfa2JHRzFZRG1Nb2tTUzM3LUJhUS1RNFdzQkVoWjJ6QmlJb29VVWJEMjNXNEY3R0tLZWN1Z3hJeHNCWDVMQUk0QQ?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-14T10:57:31-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "¿Quién es Luis Felipe Henao, el exministro que asumirá la gerencia del Fondo Milagro?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzlSY1lDbnZVd3V4NmpETjBfVElWcFZhcVlnVGl0TmhtZU5Gb2ZJc2hFeVNXQWJyYUJ3LWdmWTUzU2x0VzhRakM1bjRvRHBlQ0I0OTl5TjVqUlRTcDk5ZkZRTVdCNnRucm5LLUh3ODBLTFp6Sy1XN1M3Ti1mdEFYTFhGQjc0YWxSOEZ4cERsR3M3RnZqc1pDdlF1MGo4TS14NndGeTVMWGJCQlA3TEZnMNIBsAFBVV95cUxPLUJGMTNTRHBaYWV4Tmd3ZG1SMVE1cFZpdFVmYVlucF9TVjlnd0g5Z2s5aU10NGxVQjNKMzJodXJWc0VNc1p3R2JSbUJHWVdoZjYyVXFZQlZDSFVUU2JSdVpheUlyNXlNYkJFY3Jha1RkNTVUQW9ZUlkzTGhTNlBVRGVCbTZkNUs4VDlOT3VNeHFXSGlWaThLTS1JclJrbGR5c2dGQVd0LXVvRUNwUHdYbg?oc=5",
+      "medio": "La FM",
+      "fecha": "2026-11-14T10:38:56-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "“Modestos y austeros”: Luis Felipe Henao sobre salarios del Fondo Milagro tras su nombramiento",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTFDSDlBeFM3NFhKaDE2WE1rblViQThTaXBzSVVuMjFDZHBCT1JoQ0c4NVI5bUQ0Z2JabnpHTXBxSzM1elY3MHdTbVpWbFlJdkEtb0tRckY4Qkl6RE5pWWhsNGZQSXRhSno1eEFpR2p0c2pUN1NCa3hvaXlQa1F4NW9ra0Y1LTdKUWM2Y2xMenNPamhkeXRSbHdzOGRSWkhBTmhjM0hjSEh1V1owUTBmMEVWYW45RlljLVRTTTJ1aTdDSHdtVUZCTFlUVUdrMWd5Sm5N0gHgAUFVX3lxTFBndkI1RTVFTDRRbnBOdkdHNVpDdjVZbF8xRUx6RHc1Um96QjROcW5fVmVlUjdXZWZwQzlSeWlXYm5iYVBObjVqdXpSTGVxTlo4NF9mUE1nZGctTTdGVGY5cVFRRmRQaHZ6YkJzMTNXczJGMWcyYi1pcHpMUHZfQmlDdTdxVE9XckFpS2EzQWw5UXd4MWpTSk16NGVyeE8xakpfRWVVMUVNT1JXR0o3NXdMTU9rUlFOVUFTZkhpaU5vOTZZNWpDbXJtQlZPbzlqQVhCTnJ3ekZqUDZHeTJlUjJm?oc=5",
+      "medio": "Noticias Caracol",
+      "fecha": "2026-11-14T10:27:09-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro: Luis Felipe Henao dice que trabajará gratis tras escándalo por millonarios salarios | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUhXRnVyYWR5SXJhbDhlLW9BRGlMeE9McGVmdmlHY3gxcThzOFVBdERla2dESDQ0TERvbm5YOUUyZTJNSmgwX1Z3VU9QVzBrMi1DMHJudWVZMTliZ2pXbjA0TWpqdDZjZndUOFQ2U0o1cW1zaUpMdlE0QlZZNDZWbTdXWVppV25DaXhrQk5Wd2RIanN3bkwyNnp5dDBpZ1l4SlVKM9IBqgFBVV95cUxPaUExOTh3R2xsVy1ZenVFc3JOYWJfZ3hZaG9oblIzZ0ZvMG56WlhqNjBxWDVTTDNEUVlJZHByaHRpc1ZOMHdsLXY1RGlsQTdLMUJLS3ptblNfM3hpX05IUzlDMTBvWUFFdWs5ZHpWYkxxWVdpQk9JSmU2aFMzM2N6aUdEQWswdUxGTExZMEtLX05Cd3FPV2NiX3o0eGtTQjZ3OWtyM1V4YVZNUQ?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-14T10:26:48-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Luis Felipe Henao asume la gerencia del Fondo Milagro tras salida de Jaime Uribe",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkNFR2dqa2tJb2djQ2pPdzY5ZmtpaFdicHZMTWgtdVE3TUtGc3VrRUdBOTJicW40ajA3eXRPd19TN1JENFVrS3NqQ2NUZk9YTHZqR213VjE0cjgwWEdwSThleUE2R0E0WC03ck1fVkdWSm9NMFJNRVBtdVhHUnNlNEtuaFBweHR6d1BwbHMxZy1scGUxVlJ1cjNYYzVYcmhnQmxwVkRDeTZvUQ?oc=5",
+      "medio": "El Expreso",
+      "fecha": "2026-11-14T10:00:00-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El Fondo Milagro terminó en su propio terremoto: los episodios que llevaron a los cambios en su gerencia | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPampwZ2oxM3ZEdWZBUjBPS3pUdkdrcXZFdXl2RjBBMU9ZekEtdGNSaXFSU0xvcmhkejJUMTVBYzJZY3dDUVloQ2huak8yeUtORkRCNTNvblNHUzk1MndrT0xmVFUwOWFaOEl2cnpXMm9XbjE2UXJ3cDdnbmZvVnN5ZFVKejZBcHFSN2xlWjNodUFzMmVfOXU1S294YnZtUEF5U1k3QXVoQXY4ZEh3ZF83ZW5QTWJ6WGxV0gG-AUFVX3lxTE9MUXA1b0JqdXlJMHBqczJEbDgwRkVuVkFqUUJRN3MwOTVJSXhwZVZkckhoWlhaNXVSQlFUU0UwN2gyMWlqZWtTYmU3MkY0bzQ1cEt6VjZhejdzYmpYRV9qNHJZalpPdnBIZ2QzSkVWUnhXbDNURlpQSXJHZXJSMFVONm9YRmNtUXFkUFd1WVpXOHV5enRRSWI2QmVyandTNUlkQWdKMThyY0lQTlBtRmNyaWlJSnZBLW1laHo3dUE?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-14T09:58:56-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro: quién es Luis Felipe Henao y qué se sabe sobre su continuidad en la junta de Ecopetrol",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHRUcTNqcDlQMjZNa1d4ejFyZjM1emhPaTF4cGctenpheDROT0xQU0dSSDlsLXFvM0c4VzVUME9SZjQ1OUpjdlN0NGRsV3JLRFkxV2VzbU5xY1lDcDhVdnAyMlpwUlZpbUQ4emJXSDNFMGozNkpNZjJhM2tiS2dvdWZwR3RLTFdnNXB2bUVkVGtxcHdJbW1Wd2ZrMXo5MmFmSUdMUXJFS0EtSEUzb0VUVF9raGliQkl3MGI0emhxcmJ2ekFiYUpxU05yVUtTTEVKdHpGSDlJVUxfcGRRdHkyY3lwLWNCd9IB6wFBVV95cUxONWRSeS13dW5HbURtbXVDdkMxanVhdTc1OXRtbndNMW1UazUzNmZsT3pITGJnaTA5eEg3UVRLMUp2TnpRbWxWaW5KNElOd1o2eEVyZGhBbjRjWnF6dERuM0MwMHM2c3hzN1NPanE4VlFWS1hJSDBRQ3BSdlN4NFg0U3VmX0FRTG1tYVNjZllQcnBKWl9RMm5JbWxNb1A4WjNCTWNhaC1qZnVIbTlMeVhlUkZwYk94Vnd6ZWtlTGh3LXJPOGI3Sy1fdEZZbWdhUnJwUUtZS2J0cEUzOUZhSENXUjNuVzY0Q2FVeWZN?oc=5",
+      "medio": "Portafolio.co",
+      "fecha": "2026-11-14T09:51:30-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Luis Felipe Henao no recibirá salario como gerente del Fondo Milagro: “Trabajar sin descanso y con total transparencia”",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcVp1Q19kcjBRTnVNLUdlNm4xTFpucFY0MmUyTE5EM05GdmsxRzk5UFBfRTlDYWZVU1hZb3NrR0NoZHZBS1RaRzZfTWZuS2FLWUNvTGxmZFpUaUJYU2FKNmF1b0hPTkdjYmNtaFZCS0tRb3JTTERNZVJKT1hFVmJ6T0s3MnBiMHh0c0lISlNmXy1lZmN3RlZmM0hsTTZWS0RSSnNUMHNORHRVZDdrZnQ5ak1Ya0xYT2Z6LWs4SXJNcl95VDFJVkNPQ0Fya0t3NmhsZTRWeU9EaXowbmxwMHVtMXlmd3ZFRVdLSHVVNzR4bU40XzhKOXVfLdIB_gFBVV95cUxNQi1jbTBHQ1pULS1tZVZCMVBtUF8wVFFBZDcwUXQ1eE16QzJsZDZoejFMY2dtOVBtR29HQUNabkNNWUt2aERVaGVOeHN2T01IZ2ZDZS1yS3lPS093aDlJQW9pYW81eGVpbUJkVmhnU3ZBRGJsTlFNNHFWNE1KR0dUR19oVFh3ckZCeERhVlhMQ19nNWJsM2VONzdaaDhjNEE4WV93TUtWQ2NoRTlNZm5KRlg1RWNud0xtQlhFYy01Vm4tbVRUNkF2c0lIbFltY0pkLWJzMlNXWFdhMG9qaUVhcGZaal9sOHJKaEhzRk12Tnd1UE8yTDFaQkJOVVZmUQ?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-14T09:30:25-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Le llueven críticas al Presidente por Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0x2eTlWTDdrVDM0cWwzRFdaT1I1MERFZmFjNVViSllyanZscnlSWHdqMEFGTG9STS1MbWJHWDdrRmJvWXFvbWM2YXBvVDdGWThLVGVVN21qN0dDazY0SGlhcHd3RHJEOXVHcU9MakpBUjQ5d1dzbEtOemViajBXNWg3dzE5Z1U?oc=5",
+      "medio": "La Nación.com.co",
+      "fecha": "2026-11-14T01:49:00-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
     {
       "titulo": "Patria milagro o nacional-cristianismo",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ka0VjVGp1S2JMUUZMRTRqb1R1WDNTV0VaS1JOSDA3Sm9teWRZM2cwd3R1T3Z3QUdBMDRXdHlCOXRNM2VSdlpDOG95WHFydGNfdDI3SkdVYlZBaUplWGFyeDB2SGdXX2VTcFVzTw?oc=5",
@@ -16,6 +104,14 @@
       "medio": "El Colombiano",
       "fecha": "2026-11-14T00:11:39-05:00",
       "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Renuncia el gerente del Fondo Milagro tras cuestionamientos por millonaria nómina",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmdQZENqczJycXd0VmZ0ckRjM0V4S1JDeVBVOHZsb1IydjBnQXBvWVUxSldJdzI5cjk4ZEd2QmZlM2tWU1pTSS1QYndjMDM2T2pacGF6ZFh6VExlWkJTXzMydmsyVk5XdTgwY3l6SUpoekJXVVEzVWN6RE10UGRfOE94WjExaFhDRGVwQ3RoNXMyVGROaERoT2ZwN2NrNV9BRWNPMDl0cmtlVHFTaldnR040OUtTQQ?oc=5",
+      "medio": "La Patria",
+      "fecha": "2026-11-14T00:00:00-05:00",
+      "tipo": "critica",
       "region": "Nacional"
     },
     {
@@ -72,6 +168,14 @@
       "medio": "El Espectador",
       "fecha": "2026-11-13T20:38:38-05:00",
       "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Luis Felipe Henao asumirá ad honorem la gerencia del Fondo Milagro tras polémica por salarios",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNC1lUUh4empENUJjMHJ5dXVCTVBaZDdEUEswU2JEdU9oM2RER1kxQmNCTTFRZ010b0lfbGxYeU5lN1NkTExhclVjUkNBT0ZaUkt4MzlkTzhvNjRuMzlwWU15dU4zRmxvR3B6Ykc1eHpQNDh4X2FZbTlna19OSXBJT0xsU1Z4QkZGUkxVckpKRVVScTVSNVJVUjB2SXluOHV5YXFXeVQ3cmdkM1ZUU0RzYXR0bGdRM2FlcWxtaXFoeUZacnhvMUtBQtIByAFBVV95cUxObXpmM3dWalYtZUZZTkg5THFSNlgyaEJBdGVBUHZJU0wtb0VPZEJyNENvWjJ1akloRVZ1N1FJekp5TWs0Zm96Rk82Xzd4Qy1QLTNWcVc2MlNEWjZNbVBaQmFISGlUM3VrdHFvbmZIeEZubFZERlBNdzFTYkRHTE1rdmJLS0dkN1I1MUliZS0tZTkwa2FYQzgxcC1YOGJoTTJrMEF1dnBDOF9HTEV4aHNmSlZCX1B3b0FnUGhhVEtwQm9YUmVYMmI3eg?oc=5",
+      "medio": "LaRepublica.co",
+      "fecha": "2026-11-13T20:35:28-05:00",
+      "tipo": "critica",
       "region": "Nacional"
     },
     {
@@ -3097,110 +3201,6 @@
       "fecha": "2026-10-24T14:51:10-05:00",
       "tipo": "entrega",
       "region": "Bolívar"
-    },
-    {
-      "titulo": "Cancelan inauguración del Gran Malecón del Mar en Cartagena por lluvias; iba asistir De La Espriella",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNODdLYkJDNzVZR0JSRTYwS1J2ZDRJTTlfY3lFeW1vOERxV0hreW1mQWl5S0Fhcm5iQnU2YWtfY2phdUZvcGpiN3JpVTR1TjlDd09BcnBLOUFBakNrZldKZUdobFZhMUNVWTAtZXVhSDg1VmUtVkFtWXFJRWJXTnpZOVpGR3pmZnk1U0NTMDRXSFB5U0J6SWd3OEZIZHRrVjF2TmozTFNRbU5pTFljZHgyVDVyUGI0QkRhWE1PZ1FfQXdmVk82UzhZamFORGJ3aG9aM1dfZDY4R2VrT2t2c3fSAesBQVVfeXFMTzdnVHVEWlBWWExBMWltbm4tY2JHdTZRNk1NcU9EdUNkdW1nVTVhcWwweGpvOFI4V05RUEZJY0NyX3pNQ1Q2a0FocnE2QjU1UV9McFFaakRsSldJbmZ2MUVDTEQxd19lcFE3UDNIQ25IZzFoU044MnI1NHVYMmxZQmFjeEtZNUxVRUxiMG0wQ1dvNTFfZ0hrcndQNWwzT1lxeEtVaGhpTm1vdXJCY1BTdy1kaTFFLTJNRU5fdlV6OGVNMUE4NGVQNVJFRVBMQTNDUGE5WmNNSEJHNXMwRzVLWlYyZUY1WnAtZHVRbw?oc=5",
-      "medio": "Blu Radio",
-      "fecha": "2026-10-24T14:35:40-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Cartagena: Apertura de 2 km del Gran Malecón del Mar",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXNsSGI2WHF2aTJsUkpfNXRRR25GT2hoMG9UdG5lNk4zYWhvakpEWG92cElXV2JXRGNlcXBxNFhhdmEwcXVNOFdFOHRNVHUzNDZxMUxkR2FrVC03V191X0RuUEdpc3RCTjVIcktEcTBWa2tNNnlCc2tFMm5DUzZkUVJ3?oc=5",
-      "medio": "Estrella Digital Colombia",
-      "fecha": "2026-10-24T14:07:51-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Cartagena abre los primeros dos kilómetros del Gran Malecón del Mar; el objetivo es completar seis en 2027",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeFVsckFta0QzUUxXdjZHRDlSSy1WZzdXT1JfWGpkTTA5SXpXSEVzVkJNbjZKUFUtWnVtRDR4NnRfaUtlYzU1WHBOT0hxbGVvN0V4QUNqMm83U1JEUVVjWGFtcHpvYUJiTmdOSFVyVWZUV3ZUa3V6dE1JYmhTV2FuTHhBMmZpQTYyTVJsNTI1RFV5MW9xMTk1bWpGSHpRSEk3NGVIVTJNUTc4OFhnSy1oZGYyS2xFMWxzYlpiZ1Jlbm1aX2lxTVI1WDcwMnJlUDVZZC1LVDJBaWFDSGpTSjA4TmNfS19xUdIB6wFBVV95cUxON1RWQUlTeW9Qc2hVaHJlMDQzc24xc08wOU04SUJRYk43Y3NWbk1SX2FQNXRzWHl0QWVrUkZzQ1RoX21JUWdhV3dLb0N3Q1N0RHdZdlNYSGx2VDl6ajU3cVdQWjY2ZkdjeFN2S3FiME5La041bG1zVWlxY2ZRQ0piS3c2eVRLaDhOUC1tSEl2TS1IN09FRXhRQnlMLVBNcGE4VFFtY29VS1BTM2g5RE9wUlB5Q0FkdGJQcWpuWS1EX19ZOXM1cVBwMmxIRTdQR1pMcXJMdFE1QWRnNW1BVkxpUmowZGg3cGx0dFIw?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-10-24T14:07:51-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Posponen apertura del Gran Malecón del Mar en Cartagena por fuertes lluvias",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2NqYWFSWmZJOXVPTzNJUjNvWEYxY2gzYlpNc3YzbWRBc1FXODNNOTNNVElnZy0zQ3VlNjNLU3d4NGdMUDVqSFZ1eUZTNFMxMTdaeVNGSHlITjFkdEdlVk9BT0ptNXFfdDNEOUsxckVfc25jVGM4QUZBVTNPZDE5ei16eDhYemdTOXY0Tk5rQkZ3SC1maWdKaV9jcjYyVjhKaW54Nmd0LXctNVk?oc=5",
-      "medio": "RTVC Noticias",
-      "fecha": "2026-10-24T13:23:04-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Lluvias inundan calles de Cartagena y Montería: reportan vehículos atrapados y aplazan inauguración del Gran Malecón del Mar prevista para este sábado",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOdVY0VVZzbHFLdW1zSGZ6ekNzeWFqOXNZUWJjN2x2MFplQldNTTZwT0pnM1BDLWRLOFZIcy1FU01rRGh5Q2pQaWg1dUNqU1FMWUdNNm5jQjV4SWYwc1JkV1d3NGVGTUhEMU9OMEJKREFybG8xZmtTOGVzZUpUdVZrQUJnUGpIbElKZ1BCU3B4QmV6bHcwY0lDa3pzb2Fla09yVW9fb1dXclVnZW5zd2MwV2pQckY5ZkZEbnBCQmF1VXUtNEp5WElOVVRvYXFuOVZIeEJiR2xxYWZwT1JoaTQtQXYyV1lzOERkekVuOEMzMlpaa0oyMXo2am5aYy0wZDJocDFsVnJLUl9udjhZaWdTVHlVRGFFaDRqeDg0YUJqR1VpbkRiNS1jRHkwY2LSAbICQVVfeXFMTlRLMHJTRXYxSVdLZ21RMGNEcG9aTkctRnQyd20wSWJMWUNGYjFUX3BIY1pvbno0bFVFMWo5Y2E4RE1PRXVtV0NqekZkajRLamRNYkJ3ZU80QmpROW9sX0ZvUVNoVklETWxDbmpZMVV4Q04ydUVERzlBYlpPZzlENlZRbnlHbWVMbUx3Y3QzSVFYTVFZR0k4WEpXTjRyWkZVVmJDekJMVWF4dFVad3ZpbzhTdVRyeF9aRG81NFVVVmZPYVZZNVJid1VaZUdRMFNkWkZuUllhb0dJckhwdzdRM0ZHS09ZcmFsYTQ5Y0QzQXZHUDZyaW1rSGM3YmxPdjlqN29GQ2ZpQmU0YUFkanpZVnAwY2xsbzhmYlNPVkxDOEZTajhONmlaR0hVYnhCTjFPX3pn?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-10-24T13:20:40-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Por lluvias, Cartagena aplaza la apertura del Gran Malecón del Mar: esto pasó",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3RLRi0xOG81MTNlRlV5NVZkOW9PMEtJc2d2N055aldaUjVYR1dqaDJGM3Z2QzdndDhKMXFaTlBESUNXRGNCTUdlR2tXcG9nQzc4akJNcDNhZUZMclQyaEVzZ3hVSFVManBXN0hZZmNoSlQzNzNlQjFFaG9sSmpUNktVUC1JbDlXNDhNS3M3SnVVQkxtNFBWYmh6cUpUMlU2RFBaN1V2bHFBSm5wZVE?oc=5",
-      "medio": "PrimerTiempo.CO",
-      "fecha": "2026-10-24T12:43:02-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Lluvias obligaron a aplazar la inauguración del Gran Malecón del Mar en Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWkFUYU1kbWxIYWt6aU9pTWh4ZHFOVW90ak5Cc05zSlZLZ0VoUHZNNldnaUs4cjUyOVBSc05BTEJCN0Y3bUFWSDI5ZkhfWjlfaWl2ejY0S1B5MlExbGhSLWlTaURtVzZXc2RwMEc1NUJiNGM0ZENiRFJxYWZPcmFqQXMxcWZOb0pJWWxBUnpnclRjVWVWZktvZXpTTE9LbjJmRDJvTFhXMjkwMGE3T0FHSGhjZnMzNVHSAcsBQVVfeXFMTXRKYXJmVmk5S2hpY1hPSm5wLU5iWnc2ZDE3X1JXaHdCVVYzZE1JcGJFOG1jTWFlZmt0RmJacWJsZUx4X3dDaWxCd0xHdGZEUG54YmZaRmtibFlsMnJBZWVzZ0ppVEFqZGEwLTNjZDVQVnNCd3hVQjA2RjhPb0dMMXBvNmtYdVFkVGhfNkdJWXJaNmU1U0V4ZEgxbVZldjJLM0w0WTdQVjRfdFlNT1dxVUNDczNYOHZlY2NFNzUxNlBCajhTZmEzN3hRUUU?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-10-24T12:37:06-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Suspenden inauguración del Gran Malecón del Mar por las fuertes lluvias",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZC1rQmFqRGxVSWJ4N09zZFRScW01RUtBMW1HTktxVTFXWlR2Znd4c2pvenJYbGxGSTdUTDdTWTdDMTF2TGNQSmt5QjhSRUR3RXV2OXA3d0hHUjVsVy1naFdVaTQ4MWZnaEU3SjNuTXBCcFctS3doaDZsTFZsSXVWOTNJY202R0RPTVcyeFZhYUNQY3czTkYwaTlUY2hWb2VLM3d5eVRMM3lvOTBCb2JrNVc5R2wtQlBkSTBjemZwNGJLUQ?oc=5",
-      "medio": "Eluniversal.com.co",
-      "fecha": "2026-10-24T12:36:00-05:00",
-      "tipo": "entrega",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Fondo Milagro: destacan a Manizales en la atención de la emergencia por el terremoto y por su plan de reconstrucción",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFRIdjNRcjdhVTJIUjdoT3QtOXhXMHVqS3lYVG5RaElLSHM0QUg3M1d3Sm1nUUJVempSaXZqQXlmRGNaUnEzQkVqYUhZSDJ1NFpYUHQyeEpYOGFxVkN1VXNyQnlDTXZra3lvNnptU2RERlNrZVZNQTBrZ3RIT0ZrTUtRZFFMUkpfckgwYnA2cWsyallrSGfSAZYBQVVfeXFMT0Ztck5ZdjVsX0V0R0VJbkdRWXYxU1NhTUNPdHdIUS1hOHIwVG9vN2VJYUo0eHZ4clA2NkFINmdkRm9LeFFxRk1yZGk5Q1BPM0RCcW9Bd19iY2lCR1c2V2pEZDFfWEZFMkRHbjd3emJRRkxoMklWbFFLZ0xIdVdSb0R5SEFndDBGdmhVdzREV2lybjN2MjVR?oc=5",
-      "medio": "La FM",
-      "fecha": "2026-10-24T11:48:56-05:00",
-      "tipo": "anuncio",
-      "region": "Caldas"
-    },
-    {
-      "titulo": "Cartagena inaugura los primeros 2 kilómetros del Gran Malecón del Mar",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcE1zZ01EX1o4SVhfR3VfSEtFRTdKQm92S2V4LVNKUm50OEFSeFVNWmVaY1RoMzE0QWFCX2pSRFdFSXZuVThsRFE4b0syR3hESHZpUVdXV2d5ZlNxZGdpa3BYclhKVDhjSWFkRUFuVGctLVNqZEtXQWprOTZqLWcyTkR5MEZUVEw4MlRleWIya3lVZmJVaUZhOVVjY1dvZTY3ODRKUHAyU2VobnFESHpDbDdB0gG3AUFVX3lxTE01SFFBV2NUMTljQlpBSm82VWR3aVFIWnM0Z1dqaHJqdUl4NkZHMF9idFJpSGFvSVNTZ1VpR2hwdDhob2VKQ1hzOUNwNmc4UEFFUlNqYWxUMUU2azRhbFdLVC1TbjJFbE4yLWszeXBld2J3VXlTa3hKRFVfdU0xRzY2ZXJrOFhmQTVTVW91SGQ4T2pRU2wzQV9zblBXaUY1WkNIV09aRmFqX2h2WFFXRFB2NlFxXzFRMA?oc=5",
-      "medio": "Portafolio.co",
-      "fecha": "2026-10-24T11:43:30-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "BBVA Colombia blinda su apuesta por Cartagena con 197.000 millones para el Gran Malecón del Mar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlc1Q2ZIQUhtcGpnQU1UVVM3aGt3OHBjXzY2Z2ZVNS1tZ2hmMUhNZEFJUFkzX2t2X0xKYVhHQ3dROEFNaVB0QXZYbEk2WUhndDhVWEpkaDRhenNQRjV4akZkaXZzSm96b0xBNHlkYk9hM0hPOERaazFsSFFlc0FYMQ?oc=5",
-      "medio": "MONCLOA.COM",
-      "fecha": "2026-10-24T11:33:50-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Así quedó el Gran Malecón del Mar, en Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RVMFJ3OFZkemxuMTZET2N2Wi03Mnktd0JfSnRfQkRDX3cxNW5WdnRkQ0FqNEl1NjlmYzBiMDVaamhkZWg5RE5XOGppcE4zVDV4SzIzUFMtby1KdmNRTkRNdmxpNEtxMnBib1BnMm5uR1VlWndZZVB6MDU4VDViMFZkTnJuazcxQm1FV1NjRQ?oc=5",
-      "medio": "Agencia de Periodismo Investigativo",
-      "fecha": "2026-10-24T11:18:01-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Fondo Milagro destaca a Manizales como modelo en la atención de la emergencia y la reconstrucción tras el sismo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3ltQjloeUFFOGUyU3NkUUFUUUZiMUsxMjJwdTREV21oQWVXQW5fYktUS2JkdVJIUmZ6LTVHMkpSZUxPU3ZvWk9IQm9VOTh6MzNoNFNKa2ZDX0l1UXI0U2M5akFsWW9sNWdCTmRWanZEV3ZRYklxb2RjQTRnUjRCd1pxVVo0bUxLemdXRkFTcVp1bEpUNVJoaHNCQ2F3MmFlT3hDQ1k5a0pEenctWFlKa0FkUWNoUTRNM0dFLUUwbDdpTktsTUVwa01KU1N3Rjl0RUhhMG9MYmh1QQ?oc=5",
-      "medio": "BC Noticias Manizales",
-      "fecha": "2026-10-24T09:47:57-05:00",
-      "tipo": "anuncio",
-      "region": "Caldas"
     }
   ]
 }
