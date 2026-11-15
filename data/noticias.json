@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-15T04:40:03-05:00",
+  "actualizado": "2026-11-15T11:42:11-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Plata del Fondo Milagro se ha gastado en sueldos de treinta millones para sus funcionarios",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGFXdDBtMUMyM1lVX2tqOUJ2czR5Yy1DMUZtdzV0bHdYTlF2NEhCbjR3X1dSSnQ0alFxSk1WczJEN3g4QTFlTmFoMzZ5eUFfanZQUkpoZHY3dUlhUVE1S0xRcksyS0VmZHVqc05UaG1FekZQOGZDOXB3UXpYOTJLWmNILWxpZnBhSXAwbmZIWk9nZW5jR1pzS3dUOEU2OUZBbHNuNWJHekhnSENOUm1XMmNMdXFhMWNzclF4ZVhKOGtHZw?oc=5",
+      "medio": "Colombia Informa",
+      "fecha": "2026-11-15T10:31:10-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "En los primeros 100 días, ordenar la casa para trabajar y construir el ICA Milagro",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HZWNzNnRXeHZtMTZobzNfZVB0NXhpMkwzSzgwQ3MzNlgwdDVqcldPUktfQkF3NGZhYU9iMzBZY0dPTUJrTUtkTEhLYTEzWndXQ0pLR1hsQlhDbkx5Mkh6bHBGUWRTOVpzblFaLXR3?oc=5",
+      "medio": "Instituto Colombiano Agropecuario - ICA",
+      "fecha": "2026-11-15T07:52:46-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "Los efectos de la “Patria Milagro” comienzan a hacer más atractiva a Barranquilla",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSlJLX29BMXJCbmh2SG1WcnEtdVJOSXdhZENkeGpKUXJtYjBpMDNKVmFHVE1xLWl1TGhpaTlNcktJeTFZM2RWSEpkQ1NTZnRNQzEtQUN0Q0xacENFTzFDdjJITE10TFEyQldtUVB5WUJmWkVFLTh3NENvcU5CN0kyalRYSkxTbDRBU1F5QXhKd2xmeHhHRGJpNkVhRXBFTEJLTWxQVi1UMUNuMkNKcHl3d0VUcmp0WDJDeGg2d0JIWndkTU9UNWFzUmRGLUNheC1RSWE2ZngtZDNxX1NtZ1NaQ2xwck93T0lEcVc5WEh3N2paS3R6RHk1VE0yQkdsMlU?oc=5",
@@ -183,6 +199,14 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ka0VjVGp1S2JMUUZMRTRqb1R1WDNTV0VaS1JOSDA3Sm9teWRZM2cwd3R1T3Z3QUdBMDRXdHlCOXRNM2VSdlpDOG95WHFydGNfdDI3SkdVYlZBaUplWGFyeDB2SGdXX2VTcFVzTw?oc=5",
       "medio": "Rebelion",
       "fecha": "2026-11-14T00:37:30-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "¿Qué sigue para el Fondo Milagro con Luis Felipe Henao como gerente? | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGlZamw2Y3hXbzJFb0YzcFFjN3dmNGV2Q2drYVNoME8tX0hxdDdCb0puazRfUGJlZlVPNlFESUc0N3VCQS1GWk1laUZwRHBMUVNtMmNmclh4azF3Q1BkMlVCUTYwNE1YR2ZVMmlDUnBrbjdZbFlIbV9yOXNrdW9BemE4cldFLWVFYTFhRUFDRmgydXVWMVNvM3RsVFNzNE9wUmtiOXFkS2hfbjNSd1V4TlN3T1VDdld3Vm9lVUFwMHhMMk9JM1HSAcsBQVVfeXFMUEZzOEVvd3M3c0FmemFTYTNvSThpNkhhX0NmX19GMU45eGZ4a2FYRXB6T3hDSlhPRjg2eXRzWUtITm92cXdfWGVDaWJPODd2SzFSVjFpdlNkTTNPMVpJeUNmWVIyOHJaelpONmVxMm9oXy1POXhnVHd3YWZBUGlaendyNEhmWkN4eFJ6U2FaM3NmczhUVkN1NTFvbUlQSkFqUHJmX01HT04zVEJpZUZXVUg0alpLOEJZNHdCYXl2ZUtBdWw3YllXOURQWTA?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-14T00:11:47-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -3175,30 +3199,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVVdiZC1YQnMtc290Tl84Z0RHSVZKU095UjFuNGZKUVdHZS1NbVNqSmkxS1F1d2FHbm1STE44UU9UX1FXT2FFRDF6RU9wVW9NNGgwY2lqWDFhbTVOWjhSM1pXTjFISC1EdVpQUmVOdWF1ckhJeTMySko0QzhqVU9rV1NfTVdHcWY2THh4TzJnRzVkMGYyX0QtLWs0NlkzYzVHZGtiUGZFVDk5YXRXRU1STWstZm5EaFl2ckNCd3NnOUluS05kQXJPeGp5ekpleHpNc0NJUHF6cFlfTUJabkNZMF9OMW1TOTQ4MUZIdlo2UkVYcmJWeEl3WTJ0bkFBN3B0bkxvcktlU2IwejFXQU9zTGcxTmJRUjFSbG1lOWI0Q25qQzhveXhnSdIBrgJBVV95cUxQLWsySllvakpKMUtDQ1poUVltTmF3U2NreXJocUdSLWZqbXJmaHZ1VFBzM3haUnMwZUE5cF9wZmowNnhvWkx4RDkxM2lSNmVMenNlZ1EyNmVYbWRUZHdHNldGc2lTa3RFODJpOVg0VGxRV3VtSFdtOHZUb1E1c3ktUXA4SEZaTUlpRFJxdnVZZzF1SmFGODljRWg1b1NWNnJ1UkpUaElHeGF3MFdZTnUwNGI3ZkxkWVQzQXEydlRRcUJhOFdHS29YOEUycFI1X19kU3FHZkJtcXJDUU4zb0hCTDBKcVl5UDFyMlhuSkpyZlBlaDhwdngwbzI1eFZqMUdhVGt1TWVteGJxYUpZMUF1VWFhVmhQSTFrcXM5WEVaWmh2N196ajFYZTJsUUt2UQ?oc=5",
       "medio": "El Tiempo",
       "fecha": "2026-10-25T21:39:34-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "De la Espriella anuncia Ley de Rescate Económico y explica el manejo del Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNmtfVzMtNnZKQnpubTlMODB4TnFBUGNyaWJCZzZabzl5V3hWQ1doelpTMGNMV09mMVgxMDNBMGItSW40cFdvWklZT01pclVpWlkzX0U2bG54UEF1aldhdWhmYlViNTVjZDl0di1uckFyRnpqVndDbDNCNUd0TFpERS1ZWUVhQU0zYjdibTgzT1V3SDJrekJYVEZ6VVN0cEQ2cXJWVDQtSEFaZU1fMWpQQlplY2t3WWVqLUR5UzdveENfMWZCalE?oc=5",
-      "medio": "Diario La Libertad",
-      "fecha": "2026-10-25T21:38:06-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Presidente De la Espriella anuncia ley de rescate económico y responde por recursos de Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalpRcTNkb3YwQVdOTkdxcGc0bjdaSGZZZnQxbnZ3SFdvMmVhQU9kdEdjQnhxaURTUUVwMEw5OTI2UmN1aVdnV3VMdWpjWE95amI5ZDVRdDAwSktyOVpkLVNVZXlSWDNIMktRampCazd4RTBtand4Y1h4R3hLbldaanJsdDhEZGxEdVZJNUhvdUcwNTE5SExCaDBmYWZUXzBnZWsxQmFsX0w0QUNIbzF2OF9RV3hGTkFhdWJTZ2w4end2cllsd1RiUERUY19lQ09Y0gHkAUFVX3lxTE11bmJ2ejZkazdpOVQ2LVFiRmJIU1NhM1lpamtkbExJaERocjAtblU0NU81T1J1ei1xTHQtZnNsaXhOam1naExYZjZ5RVA4MDhkbDZ4VkxvWHJSNWo5YUc2djdWSHhKSGlnTFBCYlpNdzF6aUp3UEF5cnpmLUFFNGV6UWk4dHQ5RXpZNUtzUjJiX1RhNW9WQnFLQmlTNU1va1d4b0QtUzFyVVRoOTZOdjNhdGxua3dFUDE5V2xyU2xZWms3YWZKMmxzNGJBTVBJQ0dtcVlWS3BiT1lNQlptTXJ1NzdUWA?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-10-25T21:13:22-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Gobierno anunció inicio de giros de Colombia Mayor: “Porque una patria milagro también se construye protegiendo la dignidad de nuestros abuelitos”",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPOVlsbkxZcHJ1c0xVeVBjSUE0RFExUzd1SFJOZVdMSU9SY1k0ei00YS1fblZIbjhPNk5sWUI5STNnNnJkRHJGN3BzN3ZIZFo0UEZic1Q1TkJROUdZQU1wU2p3MG16d3BaTk9JSWNSaFVhcXlwNTVtcTc3dTVPUGp6cS1fN1lhQUhCcUNyNnBPMFl5V0JiUURlSkVzMHVXbmZxX2pWMTFOczFGYTR6UnhNR0V4VGY3cEJmal83aU94OTUybVRpaXdpTUNwVmJvNVhwbWtBZzJqOXhHOWI4WU05WEI0Z18yMkNyM0NXYUIxQ1lqWFBhMklHT1lnYVF6OHIwOHNHcGVTR2lxU0pZVjh3a2hyQzJJNFhnRWVTVmdNZF85WmltSVpJWjRrWFRYaVhuYzhj?oc=5",
-      "medio": "ELHERALDO.CO",
-      "fecha": "2026-10-25T21:02:37-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     }
