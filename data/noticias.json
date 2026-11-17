@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-11-17T05:54:01-05:00",
+  "actualizado": "2026-11-17T14:29:38-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "“Disminuir la incertidumbre”: la apuesta de Henao para el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbDhPWDgwaHJ5aFhIRVBMeUhfV1pQU210Wk5hMUFzMElFanJwVXg5dzE4MEp4dmx5bzBwQVBhVWppdkNpZldNNHhRUGF6WXd2ZHRhRFo4bDFmQWQwQlp3QzRMSk4yajZWVnpGVHFEZ21fenBlSnRlN1h0MVdYNklaR3U2ODNxaUFNeUR1ckF3R2RmVFRSRXBISGduM1p1aEZRbDJkZ2dobTBXQQ?oc=5",
+      "medio": "La Silla Vacía",
+      "fecha": "2026-11-17T12:40:42-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "“Fondo Milagro tendrá una nómina muy bajita”: esto prometió el nuevo gerente, Luis Felipe Henao | El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDhKb21mNkE0WnhHbXFsU1p3NUpXaUtSQ1drSFc1eG9nUlRkWEdaMWlwVGgta3IwY0VvNS1haFdMRUNMckRWZGpzWGRCRDZaRkE2aTRMT3JEY1B1bU9PZkxZUkFGNGRhaFBtbEtVeWJQSUV6VTZ6STU1bEkycklBY0xIMExsaVQtR0M5Q2d6YWdRZWtXdG9zS09B0gGfAUFVX3lxTFBvbTgtNVNqeDVqR1Jtc1J0NExBR2NwTzVucWpCRDVmbnM0UXlzV3JmME5kb3FjQ2NOZHRqX3dNMFg4Nkt0NVQwQ1ZPcFBNWURucE9Nc3M3VnZHVWo0cTNheHJ0QnlRZjFKV0owTUc2TnM4MVNHdHRMaFhoWG90RlpPRExfSWNwcEp1ZV93bXlBdnRhV1BZc0laaGtwNXZ1dw?oc=5",
+      "medio": "El Colombiano",
+      "fecha": "2026-11-17T10:49:40-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Nuevo gerente del Fondo Milagro, Luis Felipe Henao, dice qué pasará con millonarios sueldos tras polémica que causó salida de Jaime Uribe: 'Austero'",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPLW10eUtjM2JnODdtcVFQR20wRkswWEZILTRXbkpyTDEwRURleC1leXF5dFBLNFlOM1pmMlo0UDdIb1dXTGZhSE5naVNpbU5lUXE3TFN0elpJZXZobW5zUlEzTU42WEZ4N2Zwck93VHdhODZFTXZIOWhxUEYtbzg2c21CeU9yblI3eW1KOGlVaDR4Mm1mUXB5MWkyQU12Q1l5dE1vZjh0UnhrQUlnYXNVNHNUUDQwWlJFSlp1ckdPeGVSejdYbjlhbloxQjF1XzVOSHhSNHlBeXVFYXBFLUJHNjZscHVlaWZ3azduc2FfR2hvZ0hMZ3ljdllFMk4ydFpXMDlTcjJESlNXMGVGNTgwMUZvdThiRDhQN0U2M01FMVHSAaYCQVVfeXFMUEEwakg0XzZkV3k1Q3Qwd2U4UUQ1ZWI4cU1RUTZEQXlGd1RuZHZ0S2o4ai14Sy11SnUyTG5rbUE0OVJaMkszNE1NWktKMTIzYTU2WDlUNzRwbHZib29GLVdGeFlDUERwQ2E0b0w2NkR1M3UwVGxSLXRJVTNlaUMyQzAzT0Rpb0Q0UjRFemhBd01pSTZJQkd2cVZNVVVTaTZWNkYwM05yMW8zRjlrcE91WTJQc2lrU09PZ2VjYkQ1UFNscDRLems1dnZSNlBZMjVnOUZXcS1kb0E0N29tRk10SVZlVVAweURqLWM0QThoSGEtRlZIX0pMS0JqaHl2ODBQejBRcVR5NW9oemhqcnctSUhad0d3cVJKMkVtRHFLUGthMkg2ekNR?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-17T10:45:31-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro, Luis Felipe Henao, explica qué pasará con sueldos tras polémica que causó salida de Jaime Uribe: 'Disminuir incertidumbre'",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQQTBqSDRfNmRXeTVDdDB3ZThRRDVlYjhxTVFRNkRBeUZ3VG5kdnRLajhqLXhLLXVKdTJMbmttQTQ5UloySzM0TU1aS0oxMjNhNTZYOVQ3NHBsdmJvb0YtV0Z4WUNQRHBDYTRvTDY2RHUzdTBUbFItdElVM2VpQzJDMDNPRGlvRDRSNEV6aEF3TWlJNklCR3ZxVk1VVVNpNlY2RjAzTnIxbzNGOWtwT3VZMlBzaWtTT09nZWNiRDVQU2xwNEt6azV2dlI2UFkyNWc5RldxLWRvQTQ3b21GTXRJVmVVUDB5RGotYzRBOGhIYS1GVkhfSkxLQmpoeXY4MFB6MFFxVHk1b2h6aGpydy1JSFp3R3dxUkoyRW1EcUtQa2EySDZ6Q1HSAaYCQVVfeXFMUEEwakg0XzZkV3k1Q3Qwd2U4UUQ1ZWI4cU1RUTZEQXlGd1RuZHZ0S2o4ai14Sy11SnUyTG5rbUE0OVJaMkszNE1NWktKMTIzYTU2WDlUNzRwbHZib29GLVdGeFlDUERwQ2E0b0w2NkR1M3UwVGxSLXRJVTNlaUMyQzAzT0Rpb0Q0UjRFemhBd01pSTZJQkd2cVZNVVVTaTZWNkYwM05yMW8zRjlrcE91WTJQc2lrU09PZ2VjYkQ1UFNscDRLems1dnZSNlBZMjVnOUZXcS1kb0E0N29tRk10SVZlVVAweURqLWM0QThoSGEtRlZIX0pMS0JqaHl2ODBQejBRcVR5NW9oemhqcnctSUhad0d3cVJKMkVtRHFLUGthMkg2ekNR?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-17T10:45:31-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Luis Felipe Henao, nuevo gerente del Fondo Milagro, aclaró de cuánto sería su sueldo: su antecesor salió tras conocerse que se puso un salario de casi $40 millones",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOY1daM3p5ZTJCVS1iZ1JGRk5lSkIwSUJndFdTMFBXU21la3lYaFFDZTVURkI0YmttcURPT2NaQ0ZrTVBEQ2FtR0dRTTF5ZVZXZnZ2S2J3NUtwU2licVlyb09nUkI4c0RiaWJ3TmNVSjVrUWlMR2wtSEhhaU9UcE5Id19wLUJ2NVJIeV9jSXJuX0o0YkhNb1NPODdKUnBpUjlMV0paS09Nb0FPMlJYSmloOE9ScHAwZWdXUXNLTFVwZkwzRlJIOE1ES1pXeXd2U3RKUVdVN3BZTTlVYndiVHVtU0x6SHhVSmh2Zm1idzZIcWpNZlZNbUxyR2hLZlNvNlB4bEFELTRZTG9XcnZWZGFYMFlTejNicWVEYXpnSkVsUy1MeG5QZmliT0hSeXTSAccCQVVfeXFMTjNjczIxZk1ybEw5dHZRc0luU1FWeTFKZU9PVW9keGpQeE9XQm94d2ZseUdLNnh6X2U5akRtX2NiZUJ3ZkpJRkJQWmVuczkwdzM2NlJPOUhIdXh6Nk9WUWlCMW5Gb3hyOWhMX2xkOG96LUtEaDRpRjZFUG1PMlNPdVBJcmRSS2NubVRLc0dsUzFXUW5BRUcwRVRTeHhFZFpBV1BoVUc0azdYOFdMNFpIM1hrTTkwTDhjdjV0R1NyUm1jQl96cGx2NnR1ak1GclpNOHlsZjAySmRudmlzdUxuMUhFMV9sd3p0LVFtdW40LW1aa1ZFd1ZUUS1KYWE5ME9TQ2pCOTRBdDB2UldveVB3ek1GWDJROGxnMk42T2FsRHRjNnJ6MXp4aXd4SEFCLVZZazdNV044ejU0WVZycTVwdElTckNUdTlZ?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-11-17T10:17:00-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gobierno impulsa 'El Milagro de las Regiones' para fortalecer la gestión territorial en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzJRSFRma0N0Mndab01tR2R5aGs5VVh5alBDb01qbmdmcVdTSlMzS3N6emFKYTZlNS1yUWtBRzVXLTA3aFE3NjYtZHZoM1VGcjlhX3BseHVLS3l0SDQ4QnVrWjVBWUFoYTlOcWRxSDgzZlNoSzJ6SUFHWEJLM0tkaE9nbWd1OUlQR0lZbHJZekh5cDQ2RUdicXNjaTNURXRKa21jSzgzWnAwd0RlcWw5TFl3SmFEcjdQdDZDdnppT24?oc=5",
+      "medio": "BusinessCol.com",
+      "fecha": "2026-11-17T10:14:03-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro insistió en necesidad de comunicar el trabajo de la entidad: “Fundamental”",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNendQZnhLeGJac3RKa1pZYm9icDBNVUZvQldRUExRbExGT3ZxV2x2dE1EMXZCejgyM0F6ZkZzUUdPWWFTczczVk55T3YxVHVzTE1qZEFQazhValJjWG9EejVyNEVINGVWZ1llLVZHQmFHeFRPcHdyZGk0aU1LbThVSzE4LVJXLWVyLVlDY2RVSUd6dFk0d28wMXRqYkJyTjRGTTBaSkxVaEVWMk9xVnJYZDdEcVhaRlVBWjBBUXFxaGdnWlFuUkltaUF4NGTSAeABQVVfeXFMTXVfS1VDbGV2VVY1VHNXLXZ4Y3dBU3BfMzFrcFlINDN4WEtWdk40MkpzYXFFT2FkYl85S2lwM2tSQ21rbElwWUl1NUZEdUQ5SUg4OENwTkt3TmN5NGh0LUs3cmR5b2xZZXBjWXVvTXNhWmtDb3V6LVBjbExMUG9mdF9jelZLd2p1TU5wWENYd1hBOGNkRF9QbmtEeDFyZVlPN2Q5cTdyZFBmbHhGTnVSZzhNWGJFajFiVWtIc1kyQzVPRkZRMG41VmZTTGZtVnlpU3dPcy13a0dhZHkzalJreGk?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-17T09:54:09-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Serán salarios empáticos con lo que están sufriendo las familias: gerente Fondo Milagro sobre nómina",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdkNQX3pQZG1XWlp3U2ZLTDNsN291eXFDSWZLSkl6NXhmaV93dS00UUxaYWxHTldfTUhsaXIxMWUzam1sZGQtVzZJdmhEVWU3X3R1eThZd182c3k3Q09tNFoxYWp1UGxpeGtoWGFDX1RSNTkxR21JMXptQjJSNVY1VjVCRnBScVlJNFFESktYQWF6YzhIUUpVMFdJeEtUM2NiRXVyQnpNak54V013UE1tVkIxMW51ck5ua21IRzVNQVF2VzZVR1VBN2hmWV9QMG_SAeMBQVVfeXFMTk5FZzZMd3FUVzFCQllSMTVSSEJJckdpVjVvSHNlWjlORlhHYmxLQ2tOMF82emxrRlpfbFNnRmFZVEZPVHl6MGlDUktUZUJTSkxYSnRneEJqYWlHeGtpSnhJNlVBZWFmWWpIWWZKY2pSdkdKVGVfbUxyVDJNNTJfY04weXY4Vlp5ZG55dTF6Q0tmUVEtRmtqZ3F0Vlo4U1ROZk8zOVdtTFdYVy12aEt1WjVWVm9iRW5yUTRwcDJRelNPT295Skg1SV9KaUswdU9EN1VSbThlTkFmM05XM2d3SVRqUE0?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-17T08:26:44-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "“Primera seguridad para las familias es disminuir la incertidumbre”: gerente del Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1NxMmhSNk5mT1ZxanlEV055Rm1ENng5SXJjQjgyTGJ3bFVOWjJCR3ZKYUtjRGZEaTNSU2Y5ckhuSTJzdXNvakxpWVU5TUE5aTRERk04NXRtQVhWUDFFdlp1YnZCQ25EQktaTFJYTDY5OURGMnNpdjlTaDhxZUdCU2VxVHNneTJ4T2VyMmIwWFJsRjFmSzA4ckZSOWdROXdPNnJMMGJjdV9pWTZE0gHAAUFVX3lxTE92aWxhYnp2SlIzVzc1VkROVDJ2RWRLVXRpbmRfWWdyYS1USV9JYXhDeUNWZEJrQkdfUHZiLVozVlgyRVpZSHlGOE5lRzRUNEhnNlJBQXpIRm9WV2hmcFpIN2NWT1NXdmh2WXl5Z2JSbEpyek1EcTNzc2hzRnFMQjZ4WmV6M1JSYTlWMHpfTVpkbjNXTVFEM3pXVFRRMU9OZGxJb3lLbmtrNlAwd3BtNXlrZzQ4cHJCOEFBNE9WWUxBcg?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-17T08:07:02-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "El PND 2026-2030 y el «Campo Milagro»: ¿Nariño cabe en el milagro?",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUpIcDlTdGI0dHpsZXVjWGFReEdnLWVFQlhLV2hGNjZVZ0JJdUZjcEoyY0JJNVBkbkJqbVRON2ZWdFBqMzdvTmFWUUhPaURXVlNqMGY4Tk4teV9YSnp5TDVJMkRqVE1ma0NmVDNIdS1uc3g1ZmJvS0pIN0ltQTk2ZWJHT1gtMlJHQVo1WTUzb1g?oc=5",
@@ -3129,78 +3201,6 @@
       "fecha": "2026-10-27T16:40:18-05:00",
       "tipo": "entrega",
       "region": "Bolívar"
-    },
-    {
-      "titulo": "El Gran Malecón del Mar de Cartagena conquista a locales y turistas",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuVS1NWUNiNkxFUjJkYTRFQ2ZPUXhoN085NE9fV2hIVlNiUTlTWTNSQXBFd2JHWDNpSmc0QTNCOUxoc1ZGQ2VGUEpXVEJDMDI0RTJaUUhOMmFBMDlwZm1TREkxUTZqd2tzUDY4RFBHaG9veXVPNmc?oc=5",
-      "medio": "Estrella Digital Colombia",
-      "fecha": "2026-10-27T16:40:18-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "¡La Patria Milagro hace historia! por primera vez tres mujeres liderarán la lucha contra el contrabando en Colombia",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1VPMXJ1RElIeTFSSkROWFZLWmJxdjdkOV9HdHB2d1Rid3RBdWlsYlZBcHhKVDNjdWVKN0EtLTdzV0dlSXg4YUJKbFF5SXk3cGJ2dno1XzJIY1VzZVR3YmtSdlUzQVRydWgtWmwtb0U2ZTRBZzJ4RFg3Y2hQaDN0NUJpOGhmVFpqUFEzOHhGMV9ZbG5qd2xjZVFadEMzMzNLbUstNUsxUHJtSm5nMWIzTldDQU43WjZDUFlEeXhZTkh5UHpuczFERGpjYnBwUTUtNkgxUFROLUQyUQ?oc=5",
-      "medio": "noscogiolanoche.com",
-      "fecha": "2026-10-27T14:40:13-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Un hijo y el hijastro del exfutbolista Iván René Valenciano fueron capturados en megaoperativo de De la Espriella: el presidente los encaró y les dio la bienvenida a la “Patria Milagro”",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPWGNGUjNnNGFCc1lCakpnQm15Q0N2Y25qZTJrb0txR0EwTmFjdXQ3RHpYRnBwd2p3MlVQU3A4cE8tdFZ0TzAxTUVBSUdIQm53eUpIOWJkUUNUVVhpQXFPMWV6SkE2MEhtLUZwbk4xQXNHdlVqQ1Z4T09FV2hTQ3gxZ0Z3RW1sMnFUbmZHSjYtYjlGenEyR05Fek5tSlNEVnlkOGxQSVo5Y19HRXpOaHFFUi13ZEM4Q3Y4V3RzT0kyd0FxN0FWcC1TT1BQOGtYY1NyVXEtTVp6aXRnWGZRVkJfMUpFWk5HQmtSSzFrNXo0amtFTzFRaHJ4cm40U1JfWTVvMWFNNGV5enZtN0VycXpRSUVjZVctVldVdk1SekVWaXBCY0lLdkhocVNjSWNZZVU2V3RIbGNtMHhuMTc1bW8zTDFjUE9ib3FHY3BzRmRfUnbSAdACQVVfeXFMTUM2c0d2Rml6Qm9iaUcxaEdiYWtKTkk0N0FtM3ZqS253T01jcVFac182UnZTd19xWkRtMzhveDdHRnRhZVRyb0t2TjgyUUN3dDI3MzZtY19ETEFSWnUxVFdSenVKOTM2WEtYemhPSlZjR2VXWDJtTFVJRGJOZVVoT19kUDhjZUxaSVc1aFJta0ZUY2xfQ1k5NDBWZWl5cnJsRVZFWkMtSllWSmJaSUpjU1VIaWtoM2t3MDRVaGtVZno5THBwN3psM0l2clk2eWo1eXZVcVBCdFd4MkxkLWxFbjVQSnQwOWllemIzREs5WmJ6U2ROMDA2ZGh6eW5ZYnNDTjhIaXBMU3h6cXBEcmpVSEYwcGc2ZjZ5UlM4UjhPUGpvaU5CaXBDbDItU0Q5Sjg1WFItU0VZeWpLNzVidnJHcGdvMlRaeWd2Mno2dzZ5b204?oc=5",
-      "medio": "NTN24",
-      "fecha": "2026-10-27T13:22:14-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "De la Espriella dio la bienvenida a la “Patria Milagro” a 135 presuntos malandros en Antioquia | Q´HUBO Medellín",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazNIQjdmOGNQUHgzcEtDaXRlMDFSdGZXWnFkREJrQmdydDRBS2xfd1lXWk9UN2pCSlc5N18waDlGSFhFRGh5bldHcy16cnA5UzF2OU53dGF5R0dLa1M2RG93LVFCLWMwUWVEQzI4MmVxeWYwT2RMR1R1WVlUVVJyRkJQd1FrdE53TFBteU1UbmdoR21JeVhYdzctYVJtbDJybFdnZNIBrwFBVV95cUxPVGFhTUp5TFZEYTNLU3BuWnMzcVNHM1dCOE8wd19yRWQ5YmNaMU1WdGpJaG5lS05Ib0d3RWtNWHZoQUdhUHdIYkVNQXE1MDlxQmZ0b0VhVDZYQlpiR2dwRU1RVXp6TmF1VDIwXzNSY2RsNGxQaUQtQkZWN1Y2c1RVczd2alhKbV9tNkd4c3lLYlk2NmVVdEViNGsxRldWam0zT1F5a0pKb292Rk9qaUtZ?oc=5",
-      "medio": "Qhubo Medellín",
-      "fecha": "2026-10-27T13:06:48-05:00",
-      "tipo": "anuncio",
-      "region": "Antioquia"
-    },
-    {
-      "titulo": "Del harén de Petro al fondo milagro",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnckhCVFo1MVp4WUZZdFJPdjctRlhRUTRvLXVrYW1IZV9NbVdIUGRSLU9zYi1TeVQtakZ1Y19uQ1J6TXZadW9ZcnZCZGxhSzFUT2JtaWVRQkR0ZEkwUFhuekxzRHlzZTctMEpiaGJkUEFQY05aMkJN?oc=5",
-      "medio": "Proclama del Pacifico",
-      "fecha": "2026-10-27T12:29:11-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "\"El Fondo Milagro está más en el papel que en la realidad\": Fredy Arias sobre la reconstrucción",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUmc3OTQ2TW43YnhMbFEtYTg2SGxldzVHWlpmc3M0S1lic1FKdHN3LVBDdHNDejJfbWlGNGJJVXN0VHQyYU5hSGlHNjBRTy1TS3JrUXRaT0RMNzBiM3R5SGVheTl1ckZOOEhnTmpEUXh2WjYtYUFmeTVCOVZvQXZIWWVDb3N0N256b1pldjIzaGczdllpSXZwTGh6SWRPeTFJVDJnSUNvSTduZm9VTlM5N1BNZ1l1VWJJWmd0WFpNSVRnOGhPTnFmSDlCVVMtenJld0hDbHN3?oc=5",
-      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
-      "fecha": "2026-10-27T09:50:02-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Abelardo de la Espriella encaró a señalados criminales en Medellín durante megaoperativo y les dio la bienvenida a la “Patria Milagro”: “Van a saber lo duro que muerde el Tigre”",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNWnhSXzVUVWl3WTZ4MXhydTlTcEpWQURqTjV2eXZRY2pqY3U1YXljTko2RDdGTElPajkzcTlxTGczM0xBUmRTVEczTjJoLWg1TWlXTTBNZXVQeFFtd0tZX3Zlc1hlTkY1TW5rb0pRNlZtN29rdS04TGwyRDBrT094VS1CVzJZTEJFbGtDNVlSUVJZV2pVaHZMTzd0ZXRFU1ZzTlhPU1QzZEVvWW1iYkw3Z3dpU2dZLVR0bjBURzlnOE94U3BDdXE2Q0tzQWJRS1o4VFJvandWSkhfRUFma01ubGtON1l0WGZINENXTlk2U3lNX3ZHZkREZjQ3UFZGckF6V3NCZmhWYlkwWE5ZbF9HRjJadW1aVEtYaXk5MkNFZ1V4ZGNjb1VySDhGNzFpMUdMdUZMM0hGNDU4eTRXcVRaZF9YSdIBwwJBVV95cUxOV0NEZ2Z1Z3RnOHJpWW5CNmtDVUJpbUJ2cDhvVk9SVVJDNFVmUUdDUkpnXzBXTVg3VGRsQzRLb09aLXY2TGlaMmY0TXhOSkVuczZUM0xmM3NneGxhR1V6dFp1aUlFbndJRjhKOEZBUDc4bEhNR05lZTEyYkZNV3BudjMyMFE3UFVfQ1FLRGVualV2aHhkUTFjRzV1cDVMNlVTNF9sZVB4SmlRTWxyZEYzbFZTMzNpS1B3a2FXM29uYS1wdWtuMDI4Nkk4elV1Q0twV3ZFcld5U1N0T3ZjSnlRQzFDV2RacjNmYnpFUXpuR1hnYXdXSk9BRU1hdXdQVGdCNFAtQWtRenFDazFUaF95V1FhQWlRdWItWWtmOW9wQUdXc083ZzM4NmFac25IYVdKdm9Wc2tyZk0wOURlNTg2X3hqVQ?oc=5",
-      "medio": "NTN24",
-      "fecha": "2026-10-27T09:44:42-05:00",
-      "tipo": "anuncio",
-      "region": "Antioquia"
-    },
-    {
-      "titulo": "“Los recursos han llegado a Cali, Valle, Pereira y próximamente a Manizales”: gerente Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXZWM2doaGMwel80a0RrWi0zWC1rY2VnY01YT2VuaTFOYnNDVnQtc3VIbnNjN080bkc2WWVreEZldmgxT0hMY21EX1RScnduRkxxQ0cwRU1GQmIzZl9qT1NWWkdtaWtoWldSYmFKbGxYd3pMVllPM0NSbTZNa3FFRXk1dUllYlY2WW4xSjhGNG4xQXR3eW9ZVVJhZlprak1aNE1WQXdxQmJzS3piSUhoT1lkamoyNVNQRU1jRXpEV05YTWQxd1J4QtIB3AFBVV95cUxQM2RZZy1lNkk3N0xTT2pEMHBOTnBhakpNa1VNdmVfbFBJaHBoYlRid19nUzNMMk5mNTF1Q1ZpcWlZdGZzVzc1M0tldHlOaS1HUGY4Q09YRERxX1RrUHhZYVFac0VRWWRqUDBRRVBwUDJpNlc4S3c4cjNlQVJtQ3ZKeGVScWg3UzBCeTBZQ3NIblduWWx5QmZuTkxsanZGRTI3X3F5dTltNkhBck5lZzZfZ0kxY0VnbWs1WEpnd0JWQnJYcUVLQWVjWDBrUTc5U2tmbFZBYllpU0RRRUFa?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-10-27T06:30:26-05:00",
-      "tipo": "anuncio",
-      "region": "Caldas"
-    },
-    {
-      "titulo": "Alejandro Ordóñez, del destierro al Ministerio del interior de la Patria Milagro",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORFk1dWFVMWdDaFNWdFlHZ2RYdVYyOU1DcHF3Ukd4UTNuY3pIQW1Fd21mVVFtTEZRdWszZENtcmM5QmNVT1JXQU9GSlFmTV9pVHFXUm5xWXFDckpsM0hFQ01jeHo3SVdveGZiYUFab0xtMFFzWm9LRUxuZk1xT2U4ampTZFM1MjFNX3JaYTE0U2R5VVgzUDVnWGszajFRUnE1d2lwRWIyWS1pR1JBLW9NRWd6Q1lCZUhQRkkwM0c0NENhTTRzOFNzY09FVFJVSWplbFE?oc=5",
-      "medio": "ELHERALDO.CO",
-      "fecha": "2026-10-27T00:03:45-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
     }
   ]
 }
