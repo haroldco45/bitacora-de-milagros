@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-11-16T03:09:23-05:00",
+  "actualizado": "2026-11-17T05:54:01-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "El PND 2026-2030 y el «Campo Milagro»: ¿Nariño cabe en el milagro?",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUpIcDlTdGI0dHpsZXVjWGFReEdnLWVFQlhLV2hGNjZVZ0JJdUZjcEoyY0JJNVBkbkJqbVRON2ZWdFBqMzdvTmFWUUhPaURXVlNqMGY4Tk4teV9YSnp5TDVJMkRqVE1ma0NmVDNIdS1uc3g1ZmJvS0pIN0ltQTk2ZWJHT1gtMlJHQVo1WTUzb1g?oc=5",
+      "medio": "Página10",
+      "fecha": "2026-11-16T22:19:39-05:00",
+      "tipo": "anuncio",
+      "region": "Nariño"
+    },
+    {
+      "titulo": "El DNP entrega oficialmente al Congreso y al Consejo Nacional de Planeación las bases del Plan de Desarrollo \"Colombia, la Patria Milagro\"",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGhuQVFtSU92TldoMm1IYkxGcjZaSUk4cUtwWFVWQnllWkxfeTMtNlNUeG9PY0FqaklwODRrMzB1alVYT0JsWV9zU0hkWEx6RW4tQ3ZxM2tsS2hYRVdjbVRVMGZjbkQ0UzZQcGhDZFRUenB5bV9XcEI3SzFsOGxsSVNVLWFIMW91eDA0Mm1MSnBsOWJEcVlxMkJIZ3d6U1gyZi04TWVQSWtCVXBpMmxYOThlMW8?oc=5",
+      "medio": "IFM Noticias",
+      "fecha": "2026-11-16T21:05:16-05:00",
+      "tipo": "entrega",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Presidente Abelardo De La Espriella rinde balance de estrategia 'El Milagro de las Regiones' tras 100 días de Gobierno",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcWwySUZ3V2liUmU3bjlFamJOVkFrSk5jbmtkTFlVQmFCQ0dlOWRvbF9IVGZrTHF3R25Xa0Rfalk0TmR5VWZBOG1lOVB5Vi03R1k1MGxJakgxUzhnUmRlMi1VN19xTFdwT2VIODh0RWVha19JUEEtRTJuSEcyeTk2Q3dCMWtKckxuN2lHbGVqeWNYVWZSeWJHUWc5NDJYdDFjWWxqVURFNmw5QnFOUkVoa2tyR0pxMWFsYWxoc2thSHBDU1ZFVUZ5R0loaUhvWEtUenpzc3dHMFkzdHJVbHc?oc=5",
+      "medio": "BusinessCol.com",
+      "fecha": "2026-11-16T10:02:54-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "Alcalde de Manizales sugiere a Fondo milagro diferenciar necesidades de ciudades afectadas por sismo",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMldDTnhJWnZiVDVsa2Z1bkd2S0VKUkR2WjNVQ0hMUFJ1SndFOEJvYU5VWktuVVB0clp5em5vcTZlR3pERFlWNVBlX0tmRTVraERjMmZOcnBLQ0hjUG5IeUMwQmhjTDk1YU53WnZNbzVUSzltcWZmeS1JTkp6aEtJellhTEh3a0QtbjFjVDF5VXh1MzRrNlJDcTdaaXNTYVNQNktscDA4NG8zR1V6a3owVGVOMDB5RGZRZnVLemlsdE83b05nREFjdlBIT1V1X1Bi0gHkAUFVX3lxTFBpamFiZEVJRVJLVV9fdkY2YlRjeUFlTFFUN2dJc09TdFpXclZhbVhnZTQtcWFzTktfOGNpN0ZLSmRuV0NOTmE5YVJwdW9pYTJOc1NQQXg4WE9DbTUtdnZIcHVSMzRJcmlBeEZGSHpCdWtSYnE3SGl1ZzFRcEdyNUxpVVZXSXFHbFh0MDM2Tnk4MlhFNHhmZ1RueXB4N2JYak9lTWwyTHBSSnA4RE85b3hPS25SUnRMcnIzVU5tbjZKa0U4SVRIU2NvTGFGOXJHWVNINWFEMFQyeWlrcmtQT3kzc1RhbA?oc=5",
@@ -112,6 +136,14 @@
       "medio": "Caracol Radio",
       "fecha": "2026-11-14T14:43:08-05:00",
       "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Exministro Luis Felipe Henao dirigirá sin salario el Fondo Milagro tras polémica por millonaria nómina",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOEljV1YxeHZ6WTh3YUlPbkpYME94SjUyTnhnek1SdG9XbTBDZlM2T0xPcEtnNWtBY1FEd2JScGRFMTF0ZF9lVlQxM29hMnN6dVd6VkUyS0JOMkdSM05LTTFjMlU2el9ycGdYMnA0Um1BT0FrdGpKSDd6X3VxR3pDREZ1MEEzMllFa2JTNUpYb0VrN3ZPa3FwZHJ6UEpveXdjbmZmcFhCbm9HakRRX0lMQ3d0TWFwWmRoZW9Edkd5Z204M3dqcnMyMQ?oc=5",
+      "medio": "Focus Noticias",
+      "fecha": "2026-11-14T12:28:05-05:00",
+      "tipo": "critica",
       "region": "Nacional"
     },
     {
@@ -248,6 +280,14 @@
       "medio": "La Patria",
       "fecha": "2026-11-14T00:00:00-05:00",
       "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Luis Felipe Henao reemplazará a Jaime Uribe en la gerencia del Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVjhGZzk0ZDRjSkN4NW05NC1zVEdpNjJBS1cyRHRCNVBVc3VjUkpIVlZYOU8yYzRmdWlPQnV2TGpaUllyVlkwWkFCVW1CT1Q4T2RWelRjeVBEbmFBM3FRbUE5SFJWbm5McEFmTXNvemdzaXBwRm1Jb2tiT2hsVkJZRjBDclhRZWlGWlRXLWdRbVdwOXpFVXBBbXRWSjhobHpiVmpxcUNMQjFSanIzLWVXdWFWNFFndFhsZk5ZeFlnTQ?oc=5",
+      "medio": "ELHERALDO.CO",
+      "fecha": "2026-11-13T23:55:14-05:00",
+      "tipo": "anuncio",
       "region": "Nacional"
     },
     {
@@ -591,6 +631,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFY5RVoxREF2NktuMThlUm95QTFXTnJUc3Uyck9VNDlIR3UxdlhsR0J1UlRDYVNKc3pHa3lqcUlKSEhpS3UwbVRmMkJ6Yi1hLVc1V3VTYjF5bkhFcmlGU0RyRUUyT19MOFpqMEphZG55aEIxc2NybG92SzM2V0l0dHc5S3R6VnNHLTRTZDJWdl8xR1k5OHZEQXhfYm14OVVOYjlpcGdRakttdw?oc=5",
       "medio": "La Silla Vacía",
       "fecha": "2026-11-13T14:30:39-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Renunció el gerente del Fondo Milagro: De la Espriella anunció quién tomará el control",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzdMUXV6aENnSVNpbjFFZS1BaDNjWHEtUUNJVzItOUFiYi14UjhfeTZMZHNqeWtUUTM0bGdCU1lTMlBrMWpFNkU2dV9YOWQ3bWR6WW5od0tGMUdXNlY2NDBOTHJrTVFlNHNsaktSUHJjUU9iOGp1MzZqdjBKdnU1Y3pQVkh5cTJ2OGRuUjMwRV9yU3JzNmRlVDR5R1dBbFAwenkweldUS1ZkeFhCSVE3ZUQ4WjdiUQ?oc=5",
+      "medio": "Periodismo Público",
+      "fecha": "2026-11-13T14:27:00-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -1473,6 +1521,14 @@
       "fecha": "2026-11-11T20:56:24-05:00",
       "tipo": "avance",
       "region": "Nacional"
+    },
+    {
+      "titulo": "Ruta Milagro impulsa reactivación económica de mipymes y unidades productivas del Valle del Cauca con más de $9.800 millones",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQV3A4S0ZDYUVxVThIQlctV1pyejN2M1NpeDF1Z2pXeXlvQ042Ulc4b05TeVdUcDk4ZElES3FvVUtrZTZteWR0ajVaV2FxejlVYVhyNW55WC1ZYXZUUDNKY0VNbm1sLUJETkJ0ZFU1QXA5X0lLSUxYRk9RSXZoYTZndTFzRWxTWEFCU0RBbjFYTjFZTzFvMzRrNHc1bFp1djJGdmlsMVZKREZ0VVBZNkh5dGRhMHlZb0JETUtmWWIyZFVBWVVpUkxVMDdlWU1WNnpTbnFsQ0NfckxfT01lR3d2d2dGWl9FM0E5ZUFZam4zbV8tZVFoZzlCbWlMdDdXT0M5LXlabTZjWjViS3p0ZGZtMTlLQTg0cm1YYkJuMm9xYWIzb0xzX2R1T3dlTHlnNkVoZ2d3?oc=5",
+      "medio": "Innpulsa",
+      "fecha": "2026-11-11T20:28:25-05:00",
+      "tipo": "anuncio",
+      "region": "Cauca"
     },
     {
       "titulo": "Fondo Milagro: 7 mil millones en contratos. Gerente no fue al Congreso",
@@ -3145,62 +3201,6 @@
       "fecha": "2026-10-27T00:03:45-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
-    },
-    {
-      "titulo": "El Fondo Milagro en marcha",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczE3LV9tQjFrRjloVjNENFEyZFE0Tjl3ZDUxZ3lOclJTX0JpRDVaZ2x4c2NWcXdlS0JySjM1YlhjcDlocUVpOWo1RV9mb29tVFNUaVpqOEFCVmdudnZ5MTFoTnVUSW1rdHRidjBFbnNxa3NTaFlzaFZiVWFvR0VPcVhjYV92WldaS1JRU0oyellub3hnTllWRjRrUmQ?oc=5",
-      "medio": "EL INFORMADOR - Santa Marta, Colombia",
-      "fecha": "2026-10-27T00:00:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "A 53 días del terremoto el Fondo Milagro sigue sin funcionar",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0hOUUNvMXVsZ2t2RFc5ZnBFQkZQYS01ZnRTWWtjMk1pTXpwQm1SRWloMFk5RmFFWXBYMmtTWW9NSXVKUDJkM210S1dnRE04TE5tMElTQWlCV0FiTkhYbDdFd2xNYk10TkNTbm9BaFhCNUNYdFJLTUFJWEFFMFpLM1ptLXI5OWJQZ0xXYnZ0cFdPcXVJWUZvdFBvWl9PLWxCbGc?oc=5",
-      "medio": "El Quindiano",
-      "fecha": "2026-10-26T23:44:59-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "La construcción del PND de la Patria Milagro del Presidente, Abelardo De La Espriella, proyecta más de $70 billones en Cundinamarca y Bogotá",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRnVSbk5tYVZqU3JEa1dTSXIyd3E3b3Z3bkdzX1VhVjlfUE5Ibm94M3dadUtYZTdEc3JreldpZ2h1ekYxc19kaFQ1ODFVRE1pbHRYVGlneXpteTJoeENQZms5bkNJd0lsb0VVaFhnVzZ6STloZGF1S2FZdC0wN1dUMlhZWXFycmVzeV9SdWxCR0xXclF1MEdDcnlBWlpoU21acFhVenFsaXpZcVZsd21rV3FkbC05SzBmcnEzRzdvY0pNZVNtcTVGd0pOa0dxNlNCZ29UNUR2bVVFcmVXdUl3S2hCUjViLV9WVVhLaGJhTTdfeXhab0xoVEFqbnBrbm1RNzZuRGVjdw?oc=5",
-      "medio": "Departamento Nacional de Planeación",
-      "fecha": "2026-10-26T19:39:17-05:00",
-      "tipo": "anuncio",
-      "region": "Cundinamarca"
-    },
-    {
-      "titulo": "De la Espriella dijo en Pereira que el Fondo Milagro entró en operación",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDB4c3JqOEdvempQMmZ3RkMzSF9MWU8ydmZpMWNUdnlvQnBJZDM3TDZ5MXZLU0xEb3dFcmlCbjc0NGdhUkFQckhtZEJqSXg3cGFTWUZFeGJBYjZpLUJVWUZfb05oM2hFLXROT3F5S29sYkN6cnhSY3BmdDU2ZzJfZ1NUM3lJd1BzVW1HV2lzZEo2WHlNWTdYZVNRd3pIUXkydjRGNHloaHUtbzg4TVRpeg?oc=5",
-      "medio": "El Quindiano",
-      "fecha": "2026-10-26T17:11:38-05:00",
-      "tipo": "anuncio",
-      "region": "Risaralda"
-    },
-    {
-      "titulo": "¿Qué ha pasado con el Fondo Milagro? Presidente De la Espriella hizo un balance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHI5ak8zN2thaUpObFFGdVd0QlZzNG5XaVAxRlc5aldMVVQ0U1pvcERaYXdFdGtDXzlrQURqSGpUQkVXckZ4NGNhOExfdDVRbUdEQklvQWVsczZOWHRmREs5d3YwdC15ZU5LS2xlWk9PcDdsalhRSUFvNjQ4WGluNlNvTWlZak1YSjlub2hBcnlTSmJZRHFfNVZ1eTAwd1RETFN4QnJMMFoyN1J4UHF2cGFWZ9IBswFBVV95cUxQMmZVaUpENTJwUjJUeVpua0tnbkZTdE9raThlZDZYUHdnT042WndvUmFYQjN2LUJ3d3JGY3JSeFlQLUpnSmpUU0NNWGNpYTJlZm94aGwyWDBJYTlORzRiODRoMkhQbTJLSGtMRVNmZ1BHVm1pZkl1RmFxVEkwM2hDYTJ6NHlPdXZaYXFrMnl2ckxKMTBEZFZibVJQMVEzT3ZDRFhjZWtVVGRIa0NqQ2VDNnhrMA?oc=5",
-      "medio": "Noticias RCN",
-      "fecha": "2026-10-26T15:54:59-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Abelardo de la Espriella respondió las críticas al manejo del Fondo Milagro y las donaciones privadas para la reconstrucción tras el terremoto: “Absolutamente claro”",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNLUxWREZjM1NYMkRFYkdVemhDV2s0ZFJGM3ZXbTVsSlpYb09NZE9LSkJxNG55Vzd3MjEwcTlTLW96NzR3VXVtOGlwOUpZb3l2cUdVOEJhdmU1T2UxQ1BfNUpfNzZvVGtqLS1xYjF4MmlTejJEZlJXUm1RaU9HRFFMdFVCQkFUNVpYb1M3WUJpQ1FUZ295LU9CUGI5ZTBkTEZSUUVXLXBIb0o4RW90VW01M3dUNUlrV2paR1pYSUVUVDRERGpmTTNPeGQ3LXFXSGpmdHl0anpjNGRaUUxqYjVlOTVJMjd3ZFpIdTBLVGh4N0hNSXRKeU9YazJTRml5UWpEc3EwQzZjZUVBcXkyY1EwaWNBSVBKV1ZGcnhSOGc3VjFERFZXMEt6U2ZvcENtNUZC0gHLAkFVX3lxTE8wZEFfbWtmdWpXcFRDMzlvUWkxc1NmNm1FbDZ5UUlFd0dDT0tRUGxKc0Z6X0FfZWVESGNtc2Q5aFBoXzN2QXE4MUVudEdpQl9YcTExTU9aeTNPbXNXRktzU2ZaWjZKTk5ISlN0Z0toQkNkLWJpTlBPS1VxVXNmSTNSZEdOaG1CeTNvV05DRklXb2V6dTdpelBRSWxERWRtVVpDWTJHV0NnSlotOWd3YXZERWFZd2lDRVlaNllrMkdhQldIaFZrMkVQWVlfRGNrNWhqSm1TT1RBdGxxdGItY09VMzk2d3pVbG1UX1duZUU2UDAtcnZpTmdtdm5SYVNLZUhITDg0UTVMNTJ2enNqT3pKR1ROdWZHMzI5WmJsQk96dVVpaVRyTEtqX0x0UEt0WHlZWUNFcWdkcVBqQUpRZEMzQWVPWlpNT2QzYUE?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-26T09:38:00-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Reconstrucción de Chocó: Fondo Milagro priorizará demoliciones, vivienda e infraestructura",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa3YtaG9YcVZYSVFMS2RRMmh1OGttdHBUSmQwazl1clI2dVRTbmdvalBLMEpXMk83VUExZTlLdUVjSkZLaXowMnVNUUt1NVZlQlhJaXByVWhrZkRJc1U2R3g0VmJRZ0t2WEN2OFZQcU1rUVZGWHF0WklZV3ZGbnptTDRjQkRobzZ3NFk0WjhLQ0pmMGpxZUN4LU5UY2FuU2FUOXNFel9iNlY5MXk3enUwWVpxclRYRi1ScF82NHVR?oc=5",
-      "medio": "HSB Noticias",
-      "fecha": "2026-10-26T09:36:47-05:00",
-      "tipo": "anuncio",
-      "region": "Chocó"
     }
   ]
 }
