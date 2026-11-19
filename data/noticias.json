@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-19T03:09:16-05:00",
+  "actualizado": "2026-11-19T12:29:00-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Estos son los contratos que se dejaron firmados en el Fondo Milagro antes de la salida de Jaime Uribe y las firmas que fueron elegidas",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcDh3UWN1dk03ZEI5TGY2WngzSGxqaXBSd3hmbzBvTl91QmZGTU9QTU8wUTRZRWJKRThHVkxBSDFrUEZlU0xFTzI0VDdNVXpRS05obDZWQ2dESkd2azZzdGtBc2dmdGhBdktXV1VPRk5zS3dFZXNtSl9VSTNZYXFnUGVtVUhXQ3RfejlWQlZoaGExN19KdEx3RTV0M2J6S0QwN1RXY2U5NkZEOC1kd1JNellXNmNnQ1I4N0xKR3IwalZjWTBYeGdJMTdRc3luTDNIeVRTQnhtZ2MzQ096aEc1em9pT0p4Z2p3ZmNWOTIxbm8yblZRckhzSk54enBtYU5EYnBOUUpwQnBjOGNMcDdtbWRkd3MxdW8?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-19T05:16:51-05:00",
+      "tipo": "avance",
+      "region": "Nacional"
+    },
     {
       "titulo": "Campo Milagro: $12.000 millones para reactivar el campo tolimense tras la emergencia por los incendios",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGhNMUNXeUdzakd0RE1QcklrdmhPV2ZGaE5Eb05vZzRuamFVREc1ZHNoRDg2dnZuMExpeXMwQ1pWN2NkT1hhdFAxVFA5QnhQaWszSko4ZUpXdGpMSWxZZ0RtWVNQa3JMUW8wWmROUFEzNGM5NFg4emtOdVNncWRXbVItbHhwQVhGUGo1MUpDOFA3a21fZDdyaWtpcFFidndZUXdyMlBLVXoxQmRDdlZCbHdPUlRja01RZmw0VnVSTHNzMG9pN2dCaXI2SS05MEJ2UGdj?oc=5",
@@ -55,6 +63,14 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUlyMzVNWS0zYXNJTS1WbHpJUkd3c3g1OG82TThEdXdpZG55YTM2RDc3eTg2VXZCNlNreEhGSkZTZVE2RDA5aTJXZkViY3ZMLS12dExIb1RzRUVudFBYUmpYdFM4VHRmaGVxVUFhSHYxb2poeWxoRmdiLUJvMzJQTU1BQ2R4N3NmOUpENTVwSU4wbmstMjI5aWdKZEtZMWVMQUl2TnNjQ0xPZ1ZLaUg2dGpya0bSAboBQVVfeXFMTWhEN055ZmtNNkVHWUNOYmdqcWVSd3ZoVjdVT09hY2ZUMFhkWldRQkpBMElhdFYyLVFDcENnd3NLRElKaElraXJ5ZzdtVnhFbDEyc1R5YUlxbkZjd2pvbHlyYkJ6aTMzeHdKWjlNVGU5S004U2FQOHNSY1dyS1NuUFJFcFZXZ1VRSTJmS3JYWUpKMmVkNWIzbHZSUjlYQXd6N05ObldjNnhwZTFMcXVZZEpuTy02dy13WDdn?oc=5",
       "medio": "El Colombiano",
       "fecha": "2026-11-18T07:57:48-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "De la defensa de Santiago Uribe al Fondo Milagro: el caso de Luis Felipe Henao",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjV4QlFxNWoxN0NjQXZCS2VsSzN3d1IyUDl3WFJ2U3hIOHlxVHVyRFNBRzd6T3FUNk1yZDRRd3VMU3dkRV9semx4bWU5bXozQ3JaVkxiTkdndGg2QVAwRVZoeF9QQ28yY1YzUk80TEstX2xULWlydnNqbzJPbTNoa1dJX1JxZEYtclBpYWx1VXZKU3dDOXpxNHNoMHRvRDhfQmI2ZVVnTjExZw?oc=5",
+      "medio": "Cuestión Pública",
+      "fecha": "2026-11-18T03:00:00-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -3185,22 +3201,6 @@
       "fecha": "2026-10-29T12:10:42-05:00",
       "tipo": "critica",
       "region": "Nacional"
-    },
-    {
-      "titulo": "Montaje de damnificado por terremoto con llave del Fondo Milagro se hizo con IA",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3pfRnJfSEJhSDZ3WU14QTBlM0llNFFneWlPa1pGWUJVQWx5N0dMcVRldmNYdWNrWlZkQXdQRGhRR2FnRjFJc01Mc21nLUt5c3ZOTUpoOXdydW9BS0Uta3RTYmlIZUp2QkFPNEJjUUYwR2RqVFc0cnNZT3VnUDU0NmdKclB0cERvOGZPOVJvelI1YzBpZW1tWVpjTnM0a01LVGREdnJTVmpTc3lUdFBmN1VrdTk?oc=5",
-      "medio": "ColombiaCheck",
-      "fecha": "2026-10-29T10:51:14-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Cesar y Guajira: Que no nos dejen por fuera de la Patria Milagro",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQTZ3eXpybWljRE1RQ2VHZGs1X2N2OUZkRFhrTkhsNkY4NGFtMXhRczhTNjJ6dEpwclhUTHVFQVFYMmplclVQRnoyVTBfWEw3UWFxWTMxZGh5UkJVRmM0TE5na25LZUowWVlqb2M3WVpaUjZfNmtpSEQwNTJxcnk2WFZMNGxDQQ?oc=5",
-      "medio": "Radio Guatapurí",
-      "fecha": "2026-10-29T09:54:44-05:00",
-      "tipo": "anuncio",
-      "region": "Cesar"
     }
   ]
 }
