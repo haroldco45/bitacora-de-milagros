@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T19:36:04-05:00",
+  "actualizado": "2026-11-19T03:09:16-05:00",
   "origen": "robot",
   "noticias": [
     {
@@ -8,6 +8,14 @@
       "medio": "Gobernación del Tolima",
       "fecha": "2026-11-18T19:08:51-05:00",
       "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro anuncia entrega de 2.700 viviendas en diciembre para damnificados del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjZxbVphZzNleTVVVlIzOEoyWTRtVHFYaFVLbDJ0WHp1Yk1Xc0ZLQ0NHdjVldUp6OGFxV3o1VkJtOVVLejhnOWVRYkxQbmJ4cnkwbUNyMUNoREJUMER4RXZrQmpNVnZUMHpRUTRVdDV2dFNJOGtsUXEzdVh1aVRCWk9sbWQ4dXJ0OFNTOThZczFpdmJ4MmVkYW9WLXkwdEpfY3ByT2UxeHQ2T0FRVkppMHd2WXE0WGF0MXBXbGdtWTU0ajdOVFFz?oc=5",
+      "medio": "Diario del Norte",
+      "fecha": "2026-11-18T11:20:32-05:00",
+      "tipo": "entrega",
       "region": "Nacional"
     },
     {
@@ -235,6 +243,14 @@
       "region": "Nacional"
     },
     {
+      "titulo": "Luis Felipe Henao promete salarios austeros en el equipo del Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmd6dlc1NGFIdDQtbFNCSXhMaGZnM05KeHptQnZFdHFid05mWXhOX2xDbmdiTkE3M1BXbi02UF9fSEFibTNLbTMtSHhFckNEemZ0WWdRN252d1RHMVo1U19hc1Y5NDhibHMtS3RuUU9SSUpkam5mdGg3eFRJRmFTOFRQRFBmUFp6TDRhalYycnRnYVdQZG1YbVE1Zlh1aDJzVnpiRjNEYWFyd1IyM0E?oc=5",
+      "medio": "Diario del Norte",
+      "fecha": "2026-11-15T10:56:28-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
       "titulo": "Plata del Fondo Milagro se ha gastado en sueldos de treinta millones para sus funcionarios",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGFXdDBtMUMyM1lVX2tqOUJ2czR5Yy1DMUZtdzV0bHdYTlF2NEhCbjR3X1dSSnQ0alFxSk1WczJEN3g4QTFlTmFoMzZ5eUFfanZQUkpoZHY3dUlhUVE1S0xRcksyS0VmZHVqc05UaG1FekZQOGZDOXB3UXpYOTJLWmNILWxpZnBhSXAwbmZIWk9nZW5jR1pzS3dUOEU2OUZBbHNuNWJHekhnSENOUm1XMmNMdXFhMWNzclF4ZVhKOGtHZw?oc=5",
       "medio": "Colombia Informa",
@@ -363,6 +379,14 @@
       "region": "Nacional"
     },
     {
+      "titulo": "Luis Felipe Henao, nuevo gerente del Fondo Milagro tras la renuncia de Jaime Uribe",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS2hoeHgxMlBtOHp4MkN0ZHlvWUltZTg2aHk1Mk00dTNHbTZ1cHQxVXJlOVNvVExHRkt3Z1NQWnJXVHltZ0Y2dkF5RXJiVUZyR2pqZTh0eTN3cmFnR1d0b2ltR0FGODdrWW1XcHh4Ymd4V28yWlJvSHdaSFZlNFc5dDZPN0gyUkQ0N1ZNUFVreGEtdzNaRXMxdS1DcXFNVGNXZy10QVlJemFUNE1Bd3VKNnFTRUR3OEpPcjNSY3ctUFlHUjZyVlByRUg0bVk?oc=5",
+      "medio": "Crónica del Quindio",
+      "fecha": "2026-11-14T10:55:07-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
       "titulo": "¿Quién es Luis Felipe Henao, el exministro que asumirá la gerencia del Fondo Milagro?",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzlSY1lDbnZVd3V4NmpETjBfVElWcFZhcVlnVGl0TmhtZU5Gb2ZJc2hFeVNXQWJyYUJ3LWdmWTUzU2x0VzhRakM1bjRvRHBlQ0I0OTl5TjVqUlRTcDk5ZkZRTVdCNnRucm5LLUh3ODBLTFp6Sy1XN1M3Ti1mdEFYTFhGQjc0YWxSOEZ4cERsR3M3RnZqc1pDdlF1MGo4TS14NndGeTVMWGJCQlA3TEZnMNIBsAFBVV95cUxPLUJGMTNTRHBaYWV4Tmd3ZG1SMVE1cFZpdFVmYVlucF9TVjlnd0g5Z2s5aU10NGxVQjNKMzJodXJWc0VNc1p3R2JSbUJHWVdoZjYyVXFZQlZDSFVUU2JSdVpheUlyNXlNYkJFY3Jha1RkNTVUQW9ZUlkzTGhTNlBVRGVCbTZkNUs4VDlOT3VNeHFXSGlWaThLTS1JclJrbGR5c2dGQVd0LXVvRUNwUHdYbg?oc=5",
       "medio": "La FM",
@@ -375,6 +399,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRFB0b2daY2ZkRHYxSW10ZG02SG5SMWN4bk15V3I1aFRRYlVHY2ctSWlnMjYzMnZYcm5uZ0JDOWJ2YjVqRUxjc29sVVVLZjhhMUFSZmNKVTFFRTQ1SHZsWE1rM0ctcE53NFp4ZFpmZGg5VDFzdkhXbDRVZGVJemFFbzV4SG82aUtkSWFrRXJ6UEo1aDBmUGh3NVFYcU9MaDNIRkR5VkV5TExSZ1FjVkctZVlfdGFJaHhVTnl1a2hsWTM5QXFzV19HRTYtRndzNDY5WExrWUtXenJFUQ?oc=5",
       "medio": "ELHERALDO.CO",
       "fecha": "2026-11-14T10:31:42-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Luis Felipe Henao asumirá la gerencia del Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFUtLTdOS09wLU1KX1dFcG1QaFFWQXNPODFYOXpuSHJTZTJhZ2xwNGZXYUVRZmxnNVlnQnRialFXcXRLMWVfRU1TYXEzUkNJeGkwSUdPN1d2WjdET2RnZ1h0X3FNZUpSR0Rnc3prLWEyMTJhNE5zUVVMa1JOb284blZkanBEdENBWDJMdlpybnJHUQ?oc=5",
+      "medio": "El Cronista",
+      "fecha": "2026-11-14T10:28:11-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -3169,38 +3201,6 @@
       "fecha": "2026-10-29T09:54:44-05:00",
       "tipo": "anuncio",
       "region": "Cesar"
-    },
-    {
-      "titulo": "Piden arresto del ministro de Hacienda por presunto desacato en caso del Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTdGXzllQWlWZU1MTXNIdEZoVFVXZE1HVFF6dUFuTHlXNl85VV90WGpCaEhEWEl0OERMdmUyNkcxSk5kckY5SDhMQW9jQnNudkFTSVRNN3lvVXRZRXBQZnBZdjI0bzF4bkFwMm1qRG1BOTQ1VW5UT1M1bjFxM19heEpmbjN6YWxRdFNqOUpXaW9ZRWtuSWlVcnZLS0VXMk5XYnJoaG1KYnVvaTFMSGNxSUFpajNXck1aRFJfVXpGV0pHZlNtTnJCUmF0MTNrZnh3czU4?oc=5",
-      "medio": "Crónica del Quindio",
-      "fecha": "2026-10-29T09:48:18-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Tras polémica por su presencia en el Senado, Matador pidió explicaciones sobre recursos del Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFJYcmNuOW81dFE4cy1EZkhIdFp1eDZuM0dvcmxldzUyNFJlV28za205RFdtQ3p4SEYzUFZqbjZBSkVmdXZSQzNfS1lzN1l1MmlHMk5oTlp5NXlDWXFwWjhQb3hiQnJTR2M2c0RzQXpvQjk2LS1VSS1Sc1pmSzd0dFdfU1c0X3BFVGtjS09MUE9uQW9Ya0NXWm90Z2ZXbG9vUFRDa2E4MzhqTHdENFRtaUt5VmM2NDkyX3VrcVJ1U2R5dw?oc=5",
-      "medio": "LA RAZÓN.CO",
-      "fecha": "2026-10-29T08:59:30-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Cuestionan lentitud en atención a damnificados del terremoto en Dosquebradas y demoras administrativas en el Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYTR1VWlERXRBcElROGs3emljbHRyWWV6M0R3eW1OZGVOd2o1d1drTjlUX1N2MWczdVdoVGd1b0RURmFIdDUyS1VjQmxFODc4V0pBZFJTQ05uUGpwdVlRWDRLMHdUZ3dMZTlYdHducG41V2paQXp1RjdKMEF2YUIzRjRkTS1YOHZlSGltMjIyN0QtV192SDVaQjJ5bFdSa0xSamZUb2JWcktwYVVzdTRHcURtbnlJWFN0T04zZkJ3TjJOT2g2dU1hbVBXY2FCVVdxU2ZJcjc0YmRiOUhPVkFVXzRPVTcwcG9Qai1wWGo4c0RSWjZaYWc?oc=5",
-      "medio": "Diario La Libertad",
-      "fecha": "2026-10-29T08:19:47-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Sacaron a ‘Matador’ del Senado tras pelea por sus críticas al Fondo Milagro",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTljRlVabHBOdHBaSVRaMjhNM3dDaDV4QWRDeDd0NVRnanhQZ0MyaEpjQmZQWC1fQzhPNXc2a3ZfT3d3QnpmZ2cxSUlhVkFCSGREVVlrdm9kTGlkcHZ2LXdFYllnNzlNU2V0SnMyN0N6V0hBWVZ1bWtCVFhYS3k2WjR2em8yZnpJTXlSNEJHdURGUlNXSXNnTTN5aE1SOGpMN2ozT0ppVWE5UQ?oc=5",
-      "medio": "El Irreverente",
-      "fecha": "2026-10-29T06:59:13-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
     }
   ]
 }
