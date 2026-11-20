@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-19T18:41:50-05:00",
+  "actualizado": "2026-11-19T23:50:47-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "El mapa vial de la Patria Milagro en Santander: los proyectos priorizados por el gobierno De La Espriella",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNblF4MXpxTjR6YXhBMklDVC1MWGZuV2JZX0EzUWhRRFlEUjlBeTRqcml6WWc5OFMyVkRjYy1TQ1QwZHpQcDJ4X0VRcE5GenA4d2FTMVpVYmZyWWlxaEZXR0xGLVo4bXJIOEpYS3hOcEx6R2gtRHpZZl9oQU9hWVdOMTFsZUNMZUNRcmRvLTgtMmtINUVXYzNiUXFCaGZ2Mi1OZVZRQW1SbHpIUHA4ajNQZm5IOEFnSVdEOG03Nno0OUVaRjJMSXV3Y2FDdVlqSTA?oc=5",
+      "medio": "Metropolitano",
+      "fecha": "2026-11-19T19:22:52-05:00",
+      "tipo": "anuncio",
+      "region": "Santander"
+    },
     {
       "titulo": "Fondo Milagro busca alianzas con RedPRO y Fundación Santo Domingo para la reconstrucción tras el terremoto",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTF9PTzZzQjFNcHdra3FCRF9RRUxoV0E5RWs4enQtYjdfZG85X2xGSXRIVm53TmFCaVNuUDdwcDM0U3hTMkxLZEdQVkU2V3dpVHBBVlp1U3JtdVNCRTR3SWdFbTJUR3ZlVzhyVjctRGZ0YXNZYVdjYUthYUMzcENlN0VxdmFCdUVJMFd1LTd1Q2tQLUpNYld2MzlTeU1GaFdYRGpOdnh6NFJsUTNFa1FqZEVGdUJFQ05wcjhvUVh1eXBsSUtHSGdNUUpKZllURkZiNUJqaEFpaWJod2t5X01pd3FMclYycnU1Sk9GMzJn0gHzAUFVX3lxTE1iV05uYkdiZVNaWEE0czBkZjBXT0JjWUh2UkE4WEl2M0YwcnVINXpwdWl5VmNUVjVybmVDTDJiYl9NM3ZXMkhLTHZDZnJmSWhyZmtsanRkbUIzSmR0QUJ1akNPcWlKR2dkUElzT0p5bGdrTmtBYVdDdDRHUllRbWlyU2N0eVhuTktzQXZaLTBlZS1Db3V2R0NldE9VV3NQYlJOaTNvelVWb3NzWkFDdTU3eEh5NnlIa3Z5VThhYXNyNXE4SEl2dWl2dG9XUU9Rc3lETTFvMjl0dWI1c2h2a0l2WmVTWWVUN0pNYThLd1NuQTVsOA?oc=5",
@@ -15,6 +23,14 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3J3aWpQNmR1bGRBWlJqTVB4WXZNdTZnbnJpa1ZvNGMxSjVCcXIxaW5WckdLZzVsb3RWc0tHWFhpR2gzU0RuWWxoaldZZTFmZU5XNEZGNUU5bmZXRDdHanVvUFFXcnJCSXBnZXZ3eXhYSjFLaDBGM1BqYlgtcFI3eXlXUnoyeVVhbHE4US1OQkZQOXFXU21PU1FackxvVmVMOHYxdl9xWUJMUFowUFJVQ0UwdHJrdmRpRkZoUDR6U3NoWkpBSS1DTmpnWEYzZ0hacnA3ZVMxQmZHUQ?oc=5",
       "medio": "El Expediente",
       "fecha": "2026-11-19T12:57:05-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "¿Cuánto costaba realmente la nómina del Fondo Milagro?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZjhsdW83MFRDS0s2SGMyYmc3aDhZOUNXbXk4cTdsTXJTUnkwVGlaVVIwbm9iTW93QzVkZFBJR1FmTkNCc0pLcE1ody1Xb0VDYlAzcmE4eVdPSzZsWlFiWnFENHlIN2pyYUthMXNGa1cxZWdQY09NajVFVDJqeERQTkw0YVBXWkp6RGR4cWR0bFFhQVV5MDZVM3pB?oc=5",
+      "medio": "ColombiaCheck",
+      "fecha": "2026-11-19T12:49:49-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -287,6 +303,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGFXdDBtMUMyM1lVX2tqOUJ2czR5Yy1DMUZtdzV0bHdYTlF2NEhCbjR3X1dSSnQ0alFxSk1WczJEN3g4QTFlTmFoMzZ5eUFfanZQUkpoZHY3dUlhUVE1S0xRcksyS0VmZHVqc05UaG1FekZQOGZDOXB3UXpYOTJLWmNILWxpZnBhSXAwbmZIWk9nZW5jR1pzS3dUOEU2OUZBbHNuNWJHekhnSENOUm1XMmNMdXFhMWNzclF4ZVhKOGtHZw?oc=5",
       "medio": "Colombia Informa",
       "fecha": "2026-11-15T10:31:10-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "¡Bienvenidos a la Patria Milagro! golpes contundentes",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWNUVFp3Q0MtZHZoYVFfdXVVQ0VDR0VBZGtrYVNpYVI3dC1qbmVmY2ZqSGRxX045VWQydVJVVmNWTjYwUWRKbzFGbDBiZWhXVnFrUlZyaXA3NkZlWmFnZXVueFJNNXlnc2dUMjJPdGFRY3c4TUdfNmtFQTVXTWZGN0c1TXBwSkNrRl9kLXpnakp2ZGoxTnlXRjln?oc=5",
+      "medio": "El Meridiano",
+      "fecha": "2026-11-15T09:27:23-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -1047,6 +1071,14 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUXlpVjJFS1dibWtzWnFNc2Zaem9mdDM1V0RkWmlQWTFoZjdMV2FHZXpVODQtYmh6bEFNckM5MFU4SXlQSTJVSVlfT2YzUUxMSWFQb3ZsTnZvT2ozaUpCbkFzUGs4LWN0cDBDY3huVUYtYWRpNGFUTnJOTGhudkNrU0ZYRXNyRzNjX0R6Y2xROFVHMjN2OHFpYzFfbzI5LWxQZDZRQjZwdC04aXdMWS00Y2tNSkhOUzBQV1BWa1F4VzZIbVRMVzdKT0VtX1QyV2ZkV2xYbWtoSE5OeDBzUXJ1ZjZpcXdXLTVXeE5Dblc0c9IBgwJBVV95cUxPWWZsUEpFSGxkR0ZRS2tEczV0X0N1S0xPZHl1TlFRdWdHN3VhUDlUTWFTajZ2dzhzdDNtN0xKQzdzaFMwcnpXN05ERUxLM2pJNGF6bGlQVE1YQ1k1Um9sdGdzSTcwd0lhNUNnUi11eUNjcnZ2MGdnWEFxU0VySEZTT3VFd18yWFVxSm96T2V2T3lIalh2Qlk1aXVmeUxXY2I5RmRzbGZhU3FqTmhLRjlqYlZUb3ZtTTFVWGlZVTk2dmxNZjN6UUQxQ3Jya3JwVnI4WXp3alVUYXlxbElweHFRNm9GdlZMTjdabXRsbGdmOFFEeUFSTGNCalQ3ZjV6aFo0NUZZ?oc=5",
       "medio": "Bloomberg Línea",
       "fecha": "2026-11-13T13:42:17-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "De La Espriella revoca salarios anunciados para el Fondo Milagro y anuncia medidas correctivas",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05NXkyRzR5dHZyYTRHZVo0eUpIZ3p6WlktZ1E4RjFpNXpUVW5nVnY5anBxMlZtOWpYNDU4S0o5dWs0dmhxaFNiTkZqUjk0V1RyWVZfNHh2dU5XQUNMRGhNLTMya29MZV9VNUoxVjlJWXE?oc=5",
+      "medio": "Hora 13 Noticias",
+      "fecha": "2026-11-13T13:30:05-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -2315,6 +2347,14 @@
       "region": "Nacional"
     },
     {
+      "titulo": "El expresidente fue consultado sobre las actuaciones del jefe de Estado cuando confronta a personas capturadas y repite la frase “Bienvenidos a la Patria Milagro”",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTG9TYVdrUGZRT2U4Q1NuSU5HVktCRi11QVp4UHpwRTlycUZ5Z19GUm1pemxrOEw1Ym8yZ0p4ejFYT0lTZGNHYnlsQWo1blRjODlOUG5vYjB0MjI0YmE2UmYwWlZNN1dScWJhWUVraU16NlNJQlhiZ1VjLTl0clF3UE5rQWlZYVJmTVNRUkEzVEQ4QTU2UGhSQW1FZ1pzdUVyNEJqV2lxcGpwYlItbzJzOGtka0xjaU1QRUN2R3U5Z0Vhbl9XdW5ObjJIOFlTNmk0cE5uc3EwcEltNGh6a2c?oc=5",
+      "medio": "Facebook",
+      "fecha": "2026-11-10T00:48:34-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
       "titulo": "“Del Fondo Milagro solo hemos visto vallas”: a tres meses del terremoto en Colombia, la solidaridad desplaza al Gobierno",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa0pZbk9uay1jaVpoeVVfZXVabGxpaFF5VTRXTEltYzJmYVpuLUxWb296SnJLUDNMb0xtTDk4bnk2YVppbE05VC05Vjhxdml4SHRGcWxaZ1RkT3Rybnc1M1lHbFU2UGJNOE1qOFJaUW1EQmdBVnZJX0tVelBtR0RmZl96ZlZhTDhjVVdtUnpkTEI1V2tQcFpXZ2dsOG5nZHgwUTdZUFE5aTA0UnUwZFV6QWdCS0JHZVd0WWxLWlJSUDhDTi1OVTRPWWxJSDliUUNqaEFzNmthN2ptaTM0SmRDbFpKVWJEVlJBaE5J?oc=5",
       "medio": "France 24",
@@ -3161,46 +3201,6 @@
       "fecha": "2026-10-30T17:20:57-05:00",
       "tipo": "entrega",
       "region": "Bolívar"
-    },
-    {
-      "titulo": "Inauguran Gran Malecón del Mar en Cartagena: lo que encontrará en sus primeros 2 km",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTlFeS13SzMtY1lWYTFrSG80ZkFDUGsyLWRYSG1qX3FhWXN0SE44Z2ZScWwwTVRnU0pqSnNfeFdLR0dya1VDeXlFZDU0YWhkUk9yT1VqTzFRVDhCV3FqUGpuWHg2UHR1TEw5Vi1Ncy01b0FVd0RhUm5HdUctSXQ0THFaaEktNG1aTS1EM1V5UEhxUzI1NEwtaHJZaGhKTkhkTGxVYVJudER1V2FHT3BxZXhCbjNQY2FLdUdRckJPei1lWFRHdUdSZFJ6RFR6Z2xK?oc=5",
-      "medio": "Eluniversal.com.co",
-      "fecha": "2026-10-30T16:13:00-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Abelardo de la Espriella acompañará la presentación del Gran Malecón del Mar en Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbjF2OXE1OVlOeHZxY19aenp0NExHWXpDSGo0Z2stcV9nS1NTT09yVEZqNllXNDRDTElIbU5WcXJBdm9CbTV5OF9GZ095a1NkY0RMekdGQ0xBQzRLbzRWUDFYWDdaeFhNX01weTlVSEQ1M0N2UERsajliUGNRYmQ3Q1ExcElTT3ExMUhLTGhHRnNVa29QUW5TTERTeXdFeVE5N1ZQODVVNW1CSGpPaGVta05Jbk5YNzJlVFdsbE8xZlh2SF9IR05qdGx3?oc=5",
-      "medio": "Diario La Libertad",
-      "fecha": "2026-10-29T15:13:45-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Es oficial: este viernes el presidente de la República, Abelardo de la Espriella, inaugurará el primer tramo del Gran Malecón del Mar en Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbnV3ZWU3VlpNSUFEOUJvN3cwLTdHT2Y2S3BMdkhiT3FkN0VUTVlrZ3k5UXNucGVXazZwQnFCY05relVWU1VUNXBQSGFlbUVfTnMwckJ1NldkUkdIX1JSaHlMU0RmaEo0eTlzOWtLcy0yUFM1Wm1ldHVTWkNSVHJtd3hKRkZaY2VJMVh1ZmRtM3dXeG95ZHhTUmxNUG9aLTB2MUNqelo1Z0tzQk1XLTg3UTNrV1Zndm1tWXNZTGFleHV1NkNjRFd0MFZoQ3FTWjFvWW1QNDJiWVdDUnFiSjJXMzFFQktUZXBmWmtjaXM3MkR0bkUyb2pFV2R3ZFZpQU5QU0xnTUdPa3RuU0t2YUFjaTFrS2V3MzZkX0lCWURWTUpFdVdoUVVz0gGsAkFVX3lxTE9ESWhOOVA0MFF2bjg3MmVVY2pDWktHZm4xYnNFN1U1SjUtNEwxRGN6bHpiS0lkVmtfaXJORVQtTXVuUFVCdUhnWVpaa2VvNlJfRjk5MDFUY05GWE1mM1F5NklOWlRrNmx3X0g0Qm9xMVpmT3NKY0xUelR6dkVpSEZBZVdzbC10X3F0dVZ0SDRNWmd3QkVLdW43QXdzQUFuNl9hY0hNTU1lcnEwN0NSb01YWVpKcnkxMzViNVpnOHptUjFLVWxFbjVuYnZhWEx4dnNPaEx6U2RLUUhTd0tOaE5WRHpndXF0Q0NUZkN6R1VPRUF5Wkh4Nl9adEU0enZ2cFV5djJ2Ui1TY2lmOWdJNldCOUZWcUFzMWdLd1F3N2RvQnJMekxLcWRGbTlDMg?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-10-29T15:12:08-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Hacienda, UNGRD y Fondo Milagro pidieron al Congreso aplazar la rendición de cuentas sobre la reconstrucción tras el terremoto",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSW92allvMk1rdENaMS1ZMjJhY3FsODN2RUg2WEowQ2I5a1BYLXZZdDA4aHo3clpJY2xUU25DeFhVZXFRZGFCY1lzWjFOcTkwUnJxSU1fd3dJZWE5NkUwZ0tJWjlQbk1zeHJOakhoRGlYc3hpWG1Md0RJaWVwa0RJdDVIaUxTRmktdjdaU0NMTFFfVjlRN2lYZGVNM1pNN25zdUJiem5RcHA1THRwbXNFcXdyT1k?oc=5",
-      "medio": "IFM Noticias",
-      "fecha": "2026-10-29T14:58:41-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Cuestionó la falta de ayudas a los damnificados y el funcionamiento del Fondo Milagro. 🔗 Encuentre el link de la noticia en el primer comentario 🗞️",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb2F2MnI2Nl91ZlBORUlQZURuQlN2Y19uNm9ld05pMUhHdjhiYjU4c1lSeTlLYUtka2lvblVid2NEdFFJZmxIUUswNlg3NVZ2SGR5VHYyWTU1Y1U1elp5a1hJd3I0YkJ4cDNhVThKRExtTXpMNUh5Z0pmMnBhbElNdmhKbDFlRTBjVTZkZ0dTWV8zZXJjOTRmcVRPejU2TVNJbnFKYUh3ay12c1Q3WjU3X0xxbGQ2czhtcnB3Qm9pdzliQl94bWpDY2lsZWpIMkc5UG1faXBnOEppWGJMQmlhbzg5V0NjNUxE?oc=5",
-      "medio": "Facebook",
-      "fecha": "2026-10-29T13:48:35-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
     }
   ]
 }
