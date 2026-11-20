@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-19T23:50:47-05:00",
+  "actualizado": "2026-11-20T08:42:55-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Fondo Milagro: la respuesta al terremoto que llegó rápido, pero se mueve lento",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLXUtS3YxektNX0E5Rmh0ZkxqWHQtZ0lqWUw3MXpNRjZyTEJla0xEY0swdmx4bU15dERHa2ZCRGhvT1Z1cG94ZTdaMHBPanRER1lTNHJPSS1QQ3pTSVlJSFFjR1lYUGZza18wVERPSXRZeTFiWVo1NkRQZUlXcGNzMzhHYnJxd3FRTkJ4TnVfeHlxTEo0YWltWElwRmN4RGticDM3RnU3el9aSDVaWlF6TGQ4Rm1faDVfNFpZRXlUMFpqTHM1TXdQTNIB3AFBVV95cUxQTk1IanZLWExKdEx1blBCY2lBR0JQQkpHMGVUWXVhaFBFNWhBTC1lVTc5RVBvWGhRUU5FM3lqdEtuYWpmdTFwa3ZZVUFkRWJ1WXYzQU9HaWJWVEJZckxhZU85OTBLMnViVncyZGxNODBpMEpMMjRkZFF3M1Y3OFN2bTlWOE1HU0Q3YjVhZDlDOVpvUkxfUUhBNk5pNE90T1VPUndwQjU2VXZKTjRIVTlkNHpfUDdpNXBsZmxMNW5EdDVualQwN1hNTVZUcUxtbmxrWmVlMVBQSzhOa29H?oc=5",
+      "medio": "El Espectador",
+      "fecha": "2026-11-20T07:57:07-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El vicepresidente muestra su habilidad como anfitrión de la ‘Milagro Week’ para estimular la inversión en Colombia",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUzVJTEdIcWp2MERQVFRoQ1FUaDMzR2RUSEY5Ty1XdkJKRC02bkVuX05jbVE2UVBzSUs2VmpON1l5YjVvZV9QY2RzS2pyR0ZJQm03TWpLYmhDcmtTbVpZWE01MDdvdzVjVnM1YkJYY0V5d3VKdzJVSGpabEI0c1VxRGhYTXZUTEktMHRmMkpsR2dvY3NzaE5iaE02N2FSVzhLdERUcDIwSDJmQlRJU2Y0ZG9rRlppWXdNLXdSRThVQUZyUF9HWmVJMEhTVC1Cdk9nSEpYeHdBVHVIaEhxczNHa3FjbEpSa0xJT0ZYWndRaDFlRzlCdWxB?oc=5",
+      "medio": "EL PAÍS",
+      "fecha": "2026-11-20T04:30:00-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "El mapa vial de la Patria Milagro en Santander: los proyectos priorizados por el gobierno De La Espriella",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNblF4MXpxTjR6YXhBMklDVC1MWGZuV2JZX0EzUWhRRFlEUjlBeTRqcml6WWc5OFMyVkRjYy1TQ1QwZHpQcDJ4X0VRcE5GenA4d2FTMVpVYmZyWWlxaEZXR0xGLVo4bXJIOEpYS3hOcEx6R2gtRHpZZl9oQU9hWVdOMTFsZUNMZUNRcmRvLTgtMmtINUVXYzNiUXFCaGZ2Mi1OZVZRQW1SbHpIUHA4ajNQZm5IOEFnSVdEOG03Nno0OUVaRjJMSXV3Y2FDdVlqSTA?oc=5",
@@ -3185,22 +3201,6 @@
       "fecha": "2026-10-30T17:26:00-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
-    },
-    {
-      "titulo": "Gran Malecón del Mar Cartagena: Inauguración y respaldo nacional",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2ODZXbU5oNDQxbmVTTFdqRjJHZ2UzbWFFZ2R5NTRIRDY2SmJrenByUkhVbWlCMk1KdDBmZzZqb2lJSzFwODlGZG1zcHM4VmIxM056ZnQ4ejd6YmctV0U5aFc1SEZQd2tnYm9KVXl1TFZ6Y3ZCNEhIMW9kUHU3dw?oc=5",
-      "medio": "Estrella Digital Colombia",
-      "fecha": "2026-10-30T17:23:01-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "‘La vida no puede ser tan mala cuando uno puede pasear frente al mar’, De La Espriella en la inauguración del Gran Malecón del Mar en Cartagena",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRmViU3dGbVdrMndxMHNIQ0MtWmdzUEM4aGdjOHBrNnVNMks5SGJQNkF6ZDl4eEVTclNYb3BDYW9sYS1HTVhfVktiRTJqNHZLYUpVZENNbnROdFo2LU9VWlNWS1U3RE9JVVNJdmRSUkJsN19SZTNva1BXM2V5LWYxWkVTUEVVQmQ0c1E2blFFY2hIUFZaVjlvYUU0YlRXNVJNMVhGSHJmV2VtQnd5cGdsOGNqbUIxSTJYbVhwOC0zdmxyMjNqT3Vob3BnXy1VNDdHS3djN2tUcFh6MXAtUzRxbDZ5VThSY21vS2dKRHI4dWJfNnhwZTgzWkNyOHAzR2xYMk12blNPcXdLRDhiUHRGYVYzdVN3NlZUbThJaTVhVUFWM0XSAagCQVVfeXFMTzZVVnlDX2xWRE0zUDlmM2RGdkFkbW9xSmJqdXk2T1huZGVxVmZwdzZLbEdWWnltRkxGczlVWEJMT3BiazRabE5fekd4LVMtMFVSaUNIV0Z6UDNYTXpWZGlKRlJiWFhIVUF3bFJrNUl2ZloxVEtUdnpOVGhJZVlGVkh4WXpuRlpZbWNpYXdleEw4cXkzVC05VTdHT0VPbjJvUmxyRzE3VEZRMFU4RGQyX3BZakZFaU4wc2pnRnd6TUNhOE5ITUczSVg2SDlVUURQdVJTLWtacnBtbHVJZ25PODdyQ05URzQ4dmNJdDhJTmk5V2hvTjdGSDZmSzVZcEdaTC1XTUhXQ3VSdk9wNjg2Ylg0S3pLVDRfWTlxbXBzVi0zdDlDajlKai0?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-10-30T17:20:57-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
     }
   ]
 }
