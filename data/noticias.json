@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-22T12:58:38-05:00",
+  "actualizado": "2026-11-22T18:16:38-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Luis Felipe Henao, gerente del Fondo Milagro, señala que los damnificados no tendrán que vender sus predios",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUUt1a1dJMUF4ZTRETkhjRHc0ZWl6VlJ4Z000N3ZWcDdmM01iYS1YZFBQcFlUZEdvSFZtMVcyODZZelItSmttbUVGOXNpckJTY0dzSzF4b29tQzJRQ2MyYVJzNWF2dk1aMW1hZEhkLU1hVmRtRjU4TndJaGhuTUpOTjZXR0VhcTAybHBnbWZqTG84bE5VQ1pUY0VSWlJ4OTdidWFYR3ZBS2JUa1g1WU9tZXF5dG1TX1lMbC1hSlVCRGdfeUxpSndjbENMaEpZVDRfZWUzM3FpTFZha0pIQzB5elBnVmlQOVJyNkdQb2JDMy1VckYz?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-22T16:48:01-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "Presidente anuncia que la Ruta Milagro de la Reparación a las Víctimas llegará a todas las regiones del país",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2VOcUUtb3JqaWlfd016MVo2TVNMOWotUmZSQTVqOE5WVFUzcVJ6WWRzSjFJSmk2MUZxMC1sLUJ5MjRzS256c2tiZzJpazlTcEFnV3M5bVh6LXV3VWtHY3RZYnFtRVRHeXY2ZjNfQ2haeUplTlY1bGdNTTZGMGFkVlBJXzZBUDN6eFRTNEwzaWV3S01vbnBJTDNES3ZLX3kzaHlwT3R4ZHF3OG0tVEdYWjFXa0NrUDE2ZnpLUWNOMjZYOUpKR3VWWlAzbm9kZnpuUkw0VUx4V0VWYlk?oc=5",
@@ -135,6 +143,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1VYSTR6TUVrVXprY05VMWJtUjUxUXZrRENORmdLd1VzbVpHbVhMckVYdXlISmdpb3pPMTBPNGNSZGtOM0dJZGFGdXFxSWZTNTVGWlJNQ2dpdW1MOWFkYlhNbHlTX3BzUkM0aV9lNnFTR1JLbFZMMnRIWWpva05vTkFlYjV3Ni1SV2NWNjBSMnJ0QW9hT3ZzN0hTNW95Q1h4eVFHU19WR3dxeHM3SDZpMy10SnhiX25WTVNCTWZSUlZ0UQ?oc=5",
       "medio": "El Colombiano",
       "fecha": "2026-11-20T10:17:05-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Findeter, el aliado estratégico que necesita el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1abHJ0d2lKMldkb1Q3RWtTRUpUNGJZMG92VEx4Q01fY1lzdnJrRHNlSDlRY3J4aVdyTnNtUEtGOHlyeDJPbVZUc0tnN1BqY1dGd2RyTVlkekp4dHZfazluaFNrV0p1SEpTakE?oc=5",
+      "medio": "Radio Guatapurí",
+      "fecha": "2026-11-20T08:32:28-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -3185,22 +3201,6 @@
       "fecha": "2026-11-02T12:34:26-05:00",
       "tipo": "anuncio",
       "region": "Valle del Cauca"
-    },
-    {
-      "titulo": "Taxi habría arrollado a dos trabajadores en el Malecón del Mar, en Cartagena: reportan un muerto",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2p4NVJJRU4yTnhkVGRlTXRJeHRXd2JmVVZZQjRHczZRRzNiS3dlM29ma2gtNERMWFpPd0ZDcnNrckdqZnVFVFAzcjhPNEpGX21hMEdzV21hemNpZ0p2UjR0NnY5ZlpzNmR5ODl2a0VyUGVHT3RDT090Q0Jmc3VvV1NrdVRQY1hkdi1tOERpVTN4U2M4a3JwQWNuZ1YzT1dheVRPZ1oxSWJHazI1X05HLTBaQkNXdlRjV0tZTEV0elFQR19JYXJrUjdFWE1uME5z?oc=5",
-      "medio": "Diario La Libertad",
-      "fecha": "2026-11-02T12:19:46-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Murió hombre en fuerte accidente en el Malecón del Mar, cerca del Túnel del Crespo",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWFp0WF9hMXFyUlpzX2Eya281UTNzbE84MVdER3AwUGxiVjUzWVpEYnh6d2t0WjJYRmtzMlFvMlFoMUREUkxlMjk2YzBhb0ZhQTl4cTdhUWxtSV9OT1hqdGE1ekZubWdXNWpmM190NkJxZjUwUjBrekFxTG93Vm10YV82U2I2MGNaWm96eHRJNlVoclMyQjhleXRPWTJYVm9Bc2RwTGZ5VEx2TXRlUlUxcFYxOHFnNGM0bUxCdU1penFiaElDQ3Axa0ZVMng?oc=5",
-      "medio": "Eluniversal.com.co",
-      "fecha": "2026-11-02T12:01:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
     }
   ]
 }
