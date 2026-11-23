@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-22T22:51:14-05:00",
+  "actualizado": "2026-11-23T08:50:50-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Fondo Milagro anuncia entrega de 280 viviendas y nuevos recursos para la reconstrucción en Risaralda",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2lVMTA1QW0wOUJRdjJPUThXZUVJSmJhbEhuUEM5T1ZlaHR0NnA3eUdKMEJ2a2MtT1FLd2lwc2NLUlFxWml3RFMzaEMwOEpjREtLS2JHNnJER1VRSkl0N1ZiSVZ6ZlVEZU0teW41S2x1SFk3U2xNUU5fS0Fpa3lDNU9xSTVTZzI3VE82TnJvSzhJNWdITWlmMVZIVVVXdHUtLWZiOUlXQkgtc0l2WW1Ed2lTQ3k1TFBLeWlTUnJ3Qkk5REtoTC1acE4xbWd4ai110gHkAUFVX3lxTE5QdklZUThwTGF5WnVQQlE4YlppSkFxWTBCVjBrazNESmhGRGNGQ2VpUFRvOVlSSExLczcyY1lPbmJpS01UaF9hNmNOVlhuRnpwNzQxWnVrWmVZbVNGb19xWFh1dmZyVVJGV0l2bW5YcDVaVzJlNVdpSHlWTXFYQjMzY0d1Z1Itd1RZM3RBVDFublpNZFJVRTRRXzZBMTJXTmNBQVRxSVplMkoyR2tGYzIxVklIX2RwX1Q3NDliaUF1NW9ROXhqeElWREY3NV9GMnNYdDlBX3RGN1N5M3BVdnVSUE5BeQ?oc=5",
+      "medio": "Caracol Radio",
+      "fecha": "2026-11-23T07:01:46-05:00",
+      "tipo": "entrega",
+      "region": "Risaralda"
+    },
     {
       "titulo": "Metaanálisis de las bases del Plan Nacional de Desarrollo 2026-2030 “Colombia la Patria Milagro”",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVF2eFVmMHNkVFVxZmU2Rk1tRGo5YWZYOWM0b2dNRThrVEZ0UFAtOUdWY2R1MHpwWkhKOFNJWEJrMnotVVUxMDJFeEd2dFNQdXJsSzRkWkNlbVZRLTVmT0NDd2NiRWJ0REh4cHRCeUNyRlVRZVUtZ1V0d3lxOENQQUR1OW9Zb1ljRVpxZHpmbU83WU95Y3I1SFdVbnppblJvdDd0VV9ldjFDX1RXREtTTV8tdjIxOUxiUFBzYw?oc=5",
@@ -225,6 +233,14 @@
       "fecha": "2026-11-19T08:01:00-05:00",
       "tipo": "critica",
       "region": "Nacional"
+    },
+    {
+      "titulo": "Fondo Milagro se fija la meta de entregar 2.700 viviendas en diciembre, mientras MinVivienda proyecta comprar 4.699 casas para damnificados del terremoto",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQktOSERXTjdrOE5YR3ZtQ2pHdnM3c1VqLW5BYTJLNHZZRkhMQW5hS3dYNDBVbmdXRno5OGc2c2R6NHZ0LWd0Z2xscF9pNjRyQVR6S0ROeC01YU51NEo5MkN3TnpVbnV3cU1sQlczcURxR0RtTG5TWHVxMWY1TWstbk9PcWFSNGVJTGJHLVpsOVJ5TUhxUmhKc3R0R3MzRDFEYWlzRjcxaFlhNkpIcVFTWEEwNG0?oc=5",
+      "medio": "IFM Noticias",
+      "fecha": "2026-11-19T06:51:07-05:00",
+      "tipo": "entrega",
+      "region": "Meta"
     },
     {
       "titulo": "Estos son los contratos que se dejaron firmados en el Fondo Milagro antes de la salida de Jaime Uribe y las firmas que fueron elegidas",
@@ -3184,22 +3200,6 @@
       "medio": "Uruguay Al Día",
       "fecha": "2026-11-02T21:47:25-05:00",
       "tipo": "critica",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Alcalde de Cartagena le lanzó una pulla a Petro durante entrega de la primera fase del Gran Malecón del Mar: dijo que el único presidente que hubo fue Mr. Black",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZTBtQXhpQkZVcHQ5NmoycTBqcDNmM0Y2X21EeGprd29oUUlYLUV5WXctakl1NWw0OFNNc2JHdER4REx1UmZFQ0dNeUJTSEk5b1k5MWh5VW52WWRzYnVTUFBFUTNWakR6VGVIcDdHbUExLWEzVGthMmNRRDJ6aXZkQnlpNUZ1TGQ1LXM2UEhJNHdIOVMwOWhSaDV1NExhVU8tRDdKM0NJaEJ6YmdnNG9oOVY5UlJDbmo1VFczWVlFUVFFbnRsU0hpWUthZFI5Vk5nMzV6YWZLM2FDNklRY2o3b1FtOGdVcEcwREhrbG1zOG1fMXBpNnJKYUZFZ1lTNlVGSElHa2MtNzlQTnBVbFZ3UjhEN0FhUzdYem1JRWw5Ynl1VHFSUmJUUWpJNNIBxgJBVV95cUxQMWxaLVp4aUNGZjU3MXRSWGEwcTFTVnR5cEk2RVB5a1g2N3JUdDU3a3cxYm4xRE53czFGeGt4ZHVpSG40WDZxd0ZsSUlqUDJYNHVxdWsyV01yVEFfVzVER0s2QUFfMUZrXzFiV3hhSXRsbm45RXlVb2JiM0Y3WTQ2blhBVzdoVjNlV3NsZEE5Z3FqXzM4X2VGTm5xTVJ2REEtVE5lLUZJR2RxeHg3NXJZbXI4dDhmN0VMQzhERDRMSEpBUWJwdEdUNkpwVGd6ZmFZQmdGR3ZHVk5wSkt2QmlfVzJ5MnEwZ21RZUFFZlVLLTdTYS1KVWoyNm5mSmxsRW02UEJpTHNGaVlfcWhMdmxwNEF0M2pZa3lIMWZIWlBZa2hJVGNZdDdDeEYxbHREZXJmcjRmc2pkaklBVWJKWXkzaXYzTG5Pdw?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-02T21:42:00-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "Taxi sin control causó la muerte a Alfonso Barrios, cerca al Malecón del Mar en Cartagena y su conductor ‘Rey de las infracciones’",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUFBEOUFzUDVuRlYyRHVmdmt0VHdrWERIeU96eVZrT2VmbndFR2ZHVlI0Rmxrb3htc2xpcHpmM0VOQ0EtUzBRQWh2YlR5Z1FJd2hKRE9QUFJMT1pwUC1fN0pIaTlKeVhfTlFzcUhfQkhNc25aOUo2QUgxMFRSMUpOeTNtQ2xlZXlDc3RDSE9KQ1NpNEVqWXV3b0IxeVc2S2h6Mmx6UjI1S0l2cnMzZjdfMzB2MlRzaDJWYkViUHA4WDdmR2NwNkEwXzV1ZWg1UzJ5U28tbzJfS1BoSXhzWDRtMTJ2NVdRQQ?oc=5",
-      "medio": "Noticias 625",
-      "fecha": "2026-11-02T18:09:07-05:00",
-      "tipo": "anuncio",
       "region": "Bolívar"
     }
   ]
