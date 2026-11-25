@@ -1,12 +1,100 @@
 {
-  "actualizado": "2026-11-24T23:23:29-05:00",
+  "actualizado": "2026-11-25T09:43:14-05:00",
   "origen": "robot",
   "noticias": [
+    {
+      "titulo": "Senado aprobó adición de $3,8 billones para Colombia Mayor y el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWEYzT2oxSGcxSkxkakFiS2VKSTVQNF90dHhFTDhkYnhuUG9tNjBuQnlhcmdJajNpZF9JTEFuTjJUQW4ydkRSdy00OTF4ZTNUX0xZTWpPY2JkZXBhX3A3QUZSLU9xV1RKOHpJSG5acG9VcjVkMmdicDVDdXFKb09OT09uQ0llVU5LbUpleHJlSndkVXllSzhPcFdkdmQyUDd4R3Y5NVlpSUhYcjZCaG9qSXlQNVVic3RMdkh3RFdJOTlBME10?oc=5",
+      "medio": "Crónica del Quindio",
+      "fecha": "2026-11-25T08:54:35-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Así quedó la adición presupuestal que aprobó el Senado: Colombia Mayor, Fondo Milagro y Air-e",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdW02RklhMFh5dmJtMWRBeTM4SWpnNjNJNkZkMkYxRXZ2bFFnSHVkLTNaU0ZJWjd1UDVIa1c0VmJQRXhNV0ttSS13OTRJUElIeDE4cHJ2QWhzRy1TVzhBWXNVcXhBU0M3Nm5YZXNUd0JpOGpVY2o4NVhnNmdER09KN1JEdm9TNGo5RUdyRTR5UklDZEdXTXFjNms3QWhYQlByVFVMYnUwWlRWV1QxUnc5aVR4TDNDc3BIa3lLd2tTQXFlcHlfakZheWFWVEdqMnk4Yy0w?oc=5",
+      "medio": "ELHERALDO.CO",
+      "fecha": "2026-11-25T08:35:24-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Campo Milagro Tolima: ANT abre convocatoria de hasta $750 millones para organizaciones campesinas",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNGNTbHpERGFPcV84aWc0NnR3M2dSX1pOLWJDVkZqajZKRi1rbVZLSVF4c0twck00QXo1Nmd5aEFxVEdkRVZMZGdZUTZZTy1YTUQ2blJfdlJ5UVExREV4X0l6Yms3S1VRdG41N2VudFM4UE54Wk5yZTVQT09kU1RIblN0eDRwUDR6SFRPcnRQNjJGVzI1ckdDYzg4VkVxNWxmMG1DdTZHUjFOdDN3TTZyc19tWkpBVXFBWUxXbWxmXzB6TTVrSnBRWEdnOFk?oc=5",
+      "medio": "Ecos del Combeima",
+      "fecha": "2026-11-25T07:42:04-05:00",
+      "tipo": "anuncio",
+      "region": "Tolima"
+    },
+    {
+      "titulo": "De la promesa a la realidad: presidente Abelardo de La Espriella y alcalde Dumek Turbay inauguran los dos primeros kilómetros del Gran Malecón del Mar",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSmJJeHdGQUl3anF3WTBwaUdLb0d5ajVUdTg0QUgwR3MtdHdUdXpuNFlBU3ctUm1ZZ3BWU3I3Q1NUREJRNjItWVMzNmcwWGJORFRyV1N5TUphWllIYnNLUEoxakZ0N2QxZXdnWTM5dWc3eXFYNzJWXzNZb2R3ellMUUR1elllc1FFZ2tlR2R0TEEwRWstRXB1TVhJN3VZM2tDSzZteEtkVDhxUlg1ejh6MGpmVFBsVGtDd2xBT2dhWFJxWFMwc3ZmSkM0SWVEN21pR0hNdGhBVHo1NDlNNEM1UktRTTNRZGVGS1hZdnlLSQ?oc=5",
+      "medio": "Alcaldía Mayor de Cartagena",
+      "fecha": "2026-11-25T07:38:46-05:00",
+      "tipo": "entrega",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "”Cuente con esa plata alcalde”: Presidente Abelardo de La Espriella anunció recursos para financiar los próximos tramos del Gran Malecón del Mar en Las Tenazas, El Boquetillo y la conexión entre La Marina y Bocagrande",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOdnRRMGJyODlndWVXa0hGaldJQ1NNOV90YVBOOGxvT09hdmozdHNCeVdkVzdTY1owdjQwZDlSZWRRcElXaWlST2VOZlpVTlBKc2Z4NnlqUHRCaUQxd05nUWR3eFdPZl9pZkFtdlc1ZkppUEQtRnUzaG1lc19fR2FtZzRjdHhhRzY3YnJRaF9RdF93b2NDY2lvZFRRSTRUWjRiTGJmYVo4Um9mb253cngtRVdJSmdNX1RBSEVPcE9DX251WUdUMjUxMFdTVm5ubWVuM2ZKaE1fRjFldnJWUHdENXZ6MDlFX1JhYjgwZ014TXE5OUxybmhxelQwcWxQTTlsRVpjRUVzRVBIcG1lNkI2ZUNfeTdJTU01cThwSnFMX3JMQnlPZmhaalpGZmRKeDN0c29EU2k0S0Y3QQ?oc=5",
+      "medio": "Alcaldía Mayor de Cartagena",
+      "fecha": "2026-11-25T07:33:32-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Patria Milagro anuncia ofensiva contra los financiadores de la deforestación y la minería ilegal",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDA0cWF5VVJTU1R0X25mNFpVUUI4dTUtSlNjYk1tUERlTEREWDU4WjFiWkZoRlV3bkQwclZHTFdGMWphb01MR0JYYmloOTV0WHhQbW9KZmxadGJxTXBjVzFwZDMxMEh2eGtuNVNoMXdhZ0h6N2p6SGtiMVA0bWxWTWxKbUE1OXhuNko0MlFBR2dFOTc1MFc4QUhaR1RGUVNpVm54OW4xM1JEd3RrX3RIcGhDMTl4a2FOMlh6SkstWFQ3RzZJa2s0?oc=5",
+      "medio": "Ministerio de Ambiente y Desarrollo Sostenible",
+      "fecha": "2026-11-25T06:35:47-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El Huila en la Patria Milagro: tres menciones y una tarea",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWFg5SDJBbzhwc2NHUWdzN3B5R2cxRlc0SDVMenRZMVI4dDBoYTBJWXNWVVd2ZkpTaWhya1hhZlpWSzdUQTQxMzZ1UmJBZERkQUJpUUFva0N5eUM4ZTRyZ3RBRkdyUWkyYU9Xbk9kallvYWkxcllWOFFzSk9OMklpQmNsZkFhSno1VzQzbg?oc=5",
+      "medio": "Diario del Huila",
+      "fecha": "2026-11-25T02:10:36-05:00",
+      "tipo": "anuncio",
+      "region": "Huila"
+    },
+    {
+      "titulo": "Se aprobó en segundo debate adición presupuestal de $3,8 billones para Colombia Mayor y el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcEZxcFlOTmZQcFYtVWZCVXFDUUw5QWxLVXJkamVDS25DOVptLTdNT3c3S3o4SDJReVdiUTdGdXVDcXpTczh3U0o0RXFVd1Y5U1RSS0FEcXNLdThuemNrNF9zNEdSekd4dDIxNFpRQ2NMdVc3MnM4OHc5azllODJmeXhYU2FaX3BoS3RZaEg1dTFDNkk4U0dEQTdWa0tJMlJjbEplQ1dHR3dtblNIUEpXVnBnaVg3dDlXQVloNTFXbzNVN2JnUjZiN2I2dGFnQUZ4dmdVZWwwUTM0VTN5TTNyS1NqQTFKQjhVVkRPZU1jTk45Rmk5SjNkZdIB_gFBVV95cUxQX1hscUlmam94VFFXRl9pcXlTQk43a004MjNXRVd2ZGk5VGxDYjRlbDV1S1ZJN0xoYU8zclFfQm9LUVlYRkRoQU1XZ1czOXFqakd3bE4xUXhXaGRSNFN3cTJmeTR2R1ZaVmIwVElYdGVxUnJDekxQa3dxaFB1U3NqX0pJbnU5VEp0VFFCTzBQeXBzVFRfazF1dUN3c284OHdfNU85b3BnZHkwdzZOQUhJbzdxejVUazJtc2wzV2FTX3g3Y3hvNGZIZm1mWnEydUpTUHRmaTNnc3BXYmtUTWxJNVFNX0s3ODFJX3FsRVlCQmFFejhTRnFKZzlnVjExdw?oc=5",
+      "medio": "Revista Semana",
+      "fecha": "2026-11-24T22:06:07-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
     {
       "titulo": "Senado aprobó adición presupuestal clave para el Fondo Milagro y la atención del terremoto",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUm5mOXRmc0I2NGI2UUxlQVFyZy1fTjdKSk5LQ254ZzFGVEFpMVY3MkczOVNVcUNqakM0WFN0Zk01VVJnNGh4ZXJSVnBWMEl2bFJmcTMyU2JjeXc0T09uRFVBdGJUUV9aX1oyeENCU002TGJoTDR6b1RFeENYZk5udXNvcWxmekt3dnpld3ZDYmViUXFDRkZmbVp5TjM0ZFd4Sy0zOExoU1ZZTWFhRzY0elNqSHlxZ1k1Xzh4aFl5eU1SWG_SAdcBQVVfeXFMTXhaSmZpTGdVbFdpWlJoNkFPRXlXeVp1UWxtYkhSVFJWelZsblJHT05CWWxfSlRUbVh2QzhnOEFLNzJXMThrZk5CWXhrenpka1dqRFhKZENabTJCbTVqV05uN04yTDBmYV9iVXllYVZBRUNWSGJBWUQxSHRkR29yYlJwemxiZ1IyR0Y3NFgyWkE4a3JxeHNBMEw0Z0pMRFhjYUFVSkxmVGZONjlQREFBRVNzMEJqZ1NfQTVwbzNxelZ3bHFUeUMzRVZKUkRoMmd1VEFacnB5VE0?oc=5",
       "medio": "Caracol Radio",
       "fecha": "2026-11-24T21:39:22-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Colombia Mayor, Fondo Milagro y Air-e: así quedó la adición presupuestal de $ 3,8 billones que aprobó el Senado",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTXB0Y21SVjA2STBsZWpacXIydnJSQlN2SzYtU0IyTzFKTVJqS1lGOHdIXzhIal8zUVpLcG1FNHJGX25paEZXVTI3RVRMb01RamltSTNNbzJLWUs3N0xoWlJUN0R4MVNSQWpDZjVua2Z3R3g0OFU2Y202Y21sV2xKYnpIUEtpMl9uMmVxTm5ldEMwbHVGUFVnaF83QkZYOEhnVGhKYjNQS0dkanYtemgyTkQ5eGVGSlhrQ1FMLWlYTDBXbGRyVUpxYjRnOWZUcjBweG9RVkFiVE5lU0lEUm1henZqLXV0R0trM05lMUJPMNIB9AFBVV95cUxNWUJRQ3BsOU94TUZJQlZfV1J3a3R4NkdWWFFvWjM2aVotTWZ5S0RJR2Q2cXdCcHlubHBWUllxd3NPRlVYbHVoN2FOUkROUlpSbGkwSFh6aGZHS2RGdy04cGtwLW1sT0xkeE83Rld0aUMtbHZURUpvTUdiM3lLVlIyUGVYenlTcDUxdmFxQ2lEbllrcGVfZnJlR0JUSl9LQzJ1cWc1U0p0UXpLTG43akd4Y2VJajJYa1pmRlhMcENfVGprWFoxa3V0X085bW1IT05KRk9aajhJTUp1SEY2YkQ0eXZ1NUdDQ2s0MW9Md3A4dEh0V0hz?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-24T21:10:29-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Gobierno llevó la Ley de Rescate Económico a las bancadas Verde y Liberal y anunció que el recaudo extra de la DIAN irá al Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBoYng3NnVsZXpUOFZpMC1RWGpKams4SVZNdDlDaTVWWE44eFhLUXV0alQySjNFR2dYYkJlbi1nVnZkNUpIN3ZYNEN3N3ZMS3oxZHFzV015Rmo5aFllUXpiVDhjdVhVR1BLNUdBLTFDRzIyQURzUGhOR1BjX2FQY1ZWVjl1M2wzS2VVUjhpd09zc2s4WDdBMXp2SFFDNW9DTmZYb3BFWjBVZ19BVVpKd0Nmc2M?oc=5",
+      "medio": "IFM Noticias",
+      "fecha": "2026-11-24T14:57:48-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "» Reseña: Las Bases del Plan Nacional de Desarrollo 2026-2030 “Colombia, la Patria Milagro” y la Reforma Rural Integral del Acuerdo Final de Paz",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaEdFckU1b3g4T2QxM0lub0w1WFl1QlYzYVlHQllKX0QwYkJOUVpYMVJJcVh6OWtJVnp3ZnV0Wjk1cEtDdkxnSWcyb1B5U0lIejlNcnFlQk5JUU1FSndPLTg5NWZtVktTTUpiWjZneEo4Zm92bTdXdVdmTnFjMXdhaVVhV3RFZm9QWEF5U2U3R2F6U2VlQTVaSVFUNlN0NmtMc3lJajVPLUc2MmxhcWxjaFB2TXBPX09ISk92SlV6UWIzMkladWdpNUlfaUJmMnNpVndnS194dXF4ZlBsV0FIUnFkdW41cEpySXZIRHNHd1BVQUhwYTlmRU9RTVMxaWgxR19FR2RBd0ZWcDg?oc=5",
+      "medio": "Universidad Externado de Colombia",
+      "fecha": "2026-11-24T11:45:50-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -31,6 +119,14 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQXVOSkdqS0lnckV2ekxpUkFyV2kwVmFURWUxSEQzNXBCTElWWUJpenRmTXpta0NRLTFLbWdTdGgwb0xEbkNuOExoUGpULWhXVUxvX2ZXazU3S0NLQkk2cHpkSHk1QmV0bHAzMVN4VUsyZER0Ym9qVGtrcDk4VU1tYktzTUxlQ3ROb0M3aVJkUDFkMkxxWjdXMzN4OFltb2hBY20zUzdzYXBiTHVMaktKVDhLQ2F2N29Ob3dEWkppQzl6dlNRcExvcmhCSnpHT1hkQ280WEhsamUzYjN6cEZvZDZBYThXVVd4bWhmTm1OTUVORHNMTEhZVlZNbkhzZ3o3UEVVam1NbURLUmV40gGnAkFVX3lxTE1pT3lEQXBMSXBrZlI5RmZqeUpvWndtdUlZMEtXdXpRV0toallzUFpkSTJaOUJmZmh1QXZBZkhJUFh5T3g2Yk00Zm9FcmludVJxdmZBNnBGcG1kdmswRkZwM0dvYzlzY1JkcVhjSEVXWlkwU3ZJSnhXV00wcXNtdVY3ZVhDb3Z2YjRYRzM1NlZ1cGhXMDYzZ0xOT1ZsU1ZOdDV0b3cwZmQ3UHk4Z0hyUzUzZWdobnZ1X3AtVjFwM3BDc0tTWXpqV0tqV0JsUHI2eVNIdGlEbGZlY1d5LV8zemZqY19odTJZV2pnQUJnY3lUcEpWZXBNODR2RHpXU1hRaXl5RUJyY0xzVUdyQzVFSFhzWG9lcnQ2SWJFVVc4UzhPcElWT29zZDQ?oc=5",
       "medio": "Infobae",
       "fecha": "2026-11-24T08:28:48-05:00",
+      "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "El gasto público un escollo gigante para la Patria Milagro | El Libertario",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONzhZZDdQbks5VHFoMzlzcGlVSzZZZkJYb3J6aXFzU3ZCaEQ0VzBiSzhEZmk4bU9QY0FrVC1DRy1iZnhjNEJkNFNkU0VhQnFtajkteXFPUzctc2l2VDYxcl9TVUpPXzJzZng5QzViQUFsdXl4QW1TY0UtMUd5VXhfTVlYTVFidzhPYmFlbTM4TTYtd3h4TlBmbW9BRVVicm9YSFRnQTV4S2Z2OTh1cmJBS2FxdEZld3I3Ul8zQmkxSQ?oc=5",
+      "medio": "La Linterna Azul",
+      "fecha": "2026-11-24T00:15:46-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
     },
@@ -83,6 +179,14 @@
       "region": "Valle del Cauca"
     },
     {
+      "titulo": "Senador Alejandro Ocampo denunciará ante organismos de control supuestas anomalías en el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHlKVjJtX25aMWd6OVVjdlNNWm1OQ3FGX3h5WU8welpMRm5uUkNQX1dPQUNzb21kOUh5Mnp3S2ZEUzZQSjhiQVl5eTZRWGs2RnNzekFXdDVMV201aG1Lcms1RE1jdTZ6VUJsSWkxLXdpV1lpZWYwalNtQjJVTnlzeDJkMjBQRmhLd2FnT0tOSHVNaEhUNmdBTHV4TTFEOFlYWEw1QnBCc1pOdG9BMUpfX0dxeGk?oc=5",
+      "medio": "IFM Noticias",
+      "fecha": "2026-11-23T10:08:48-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
       "titulo": "Este martes senado definirá modificación del presupuesto 2026, se destinarán $2.7 billones al Fondo Milagro",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3dCOC1zYkM2WGtVYzYtcHQtMWRTR3pmUHJMenQtd21hZVZxQ1FNcUI2R04tdTAzaFVBUTcwT0RDd0owT3VpSDBmNU82QjB4YW8tcndCbUZkTlZHcEJEWDViQ1NoREk0cmNBVGdpdEpZNUk3R1lPc2MzREQyWjg4MkhrZmhfS3JHTE9hRE1keVdtaC15YklqSEotUWE4MXBZeUoxWWpXUzg3VU5tZWh3WXdudkRLeGNpTHY3bGM0OWYyTFFkQnkwaXMtZy1vV29NbGhMYmppOEpyeTQ2X2Q2Y3VB?oc=5",
       "medio": "Alternativa Caribe",
@@ -96,6 +200,14 @@
       "medio": "El Tiempo",
       "fecha": "2026-11-23T08:32:38-05:00",
       "tipo": "anuncio",
+      "region": "Nacional"
+    },
+    {
+      "titulo": "Vicepresidente del Senado denuncia presunta corrupción y carrusel de contratación en el Fondo Milagro",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUV2a2RhRUJDVlpmcHhzNnl2ZGRheUlWcU8yNVRqMFhNbTV0cUU3MDFrTldxcmh3bVM1cVlvaUJkMVhnZ3hlcnBTN1pKQ0hudDdKaG8ySmRUNUdfbGlFQ0V1aVRBZjFybVdKbnB2TVp5YmpRakc2TGtGTGIxS3VDVldrM2x6OVJUQm5iNnNqd19yYzlEOE9OSk01RnN1azhEYnY4ZUFjOUVOQk9lV0I3RTAxQkROSGxoRWdvTXpn?oc=5",
+      "medio": "Ecos del Combeima",
+      "fecha": "2026-11-23T07:44:55-05:00",
+      "tipo": "critica",
       "region": "Nacional"
     },
     {
@@ -121,6 +233,14 @@
       "fecha": "2026-11-22T16:48:01-05:00",
       "tipo": "anuncio",
       "region": "Nacional"
+    },
+    {
+      "titulo": "Gerente del Fondo Milagro, Luis Felipe Henao, donará todo su salario a la reconstrucción de Risaralda",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWNaTGdJc1VGQWoyV2w5aG9BaDluYkg1RkU2V1V4bDc2R25yaGZyOFJNemljeDVsbm13Z0JYeVoxYTlRSWNaUlhtUWpzS0o2ajlPM1NMS2gtNlg2bm9BMmN5V09RWGxIdlM5Y1ZOc2dadm5iRVoyenc4RjlzMkkxS2pHMDhSVmxhMWZBemp0S1J4V2huTE4wSXBJejRic294d2xNbTJrclN4eHdPM3lmeDk2Y0Q?oc=5",
+      "medio": "IFM Noticias",
+      "fecha": "2026-11-22T13:14:00-05:00",
+      "tipo": "anuncio",
+      "region": "Risaralda"
     },
     {
       "titulo": "Fondo Milagro abrió la puerta a la empresa privada: Henao se reunió con RedPRO y la Fundación Santo Domingo para la reconstrucción",
@@ -313,6 +433,14 @@
       "fecha": "2026-11-20T18:02:57-05:00",
       "tipo": "anuncio",
       "region": "Risaralda"
+    },
+    {
+      "titulo": "Ruta Milagro llegará a Mercado Libre: Gobierno abrió convocatoria para hasta 12.000 negocios y presentó a 'Don Luis' como su primer caso",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFAzN04yNzBtVUVaUXMzQ05kMmJJb3p3VXJ1Z3RBQUFKX3VNYVBMU3NVV2Z0MUkzU0o5bnBMNE5teDJkZ0twSVJSWHlTNUt3Y1FzLUVNNzY5QXdFVldnbng3WUJpLWdDNlZfa0FMTHBOc2d5S0VEUXdtTUdtdV9NQ3ZBQTY3Yll1SjNCRHZtdl9EMFNkWlhodUZRcmF3MllKTVVxN2tPb0RncThIQXVYcmt6SW4?oc=5",
+      "medio": "IFM Noticias",
+      "fecha": "2026-11-20T17:59:57-05:00",
+      "tipo": "entrega",
+      "region": "Nacional"
     },
     {
       "titulo": "Fondo Milagro dio fechas para entregar las primeras 280 viviendas en Pereira y nuevas acciones para la recuperación del terremoto",
@@ -1971,6 +2099,14 @@
       "region": "Nacional"
     },
     {
+      "titulo": "Renunció gerente del Fondo Milagro en medio de polémica por millonarios salarios de sus funcionarios",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjZjNTNzY041b1B5QS1CWlFBUUhsNEk4TTdXM1V1MllDLVpXQjlLRXZXNkR5Zmg5T2tUNVFQNTVQSjNfNXhOZWFqSEVmU2s3NlBjYWVpNENfUW1nNWVTMExEci1qXzNyakd2Q1owQjU2S2J4NWFxVDlNQ2liSW9rSXRqZUN3N1hEQ1doamR4SmN4Mnotdlo3UFZEbF9LREdsMUJUQkt1R1YtMm9TeG5Kc0NnOTVaZFRid3V6NQ?oc=5",
+      "medio": "Ecos del Combeima",
+      "fecha": "2026-11-13T03:00:00-05:00",
+      "tipo": "critica",
+      "region": "Nacional"
+    },
+    {
       "titulo": "Polémica por los millonarios salarios del Fondo Milagro mientras los damnificados siguen esperando",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2M4VXBSWVRNNDh2TV85RWR1NUZ4bnpveXJSNGxSbFIydEUxRkJpWF8tM2N3M29WNzdrdW42OFJwejFVdnAweXFrOHpsRzJMWUhHX1BSemR5cUZsQk9DSVpYTlh4czBLNWtyWXVRa1BBYkpCZ1V3OHBEZlJITW9BQnNUY3dfMXV5MGM0RXFHN0k0bkg4SlN2dGtlQ1JoRzJlcUVqSnJRWENLb3AwNHhhWXNCbERvd19mODNuY1EwOERLSnkyTDFqY1BINA?oc=5",
       "medio": "El Cronista",
@@ -3064,142 +3200,6 @@
       "medio": "Las2orillas",
       "fecha": "2026-11-09T10:34:13-05:00",
       "tipo": "avance",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Presidencia rindió cuentas del Fondo Patria Milagro a tres meses del terremoto",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYl9WNmN6cjlOUElxd0cwYnZzR2d4TjdUY0dWN1FJZGJNVkZON2diU0h5WDNKSldLY2Jydk04RXpUWGZ2ajFUM3BHdHBCTVd4amxwUkdMaUhqX0RjVEgtUVViRVBReFJhTWRJbjBoX1prWGhDTldFYkdYbzN3ZFlMdjQwbkR2OWtxbDZxQTdpRXBhYlVhSFhSblQ3cXROQVQ2eHR1NU5zZVo0N3k4dy0xVlNXTkw?oc=5",
-      "medio": "IFM Noticias",
-      "fecha": "2026-11-09T10:00:04-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "El Milagro de las Regiones archivos",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51YUlLTnFmbjZmV2txaTlsYmpxTTFDMlNod2xacExSWE5ndVJwOFVReGg1WmJWalZackpsSVZhV21JVWtnNldwZWNvY3diRk45SGFsSFc2WEZGTFViOFdHMHJQbVg1RXZHaVE?oc=5",
-      "medio": "Boyacá 7 Días",
-      "fecha": "2026-11-09T09:30:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Patria Milagro propone reglamentación para proteger a las abejas nativas y dinamizar la economía",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3lWM1Ffc0FIRFdzakk2ZHp1aXBtcUdxWjBoWWNvMEtncjEtRjVnTkVCNTVVblVBbkNodl9ZWUVjbld0d2tCWTJ3b1RfcjVvVUtCcFRWSU5INXpyMmNzWGM5NU40ZWNPaV96OXlIb1FsakYtQ0YxcURra19PamJHSHAxU3pqaUpCUm9lVHdZQmozX0hRUzFoWVoxNHhSS0RPc2oxRjNrQQ?oc=5",
-      "medio": "Ministerio de Ambiente y Desarrollo Sostenible",
-      "fecha": "2026-11-09T08:07:46-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "¿Quién maneja la plata de los damnificados? Gobierno revela las cuentas del Fondo Milagro y explica qué pasará con los billones",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUlU5eldZWk1OaFdDc2lFVXhVUGpOQzhDellvNTJibEZtYU5GM3FWQ1RoVDJYSUJFZlBiQjNZX293TkVWcXc4YW9XV3pNSkdiSVJRWWVhVDlXR0JjZzFTWFh2OS1fX3FZWVFJY3AwZy1RZ1JNTGk1QTZSVmpwdXRNbUQ4M3dOT0Q3Q1NjQ080V29LeXBGbnJza1dUZWROM05UQzUxdVBDcE9FOTJCS1ZOQ1p1NkE2S083bllqUDNTakd2amMwZDc3RkpuTDR6NmxkcTFMT21BQV9HazFrSzZza1M1bk1WVlZtVzV4bUw3dHF0ck5rSEE?oc=5",
-      "medio": "El Diario - Noticias Pereira, Colombia y el Mundo",
-      "fecha": "2026-11-09T08:02:11-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Cartagena inauguró los primeros dos kilómetros del Gran Malecón del Mar: así quedó la nueva obra frente al Caribe",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORzBrNkRnRGxNVHdHSENXLTV5UHRMU3MxUklzaldMaG9ZZTJ6OG9UYktiUWY4aDVGV2JyMHZHVHR5NmR5ZXpmSnQyZmRrMmdiMzNsMlBmVk9ENmViQ3RyQlBUcEdpc1pWTVVTejF1b2VoRXJoY0l5NlliYl9OZ3p6WHNiUDlPeEQ1Z3NxdUJtVVRoMGoxaVJpNElzVlk1aE8wdWFXUVNCcmY5Vmp6SE5HMUYyUnd2Q3ZmbjFsd05NVlJxWm5KWjBXZ2lsaFJpU1RyVG9Ka1ZCb0dQVjFYZ01F?oc=5",
-      "medio": "PrimerTiempo.CO",
-      "fecha": "2026-11-09T03:00:00-05:00",
-      "tipo": "entrega",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "El Gran Malecón del Mar ya tiene nuevos protagonistas: el salto se tomó Cartagena en su primer amanecer",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQTVkTXBPZERwNUgyZGFpQi05ZEdSOERhQ3hsY29sbmdENTgzbnVBSFI4OWQtZFpkQi1CQ2FUSDVxMVlIQ19xR2QtOGt5dHF5bXVweUpuOGVTV1dwZTU2REFwVmRKODJiOEg2cjhQel9XOG85dGhjRzlnQU5oTmd4WlZHN1Vlbm52eHEyTVRhWVZ3eEFkbVRiUVZ5MVZOeTJOXzBoTmktQV8zY3hpNzlmV3dnTW9XLW1MbVRuVXU2S1dwRkdmWTJib1FmOE0wbG12RkE?oc=5",
-      "medio": "PrimerTiempo.CO",
-      "fecha": "2026-11-09T03:00:00-05:00",
-      "tipo": "anuncio",
-      "region": "Bolívar"
-    },
-    {
-      "titulo": "VIDEO | Protagonistas de la Patria Milagro: Iván Cancino González, Ministro de Justicia y del Derecho",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY2pHY0hJb203b3RGSlBkZmFpdHBmVml1eXUxYlZUblpGbVp6TDE0OWcwWlhDRHBlT19ieDhhbXVpa3NzVG4yUm1wN0ZtMkZaX09NMW40VmRQTm00UFNSUXVnX1g4LTNwSVNacEhfVVFQQXMyeEtRWUh5NTZuc1FCbWhDNTBxQXR6WkkxYmFtMUhBcVNmbjBvS0ZpbnJTT0JNRDEwTVpCaC1sbkxRUjhwNzduX2ZZdWVPYzVzOHIzQmdPbEFEQWRaWHVMbkhuZFRQcFJqRTdB?oc=5",
-      "medio": "boyacadigital.com",
-      "fecha": "2026-11-09T00:07:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Las polémicas cuentas del Fondo Milagro: Gobierno revela quién maneja los billones destinados a los damnificados",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0RrelFUdFdFeDZwNUdBTHdVbHo2LWtvai0tVG1NRWk3cVo4SjA2RlVCNmM1cEVnX0lBODM4aXg3M0VXa2d4a1h2aUZiUF9DUnRuVFBNcmJaS0ktcFpzS090NFc0eWl0MjVzTjgzdzY4eVZTWEZZT2ZPaVJucmdtQXAyMlhuRkI2V29mc3hvS2swWFhYaFE3Z00xR21LYWN3NkdRVFRWWDFMRVpaZlJ4RE04QkVDQlpadVhmMFNtMjBjSk9QWF9JYW10WjY0Y3FIemdkQzItVTV3eVFSLVdHYlI4V1Q1VTc5ZWFRX9IBhwJBVV95cUxQZjBnbVozUGxWb0xGRE9IMjgzMjlZVDQ4ZlF4WDZXcFB2N2NfUV9MUDVsX1hVeXl3V2FDdFhUZm1mNGg1a2ZtOWZaTkFlR0tUU0o0SVBwU20ydk9JOVBTVlF5UVhhV25JS3JhRnNKNGd2X1VFX3NkWkk4VFV3b3VCeXJudnBuSkEzTDNTXzNvT0F1T2JnRHJfSFJoT1BMVG4zQ0s2MENNOE80Yi1mQ2pTUTVYeS01bUE2QjJNeXpfR2drZ1ZuUHIyRzRFcmxNMEJoR2g0eVRhTkpkdU1nUUhvek80SnRrWlh5dTItTnJFZl92QllsZ1FSUUg1eVVjUDZPSVUtWHhabw?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-08T21:08:00-05:00",
-      "tipo": "critica",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Cuentas del Fondo Milagro: Miller Soto habló de las inversiones",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR3NJNU44M241blNfOHpjUjdZc0dZcW9hc0RZcmc1YmhXSHFNZEQxMzBRejJfa3BxSUZOVzBBTkE3eG9Pd1VWTHZrUXJiOU1EODdTWE9hUWZia3BCSk0xSTVuTkRTS0dqbWJMRDRVRXhXclpuZEtFelYtOVRjeVBTOUJEUTJscUtIbHc2ZllKRWJZcGExU05tZ0ZfQ1RncVRLNGhLYlA1OHNBS0ZkMURySA?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-11-08T20:54:00-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Fondo Milagro: Gobierno De La Espriella rinde cuentas tras sismo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVJ2SEd5Skk0YlZNUHNfRlc3eF9seUR0UGxYYjlMMGdaSWFLZmxQNFNxU2VrNGZDOU9fc3F0c0ZiSTcyWFY5WW13cUVLTU95UlNvY2F1ZWVDMnB2S0JhVUtQWVQzbjBOMEx2bDc2NGxTYVo2SjRCV3VTU3J4OE5ZYmtmS1NHQnhUQ2Z5dDJQVVpQUjg?oc=5",
-      "medio": "Estrella Digital Colombia",
-      "fecha": "2026-11-08T19:56:03-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "A tres meses del terremoto, gobierno De La Espriella rinde cuentas del Fondo Milagro: vivienda, apoyos económicos y demolición, entre las prioridades",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONGlKVHgwaEwwUlZhNHhEX25PdnZ3dE83eGVBXzFlNHRXa1hRdVhjMnE4bUtEWWp6Ykw0MkUtNHRIbmxTei1qdUpCZEVyOWdRc3RtcTNFam9oUDlxU21EbEtPVmVpbU1pZDhvb3VJOVRPc1NNajJNS1A4eU9pTEloMVVnZUFPRUVlOWxsZGZoSWY5NjNBeW5VNjVBdzNsdnYwTHlYOFFJUEtBV21DZzM2eHBEY3B6ZUJBNXhLeWJKUXd1dS11QzRXSHpkUGp5WUpZNG9CNVl0UElRdjdJaTM0azEtR0cwcWpkV0VhaDVrYVBJOERYeXZUSjltZndUQmd4clpwQTIyVk9hY1FrdjN4bFhwV253WEdIYk9iWmtmOHVqQdIBpwJBVV95cUxOd3FQTWFuWUNubzlhdjNGTVpSRWxDdXp1NHRuVlVJd1lQeWdHb25EZGREM0cwU2o3NXNQRGpBaWZrNDZ6SGxCXzNTVWVmX19QMHUxRXJTeXhrNnc2UzNYTUZaLTJGZmlObkw0Q09oTGJ5NWlkMG02T1RxUElqcjg0QjV3OU8teG5jNUpHWl94aS1YeGV3dDZ2T2JuazFqdmp1ZVN6OXAtSzA2aEFtSXExNHBwRE5DdVR3VTZ3MndaaWtfUHNaNkhueExzcWxIdlN6OGhqUUlKOGdQb0xXX1NEUWNpc0dSaEEzQ3NBNmRXVTdyQm1HWGFEVFN4QzI3M3JxMVFiSFJxRjJnWkthdnVnV0phb2doVVlEVzRrV3hGejZHVWtSeF9n?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-11-08T19:56:03-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "La pasión que une a De la Espriella con su gerente del Fondo Milagro: producir ron de lujo",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXNTUUxOd0VlbFE1WXkwd0NwLVNLTFEyV3FZSVRHWENpUnhIVko1c2M1X21IOHd4ZGIyc25UMUI5UzNhM3dnd2NqR2NfUmoyWWU0MmRKX3huZU9SYmNEdUdIamxZdE9nelZYc1RsNlFwSndQZHViX0ZlWWd3cThxRDU3clVBQnN5M1V6aHZOdUtDeTZvcUFKMmJPVVB4NXpPOWs1ZTRFSWFjQjJaXzlfd3ZGRVdpU1dN?oc=5",
-      "medio": "Las2orillas",
-      "fecha": "2026-11-08T17:54:51-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "“Bienvenido a la patria milagro”: detalles detrás de la estrategia viral en redes de De la Espriella | El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY3p4dVhJZXJTeTUwb3FWUzFYZWhxVFM0bmN1M2NYeGtOaGZ4bGdHWE9GUjhVWkl1bGxjMG9GQ3hjM3VaMWswRVo5Y0RuR2EyQWtCbjByUWQ3WDE2SWp3Wlo3MHZnMGFBNUJOMnhiYzhkZ3ZKSzhPTWVSQWpOU2V1aF9xVWNnay1kaWRqQi1QSWYzeTduamY4Um1oV2Z3TDFHLTlsX25qR3VWZXh4Y0J5MXR1a1c4UDNPeHlpT2lvaGtmZWhVUU5oeEhQMENXSW1yNUlkQtIB1AFBVV95cUxOY3p4dVhJZXJTeTUwb3FWUzFYZWhxVFM0bmN1M2NYeGtOaGZ4bGdHWE9GUjhVWkl1bGxjMG9GQ3hjM3VaMWswRVo5Y0RuR2EyQWtCbjByUWQ3WDE2SWp3Wlo3MHZnMGFBNUJOMnhiYzhkZ3ZKSzhPTWVSQWpOU2V1aF9xVWNnay1kaWRqQi1QSWYzeTduamY4Um1oV2Z3TDFHLTlsX25qR3VWZXh4Y0J5MXR1a1c4UDNPeHlpT2lvaGtmZWhVUU5oeEhQMENXSW1yNUlkQg?oc=5",
-      "medio": "El Colombiano",
-      "fecha": "2026-11-08T06:20:18-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Colombia Â¿Fondo Milagro o contratadero?",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrTjlKSXVWXzB5OEVJZ3NzWllZY1ZIUEVtRVNMLVZkSHZjVHAxZ2Y4aUJmYkd3TFQzdERYTkpJdW91VjY0WURUNjZFemw5SEJ2NndjZThFcDBJZUQwcHRwakdn0gFnQVVfeXFMTlVkdTNjZlZTbVpUMGUyZ1lxcjZrdVdJM045RHV5bTFWMDJfdE5hZ1lkeW05c3NfMzJvMUhVWTJHUG1HdHhVbFRUMkhhTlNwU2VSSE4yUE9PcG1tOS03aHV6R0xIVXVISQ?oc=5",
-      "medio": "Aporrea",
-      "fecha": "2026-11-07T15:25:54-05:00",
-      "tipo": "avance",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "¡El Gobierno de la Patria Milagro sigue reactivando las regiones! Puente sobre Caño Negro abre oficialmente para conexión estratégica entre Arauca y Boyacá",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWmZJWFRGU0oxbmR4WjVrQkJSa3BZWXJuZTg4NTA3MURqdVBqMGxDYXg1VHZYbXVHRG5zVWNMalNsZHd4M0lScHpjTnF0SkFWUXd3WW5oSmpHZEFYcElSTE5MMWJYLUVPLS1NMHluaUhjczYwUnBTd0I1cWpXQTI3ekZEdzRRcWZDRW5pSlhYYzBjOW9pR0QxWDJweEJIQWZnMmZRanY3ejZhMk9pMGN4VXFUTmtqcDhLcm9aMnQxeG1Zam54cFdzazVIRWdsSXZzeDFGMEtUS0d2VGNqOGstWUZwRGVKdlJDSV82bDZXLU4wNmdIWTc1Tkk5SklnU05RWWRGeHJuZ0JUTThQcVNDT1c1d0xYRDFaeFFPcS1sUDgybFdPbnc?oc=5",
-      "medio": "www.invias.gov.co",
-      "fecha": "2026-11-07T00:00:00-05:00",
-      "tipo": "anuncio",
-      "region": "Arauca"
-    },
-    {
-      "titulo": "Adición al Presupuesto 2026: la posible asignación para el Fondo Milagro y lo que le correspondería a Air-e",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaGx3TlhhNjEtTHFyX1lKSmV3YUJMZEFXVFVpU3Z1dlFHUkNkZDd2TF84ME9MVjZRd3oyQWVBc21OQVA5SnNmS1h2Vk80bVpXU2xEZFcyZEs5eHVLZjlsdkZMcEQySGxWd2RaRFdZME9CbmtpeGFaTGJPY2s1elFwUjVQajY3N1JtNXRCbHRvS1lqLTU1N3lmZ21rU0JQc0g1ZWhnaFNsdWJMbm9qYmpNZTNJdG8wSmhpaElsR1hlXy1Oai00Z3d3Y1JlalZJS3lxazRJN1lpalF2bUwtMTJHbjNNNGNaYTV2Ukd1RnVR0gHzAUFVX3lxTFBpeXVidU5pcUwyV2hDNXE4WHdUR0hydGRlUVpBLVU3d2JoMWk5VGNpUngxT1ZVY0NzYlY3LVM3UkNGWUhpTVltbFJac2JSbElPQ25aZkNKTC02R2daTVY4aDhiRnR5VHRvaS1hQmxFbXFfOHlLSmpUSEE5MkpyZnE5bTlsVkdIZ1dEQTNOcmk4aFI1eV82LUtrOFk0anZvQVNaOXNtRGZSOHRzQVlFSzlUa3k2aXJGR0NUSElfbDhGX2FuU3QwY0lNd3dEYWM4RE9WbWlwdU5Vd2JKQU0ybnZ4dTA0TldweUxfdWh6QlRHVGUyMA?oc=5",
-      "medio": "Portafolio.co",
-      "fecha": "2026-11-06T16:47:20-05:00",
-      "tipo": "anuncio",
-      "region": "Nacional"
-    },
-    {
-      "titulo": "Gran Malecón del Mar genera 489 empleos y proyecta oportunidades para más de 600 actores de playa",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSVpKeFg4aHFEVVVEek8wX0paT3N4aUFLS0p0ZEx0d0lzaUhnQzRSNFNfWGZadlNRUTRkYzdvblZDdEhNRmZjb2p2cTFjTzhsMlNIM19LRzdMM185WkxILTlLWE03ejBrbDVudTZ1cUZBQVA3REFJQ1lJWHduOTlQLXJPTkxNM1ZqYmV1UzhNLWRaQ2ZUZmtGcE82NElrMWtUSXdzU2ZaYXhuYXFURWwtcGpTU3EtVmxjMUNHck1iVXdMdFYzZDJmcEpocw?oc=5",
-      "medio": "PrimerTiempo.CO",
-      "fecha": "2026-11-06T10:08:18-05:00",
-      "tipo": "anuncio",
       "region": "Nacional"
     }
   ]
