@@ -32,6 +32,6 @@ jobs:
           git config user.name "robot-milagros"
           git config user.email "robot-milagros@users.noreply.github.com"
           git add data/noticias.json
-          git commit -m "Robot: noticias de milagros $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
+          git commit -m "[skip netlify] Robot: noticias de milagros $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
           git pull --rebase
           git push
